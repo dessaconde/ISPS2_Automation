@@ -23,7 +23,7 @@ import internal.GlobalVariable as GlobalVariable
  * ===============================================================*
  */
 'Login from ISPS2.'
-WebUI.callTestCase(findTestCase('Components/LoginV2.0'), [('LinkToBeUsed') : findTestData('Datatable').getValue('URL', 2)
+WebUI.callTestCase(findTestCase('null'), [('LinkToBeUsed') : findTestData('Datatable').getValue('URL', 2)
         , ('LoginPageTextToBeVerified') : 'Sign in to ISPS2-SG-UAT', ('Username') : 'sysadmin', ('Password') : '8SQVv/p9jVScEs4/2CZsLw=='], 
     FailureHandling.STOP_ON_FAILURE)
 

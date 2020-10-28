@@ -10,7 +10,7 @@
       <description></description>
       <id>2627753e-6ecf-460a-8207-850036de115d</id>
       <masked>false</masked>
-      <name>URL</name>
+      <name>LinkToBeUsed</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
