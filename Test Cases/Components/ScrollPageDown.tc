@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScrollPageDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d25720f2-2d23-4e23-bd15-67c06cc72ef3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ca839b3-9c94-45ef-b74a-3b454feb4b1e</id>
+      <masked>false</masked>
+      <name>textToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57cf99ce-13db-43b0-a7c8-fbdc10768481</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+</TestCaseEntity>

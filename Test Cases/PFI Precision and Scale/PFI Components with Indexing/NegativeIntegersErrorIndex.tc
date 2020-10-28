@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NegativeIntegersErrorIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fbe3e02-e8fd-4fa1-a94b-3d298113ef88</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da38b456-6567-487f-baf3-010a9b9d304f</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>dc286f04-2d50-4961-8e0b-5efdee970361</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e97786d9-9bc8-43fb-a442-1056f1a14b76</id>
+      <masked>false</masked>
+      <name>itr</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Process Permit Application" time="69.448" tests="1" failures="0" errors="1">
+   <testsuite name="Process Permit Application" tests="1" failures="0" errors="1" time="69.448" timestamp="2020-06-26 01:54:26" hostname="19023-RAC - 192.168.16.39" id="Test Suites/JIRA Automated Regression Suites (JARS)/BE/Process Permit Application">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\19023-RAC\\Desktop\\New Automation Copy\\Reports\\20200626_015420\\JIRA Automated Regression Suites (JARS)\\BE\\Process Permit Application\\20200626_015420"/>
+         <property name="logFiles" value="C:\\Users\\19023-RAC\\Desktop\\New Automation Copy\\Reports\\20200626_015420\\JIRA Automated Regression Suites (JARS)\\BE\\Process Permit Application\\20200626_015420\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="19023-RAC - 192.168.16.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 83.0.4103.116"/>
+         <property name="hostAddress" value="192.168.16.39"/>
+         <property name="sessionId" value="1e57ceada17b25e61385970a764c4220"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001" time="68.107" classname="Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001" status="ERROR">
+         <error type="ERROR" message="Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+"/>
+         <system-out><![CDATA[2020-06-26 01:54:27 - [TEST_CASE][ERROR] - Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001: Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+
+
+2020-06-26 01:54:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("Datatable").getValue("URL", 2), "LoginPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 2), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-06-26 01:54:27 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-06-26 01:54:27 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://192.168.190.37:3012/isps2-mig/authnz/login.do'
+
+2020-06-26 01:54:27 - [MESSAGE][INFO] - Starting 'Edge' driver
+
+2020-06-26 01:54:29 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-06-26 01:54:43 - [MESSAGE][PASSED] - Browser is opened with url: 'http://192.168.190.37:3012/isps2-mig/authnz/login.do'
+
+2020-06-26 01:54:43 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-06-26 01:54:45 - [MESSAGE][PASSED] - Current window maximized
+
+2020-06-26 01:54:45 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-06-26 01:54:45 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-06-26 01:54:45 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-06-26 01:54:45 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-06-26 01:54:45 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-06-26 01:54:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-06-26 01:54:45 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-06-26 01:54:45 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-06-26 01:54:45 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-06-26 01:54:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-06-26 01:54:45 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-06-26 01:54:45 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-26 01:54:45 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-06-26 01:54:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-06-26 01:54:49 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-06-26 01:54:49 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToHomepageHeaders: Test Cases/Components/NavigateToHomepageHeaders
+
+2020-06-26 01:54:49 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-26 01:54:50 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-06-26 01:54:52 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-26 01:54:52 - [TEST_STEP][PASSED] - modifiedHeader = modifyObjectProperty(findTestObject("Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header"), "text", "equals", headerText, true): Modify property of object successfully
+
+2020-06-26 01:54:52 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-26 01:54:52 - [TEST_STEP][PASSED] - verifyElementClickable(modifiedHeader): Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-06-26 01:54:52 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-06-26 01:54:52 - [TEST_STEP][PASSED] - click(modifiedHeader): Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-06-26 01:54:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-06-26 01:54:52 - [TEST_STEP][PASSED] - Thread.sleep(7000): null
+
+2020-06-26 01:54:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-06-26 01:54:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Permit Application"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-06-26 01:54:59 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-06-26 01:55:00 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-26 01:55:05 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-06-26 01:55:05 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-26 01:55:05 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-06-26 01:55:12 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-06-26 01:55:12 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-06-26 01:55:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-06-26 01:55:12 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:13 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:13 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-06-26 01:55:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-06-26 01:55:13 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:13 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:13 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Process Permit Application' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-26 01:55:14 - [MESSAGE][PASSED] - Text 'Process Permit Application' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-26 01:55:14 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-06-26 01:55:15 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-26 01:55:15 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-26 01:55:15 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:16 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:16 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-06-26 01:55:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-06-26 01:55:16 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-06-26 01:55:16 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-06-26 01:55:16 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-06-26 01:55:16 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-06-26 01:55:16 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-26 01:55:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-06-26 01:55:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":caseType, "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-06-26 01:55:21 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-06-26 01:55:21 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-26 01:55:22 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-06-26 01:55:22 - [TEST_STEP][PASSED] - println(index): null
+
+2020-06-26 01:55:22 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-06-26 01:55:22 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-26 01:55:22 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-26 01:55:27 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:28 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-26 01:55:28 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-06-26 01:55:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-06-26 01:55:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-06-26 01:55:28 - [TEST_STEP][FAILED] - callTestCase(findTestCase("Components/GetSubmissionNo"), [:], STOP_ON_FAILURE): Unable to call Test Case 'Test Cases/Components/GetSubmissionNo' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+)
+
+2020-06-26 01:55:28 - [TEST_CASE][ERROR] - Test Cases/Components/GetSubmissionNo: Test Cases/Components/GetSubmissionNo FAILED.
+Reason:
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+
+
+2020-06-26 01:55:28 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-06-26 01:55:31 - [TEST_STEP][PASSED] - ModifiedSubmNo = modifyObjectProperty(findTestObject("Objects.ReusableObjects/LabelXPathField"), "xpath", "equals", "//*[contains(@class,'app-h1-small')]", true): Modify property of object successfully
+
+2020-06-26 01:55:31 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-26 01:55:31 - [TEST_STEP][PASSED] - GetText = getText(ModifiedSubmNo): Text of object 'Object Repository/Objects.ReusableObjects/LabelXPathField' is: ''
+
+2020-06-26 01:55:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.ReusableObjects/LabelXPathField' is: ''
+
+2020-06-26 01:55:35 - [TEST_STEP][PASSED] - GetCaseRefNo = GetText.split(":")[2]: null
+
+2020-06-26 01:55:35 - [MESSAGE][FAILED] - Unable to call Test Case 'Test Cases/Components/GetSubmissionNo' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+)]]></system-out>
+         <system-err><![CDATA[2020-06-26 01:54:27 - [TEST_CASE][ERROR] - Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001: Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-06-26 01:54:26 - [TEST_SUITE][ERROR] - Process Permit Application: Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[2020-06-26 01:54:26 - [TEST_SUITE][ERROR] - Process Permit Application: Test Cases/Jira/BE/Process Permit Application/BCAISPS-14775/BCAISPS-14775.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/GetSubmissionNo' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14775.TCID001.run(BCAISPS-14775.TCID001:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1593107664830.run(TempTestSuite1593107664830.groovy:36)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 2
+	at GetSubmissionNo.run(GetSubmissionNo:25)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

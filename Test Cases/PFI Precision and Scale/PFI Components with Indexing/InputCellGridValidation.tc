@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InputCellGridValidation</name>
+   <tag></tag>
+   <comment>Modify Input field property/attribute</comment>
+   <testCaseGuid>142721ce-46c7-4a85-8965-4a01d80680aa</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>483e627c-09e4-4cb1-86a9-be5c276df153</id>
+      <masked>false</masked>
+      <name>LenChar</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateRevokePermit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b6a1bdb-ef78-4da8-9838-050c62e25c1d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1f927ba9-4079-4c64-b188-a3d85bba74ac</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>bce2c676-5508-499f-b210-0ea6d6e17105</id>
+      <masked>false</masked>
+      <name>ESSExpiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>24baf2b4-5c76-45fe-8349-a8e2f17e4ba6</id>
+      <masked>false</masked>
+      <name>ESSComment</name>
+   </variable>
+</TestCaseEntity>

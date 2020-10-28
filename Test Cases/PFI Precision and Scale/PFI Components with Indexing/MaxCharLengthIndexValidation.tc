@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaxCharLengthIndexValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ee4b4b3-b461-47c8-9149-3b7be69a8720</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ed8c8ea-f180-4e00-a8f7-b9750f024fb8</id>
+      <masked>false</masked>
+      <name>FieldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a8b0b8e0-f70f-45f7-b1cd-8376d0734964</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>75dc154f-d528-4dd5-932e-051a714eb637</id>
+      <masked>false</masked>
+      <name>MaxCharLen</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateLot</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec315e86-7127-44f9-b27a-b59314b63fb7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Datatable').getValue('MkTs', 1)</defaultValue>
+      <description></description>
+      <id>a5600ff5-56c2-4f64-9854-34a879e213bd</id>
+      <masked>false</masked>
+      <name>MkTs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Datatable').getValue('LotNo', 1)</defaultValue>
+      <description></description>
+      <id>d7c5b7db-86f1-4ead-a273-d85f7ad540a2</id>
+      <masked>false</masked>
+      <name>LotNo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Datatable').getValue('IsPartialLot', 1)</defaultValue>
+      <description></description>
+      <id>bf2c6082-ad51-427a-ba95-303967589823</id>
+      <masked>false</masked>
+      <name>IsPartialLot</name>
+   </variable>
+</TestCaseEntity>

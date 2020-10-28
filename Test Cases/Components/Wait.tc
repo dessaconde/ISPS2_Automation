@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wait</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15560e8b-1535-486e-b73f-61edb9e65d53</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>55d8a65a-c8e8-499a-89ac-e3210b860788</id>
+      <masked>false</masked>
+      <name>secondsToWait</name>
+   </variable>
+</TestCaseEntity>

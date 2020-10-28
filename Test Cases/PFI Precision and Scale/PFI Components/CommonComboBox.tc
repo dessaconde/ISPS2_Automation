@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CommonComboBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5b88d4d-09de-433e-927a-67ed43e86122</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c42dded6-cff8-4c6f-9df6-7fd896cd3914</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdca0edc-f2c3-46f2-88c4-fff1d4ac8f99</id>
+      <masked>false</masked>
+      <name>NoOfOpt</name>
+   </variable>
+</TestCaseEntity>

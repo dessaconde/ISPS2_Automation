@@ -1,0 +1,13 @@
+Search Value: FI Registration Number *: Found Value: 1={MainForm=FI Registration Number *:}Thu Jul 30 17:43:47 SGT 2020
+Search Value: Name of Facade Inspector: Found Value: 2={MainForm=Name of Facade Inspector:}Thu Jul 30 17:44:04 SGT 2020
+Search Value: Handphone No: Found Value: 3={MainForm=Handphone No:}Thu Jul 30 17:44:09 SGT 2020
+Search Value: Type of Building: Found Value: 4={MainForm=Type of Building:}Thu Jul 30 17:44:13 SGT 2020
+Search Value: Building Facade Condition: Found Value: 5={MainForm=Building Facade Condition:}Thu Jul 30 17:44:18 SGT 2020
+Search Value: Safe Found Value: 6={MainForm=Safe}Thu Jul 30 18:14:25 SGT 2020
+Search Value: Unsafe Found Value: 7={MainForm=Unsafe}Thu Jul 30 18:14:43 SGT 2020
+Search Value: Require Repair Found Value: 8={MainForm=Require Repair}Thu Jul 30 18:14:48 SGT 2020
+Search Value: Require Full Facade Investigation Found Value: 9={MainForm=Require Full Facade Investigation}Thu Jul 30 18:14:52 SGT 2020
+Search Value: Safe Found Value: 6={MainForm=Safe}Mon Aug 03 13:13:31 SGT 2020
+Search Value: Unsafe Found Value: 7={MainForm=Unsafe}Mon Aug 03 13:13:33 SGT 2020
+Search Value: Require Repair Found Value: 8={MainForm=Require Repair}Mon Aug 03 13:13:35 SGT 2020
+Search Value: Require Full Facade Investigation Found Value: 9={MainForm=Require Full Facade Investigation}Mon Aug 03 13:13:38 SGT 2020

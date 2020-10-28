@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateNewWorkload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d491607-dc60-4e5d-ad9a-8510a71ef5e0</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>61b61759-d58f-4707-9836-182d9db88594</id>
+      <masked>false</masked>
+      <name>Module</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>5bee06ff-fdc7-4e18-b139-51bddc785c6f</id>
+      <masked>false</masked>
+      <name>Application</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyInputFieldPresentInPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abd2c67c-5afd-4bc2-9674-a4aa355005ee</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>e3174eff-be02-42fb-b6a8-3b5d8f4e6d2e</id>
+      <masked>false</masked>
+      <name>tagToModify</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a4aa784e-0bb9-47ab-8bc5-30ec30dea646</id>
+      <masked>false</masked>
+      <name>textToModify</name>
+   </variable>
+</TestCaseEntity>

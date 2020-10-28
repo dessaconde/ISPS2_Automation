@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyManipulatedDataInEMEAsBuilt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e4c2c3c-c9b8-47d4-acde-beea3210c8d3</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>13c14b4e-1e90-4444-b636-d04ce1ab499e</id>
+      <masked>false</masked>
+      <name>projectTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>e4b8b35a-d285-498e-bd5e-3b67a60ae6f3</id>
+      <masked>false</masked>
+      <name>descriptionOfBuildingWorks</name>
+   </variable>
+</TestCaseEntity>

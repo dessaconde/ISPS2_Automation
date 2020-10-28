@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPlanFeesPaidByQP</name>
+   <tag></tag>
+   <comment>elem1</comment>
+   <testCaseGuid>53a1cc7d-8537-49ca-92f6-2e00711a42b3</testCaseGuid>
+</TestCaseEntity>

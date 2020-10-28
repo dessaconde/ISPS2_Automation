@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is to verify the data error q-tip of buttons.</description>
+   <name>RequiredButtonValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9ef6a9b-06a7-42cd-af8f-eca2bab070a3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9ea2c5a-2e93-4279-a9a4-05a1600b7056</id>
+      <masked>false</masked>
+      <name>LblName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6d0d3da-8d69-451d-9f56-f0903b049afe</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

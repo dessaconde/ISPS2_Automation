@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySelectedCaseMatchesRequiredCaseType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29deecc3-0c82-40ad-b58c-47a34aae1700</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>fce2d458-820f-474f-8c78-fd2ffb289e1f</id>
+      <masked>false</masked>
+      <name>requiredCaseType</name>
+   </variable>
+</TestCaseEntity>

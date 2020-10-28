@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickRadioButton</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aac5d713-3ae8-42cc-bae3-73988dc81c7b</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9d29f8d1-d80c-4d8c-836b-7d6916ed866b</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

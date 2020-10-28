@@ -1,0 +1,492 @@
+ null
+Appointment of PE for Visual Inspection 42={eotType=Appointment of PE for Visual Inspection}
+Appointment of PE for FSI 43={eotType=Appointment of PE for FSI}
+Submission of VIR 44={eotType=Submission of VIR}
+Submission of FSI Report 45={eotType=Submission of FSI Report}
+eotType Search Value:  Found Value: nullTue Jun 09 13:12:57 SGT 2020
+eotType Search Value: Appointment of PE for Visual Inspection Found Value: 42={eotType=Appointment of PE for Visual Inspection}Tue Jun 09 13:12:57 SGT 2020
+eotType Search Value: Appointment of PE for FSI Found Value: 43={eotType=Appointment of PE for FSI}Tue Jun 09 13:12:57 SGT 2020
+eotType Search Value: Submission of VIR Found Value: 44={eotType=Submission of VIR}Tue Jun 09 13:12:57 SGT 2020
+eotType Search Value: Submission of FSI Report Found Value: 45={eotType=Submission of FSI Report}Tue Jun 09 13:12:57 SGT 2020
+Search Value:  Found Value: nullTue Jun 09 13:20:20 SGT 2020
+Search Value: Appointment of PE for Visual Inspection Found Value: 42={eotType=Appointment of PE for Visual Inspection}Tue Jun 09 13:20:20 SGT 2020
+Search Value: Appointment of PE for FSI Found Value: 43={eotType=Appointment of PE for FSI}Tue Jun 09 13:20:20 SGT 2020
+Search Value: Submission of VIR Found Value: 44={eotType=Submission of VIR}Tue Jun 09 13:20:20 SGT 2020
+Search Value: Submission of FSI Report Found Value: 45={eotType=Submission of FSI Report}Tue Jun 09 13:20:20 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Tue Jun 09 13:21:11 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Ho You Leong (YOULEONG) Found Value: 6=Ho You Leong (YOULEONG)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Joyce Lee (USASLL) Found Value: 8=Joyce Lee (USASLL)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Loh Lee Fong (LEEFONG) Found Value: 12=Loh Lee Fong (LEEFONG)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Mohd Jumat Bin Haji Mohd Hassan (MOHDJUMAT) Found Value: 15=Mohd Jumat Bin Haji Mohd Hassan (MOHDJUMAT)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Ng Seh Luh (USANSL) Found Value: 16=Ng Seh Luh (USANSL)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Tue Jun 09 13:21:11 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Sulaiman Bin Ahmad (USABAS) Found Value: 20=Sulaiman Bin Ahmad (USABAS)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Wong Swee Sheng (WONGSWEE) Found Value: 22=Wong Swee Sheng (WONGSWEE)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Yeo Siew Juay (SIEWJUAY) Found Value: 23=Yeo Siew Juay (SIEWJUAY)Tue Jun 09 13:21:11 SGT 2020
+Search Value: Zhao Dianfeng (DIANFENG) Found Value: 24=Zhao Dianfeng (DIANFENG)Tue Jun 09 13:21:11 SGT 2020
+Search Value:  Found Value: nullTue Jun 09 15:04:58 SGT 2020
+Search Value: Appointment of PE for Visual Inspection Found Value: 42={eotType=Appointment of PE for Visual Inspection}Tue Jun 09 15:04:58 SGT 2020
+Search Value: Appointment of PE for FSI Found Value: 43={eotType=Appointment of PE for FSI}Tue Jun 09 15:04:58 SGT 2020
+Search Value: Submission of VIR Found Value: 44={eotType=Submission of VIR}Tue Jun 09 15:04:58 SGT 2020
+Search Value: Submission of FSI Report Found Value: 45={eotType=Submission of FSI Report}Tue Jun 09 15:04:58 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Tue Jun 09 15:05:45 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Ho You Leong (YOULEONG) Found Value: 6=Ho You Leong (YOULEONG)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Joyce Lee (USASLL) Found Value: 8=Joyce Lee (USASLL)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Loh Lee Fong (LEEFONG) Found Value: 12=Loh Lee Fong (LEEFONG)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Mohd Jumat Bin Haji Mohd Hassan (MOHDJUMAT) Found Value: 15=Mohd Jumat Bin Haji Mohd Hassan (MOHDJUMAT)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Ng Seh Luh (USANSL) Found Value: 16=Ng Seh Luh (USANSL)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Tue Jun 09 15:05:45 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Sulaiman Bin Ahmad (USABAS) Found Value: 20=Sulaiman Bin Ahmad (USABAS)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Wong Swee Sheng (WONGSWEE) Found Value: 22=Wong Swee Sheng (WONGSWEE)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Yeo Siew Juay (SIEWJUAY) Found Value: 23=Yeo Siew Juay (SIEWJUAY)Tue Jun 09 15:05:45 SGT 2020
+Search Value: Zhao Dianfeng (DIANFENG) Found Value: 24=Zhao Dianfeng (DIANFENG)Tue Jun 09 15:05:45 SGT 2020
+Search Value: 0017 Found Value: 0017 (3214)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 1123 Found Value: 1123 (null)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0017 Found Value: 0017 (3214)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0016 Found Value: 0016 (QP-0016)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0015 Found Value: 0015 (QP-0015)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0014 Found Value: 0014 (QP-0014)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0012 Found Value: 0012 (QP-0012)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0011 Found Value: 0011 (QP-Formatted Address)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 7004 Found Value: 7004 (QP-7004)Tue Jun 09 15:07:48 SGT 2020
+Search Value: 0017 Found Value: 0017 (3214)Tue Jun 09 15:07:48 SGT 2020
+Search Value: QP1123 Found Value: nullTue Jun 09 15:09:29 SGT 2020
+Search Value: QP0017 Found Value: nullTue Jun 09 15:09:29 SGT 2020
+Search Value: QP-0016 Found Value: 0016=QP-0016Tue Jun 09 15:09:29 SGT 2020
+Search Value: QP-0015 Found Value: 0015=QP-0015Tue Jun 09 15:09:29 SGT 2020
+Search Value: QP-0014 Found Value: 0014=QP-0014Tue Jun 09 15:09:29 SGT 2020
+Search Value: QP-0012 Found Value: 0012=QP-0012Tue Jun 09 15:09:29 SGT 2020
+Search Value: QP-Formatted Address Found Value: 0011=QP-Formatted AddressTue Jun 09 15:09:29 SGT 2020
+Search Value: QP-7004 Found Value: 7004=QP-7004Tue Jun 09 15:09:29 SGT 2020
+Search Value: Janet Waters Found Value: nullTue Jun 09 15:09:29 SGT 2020
+Search Value: Mrs. Mikayla Romaguera Sr. Found Value: nullTue Jun 09 15:09:29 SGT 2020
+Search Value: 0016 Found Value: 0016 (QP-0016)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 0011 Found Value: 0011 (QP-Formatted Address)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 1004 Found Value: 1004 (null)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 1003 Found Value: 1003 (null)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 0011 Found Value: 0011 (QP-Formatted Address)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 1123 Found Value: 1123 (null)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 0017 Found Value: 0017 (3214)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 0016 Found Value: 0016 (QP-0016)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 0015 Found Value: 0015 (QP-0015)Tue Jun 09 15:11:35 SGT 2020
+Search Value: 0014 Found Value: 0014 (QP-0014)Tue Jun 09 15:11:35 SGT 2020
+Search Value: D3 Found Value: 46={DForm=D3}Tue Jun 09 15:12:53 SGT 2020
+Search Value: D4 Found Value: 47={DForm=D4}Tue Jun 09 15:12:53 SGT 2020
+Search Value: D5 Found Value: 48={DForm=D5}Tue Jun 09 15:12:53 SGT 2020
+Search Value: D6 Found Value: 49={DForm=D6}Tue Jun 09 15:12:53 SGT 2020
+Search Value: D7 Found Value: 50={DForm=D7}Tue Jun 09 15:12:53 SGT 2020
+Search Value: Visual Inspection Report Found Value: 51={ReportType=Visual Inspection Report}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Supplementary Visual Inspection Report Found Value: 52={ReportType=Supplementary Visual Inspection Report}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Supplementary Visual Inspection Report 2 Found Value: 53={ReportType=Supplementary Visual Inspection Report 2}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Full Structural Inspection Report Found Value: 54={ReportType=Full Structural Inspection Report}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Supplementary Full Structural Inspection Report Found Value: 55={ReportType=Supplementary Full Structural Inspection Report}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Supplementary Full Structural Inspection Report 2 Found Value: 56={ReportType=Supplementary Full Structural Inspection Report 2}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Audit Report Found Value: 57={ReportType=Audit Report}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Site Inspection Report Found Value: 58={ReportType=Site Inspection Report}Tue Jun 09 15:13:10 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Chua Bee Tee (BEETEE) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Tue Jun 09 15:14:09 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Ho Tze Siang (TZESIANG) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Ho-Chan Vun Ching (USAHVC) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Janet Lee Choon Hong (JANETCHOON) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Kelvin Phua Meng Thong (MENGTHONG) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Lee Kok Tien (USAKTL) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Liu Xiaopeng (XIAOPENG) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Tue Jun 09 15:14:09 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Tan Jing Ying (JINGYING) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Tue Jun 09 15:14:09 SGT 2020
+Search Value: Titus Chua Hwa Ping (TITUS) Found Value: nullTue Jun 09 15:14:09 SGT 2020
+Search Value: PSI Found Value: 59={ModuleNm=PSI}Tue Jun 09 15:16:45 SGT 2020
+Search Value: Corres-Request for Extension of Time (CORRES-PSI-EXT) Found Value: 63={PSI=Corres-Request for Extension of Time (CORRES-PSI-EXT)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Corres-General Correspondence (CORRES-PSI-GC) Found Value: 64={PSI=Corres-General Correspondence (CORRES-PSI-GC)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Corres-Request for Submission Withdrawal (CORRES-PSI-SUBWTH) Found Value: 65={PSI=Corres-Request for Submission Withdrawal (CORRES-PSI-SUBWTH)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Bldg Rec Upload (PSI-UPLD) Found Value: 66={PSI=Bldg Rec Upload (PSI-UPLD)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: PSI Processing (SM) Found Value: 67={PSI=PSI Processing (SM)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: PSI Audit Processing (SM_A) Found Value: 68={PSI=PSI Audit Processing (SM_A)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: PSI Ad Hoc Processing (SM_AH) Found Value: 69={PSI=PSI Ad Hoc Processing (SM_AH)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: PSI-TOPCSC Interface (SM_TC1) Found Value: 70={PSI=PSI-TOPCSC Interface (SM_TC1)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: PSI-TOPCSC Processing (SM_TC2) Found Value: 71={PSI=PSI-TOPCSC Processing (SM_TC2)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Appointment of SE under S28 (SM1) Found Value: 72={PSI=Appointment of SE under S28 (SM1)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: SM1-CR (SM1-CR) Found Value: 73={PSI=SM1-CR (SM1-CR)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Visual Inspection Report under S28 (SM2) Found Value: 74={PSI=Visual Inspection Report under S28 (SM2)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: SM2-CR (SM2-CR) Found Value: 75={PSI=SM2-CR (SM2-CR)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Visual Insp Report under S28 - Suspected Defects (SM3) Found Value: 76={PSI=Visual Insp Report under S28 - Suspected Defects (SM3)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: SM3-CR (SM3-CR) Found Value: 77={PSI=SM3-CR (SM3-CR)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Localised or Full Stru Investigation Rpt under S28 (SM4) Found Value: 78={PSI=Localised or Full Stru Investigation Rpt under S28 (SM4)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: SM4-CR (SM4-CR) Found Value: 79={PSI=SM4-CR (SM4-CR)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Loc or Full Stru Inv Rpt S28 - Suspected Stru Def (SM5) Found Value: 80={PSI=Loc or Full Stru Inv Rpt S28 - Suspected Stru Def (SM5)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: SM5-CR (SM5-CR) Found Value: 81={PSI=SM5-CR (SM5-CR)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Visual Inspection Certification (SM6) Found Value: 82={PSI=Visual Inspection Certification (SM6)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: SM6-CR (SM6-CR) Found Value: 83={PSI=SM6-CR (SM6-CR)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: PSI Ad Hoc Processing (SMAH) Found Value: 84={PSI=PSI Ad Hoc Processing (SMAH)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: Bldg Rec Upload (SMB_UP1) Found Value: 85={PSI=Bldg Rec Upload (SMB_UP1)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: View/Edit Bldg (SMB_UP2) Found Value: 86={PSI=View/Edit Bldg (SMB_UP2)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: ST-PSI Processing (ST_PSI) Found Value: 87={PSI=ST-PSI Processing (ST_PSI)}Tue Jun 09 15:16:51 SGT 2020
+Search Value: ENF Found Value: 60={ModuleNm=ENF}Tue Jun 09 15:17:49 SGT 2020
+Search Value: Corres-General Correspondence (CORRES-ENF-GC) Found Value: 88={ENF=Corres-General Correspondence (CORRES-ENF-GC)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: Corres-Request for Submission Withdrawal (CORRES-ENF-SUBWTH) Found Value: 89={ENF=Corres-Request for Submission Withdrawal (CORRES-ENF-SUBWTH)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: Enforcement Processing (ENF) Found Value: 90={ENF=Enforcement Processing (ENF)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: Enforcement - Fire and Surveilence (ENF_EFS) Found Value: 91={ENF=Enforcement - Fire and Surveilence (ENF_EFS)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: Enforcement - Master Folder (BSPS) (ENF_EM) Found Value: 92={ENF=Enforcement - Master Folder (BSPS) (ENF_EM)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: Enforcement - Monitoring (ENF_EMF) Found Value: 93={ENF=Enforcement - Monitoring (ENF_EMF)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: Enforcement Ad Hoc Processing (ENFAH) Found Value: 94={ENF=Enforcement Ad Hoc Processing (ENFAH)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: ST-ENF Processing (ST_ENF) Found Value: 95={ENF=ST-ENF Processing (ST_ENF)}Tue Jun 09 15:17:51 SGT 2020
+Search Value: SD Found Value: 61={ModuleNm=SD}Tue Jun 09 15:18:11 SGT 2020
+Search Value: Corres-General Correspondence (CORRES-SD-GC) Found Value: 96={SD=Corres-General Correspondence (CORRES-SD-GC)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: Corres-Request for Submission Withdrawal (CORRES-SD-SUBWTH) Found Value: 97={SD=Corres-Request for Submission Withdrawal (CORRES-SD-SUBWTH)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: Dangerous Building Processing (SD) Found Value: 98={SD=Dangerous Building Processing (SD)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: Dangerous Building - Monitoring (SD_SDM) Found Value: 99={SD=Dangerous Building - Monitoring (SD_SDM)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: Process SD Submission (SD1) Found Value: 100={SD=Process SD Submission (SD1)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: Dangerous Building Ad Hoc Processing (SDAH) Found Value: 101={SD=Dangerous Building Ad Hoc Processing (SDAH)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: ST-SD Processing (ST_SD) Found Value: 102={SD=ST-SD Processing (ST_SD)}Tue Jun 09 15:18:13 SGT 2020
+Search Value: FM Found Value: 62={ModuleNm=FM}Tue Jun 09 15:18:31 SGT 2020
+Search Value: Feedback Processing (FM) Found Value: 103={FM=Feedback Processing (FM)}Tue Jun 09 15:18:32 SGT 2020
+Search Value: asdsafd Found Value: Not in the Road ListTue Jun 09 15:19:50 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 6981=12121212121212 (121212)Tue Jun 09 15:19:56 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 6981=12121212121212 (121212)Tue Jun 09 15:20:01 SGT 2020
+Search Value: none Found Value: nullTue Jun 09 15:20:42 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Tue Jun 09 15:20:48 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Tue Jun 09 15:20:54 SGT 2020
+Search Value: Yes Found Value: 104={PresINd=Yes}Tue Jun 09 15:21:23 SGT 2020
+Search Value: No Found Value: 105={PresINd=No}Tue Jun 09 15:21:23 SGT 2020
+Search Value: Yes Found Value: 104={PresINd=Yes}Tue Jun 09 15:21:35 SGT 2020
+Search Value: No Found Value: 105={PresINd=No}Tue Jun 09 15:21:35 SGT 2020
+Search Value: Yes Found Value: 104={PresINd=Yes}Tue Jun 09 15:21:47 SGT 2020
+Search Value: No Found Value: 105={PresINd=No}Tue Jun 09 15:21:47 SGT 2020
+Search Value: Yes Found Value: 104={PresINd=Yes}Tue Jun 09 15:21:59 SGT 2020
+Search Value: No Found Value: 105={PresINd=No}Tue Jun 09 15:21:59 SGT 2020
+Search Value: Yes Found Value: 104={PresINd=Yes}Tue Jun 09 15:22:10 SGT 2020
+Search Value: No Found Value: 105={PresINd=No}Tue Jun 09 15:22:10 SGT 2020
+Search Value: Yes Found Value: 104={PresINd=Yes}Tue Jun 09 15:22:22 SGT 2020
+Search Value: No Found Value: 105={PresINd=No}Tue Jun 09 15:22:22 SGT 2020
+Search Value:  Found Value: nullTue Jun 09 15:22:46 SGT 2020
+Search Value: HDB Found Value: 1=HDBTue Jun 09 15:22:46 SGT 2020
+Search Value: AVA  Found Value: nullTue Jun 09 15:22:46 SGT 2020
+Search Value: CAAS Found Value: 3=CAASTue Jun 09 15:22:46 SGT 2020
+Search Value: DSTA Found Value: 4=DSTATue Jun 09 15:22:46 SGT 2020
+Search Value: EXXONMOBIL Found Value: 5=EXXONMOBILTue Jun 09 15:22:46 SGT 2020
+Search Value: Embassy Found Value: 6=EmbassyTue Jun 09 15:22:46 SGT 2020
+Search Value: JTC Cat 1A Found Value: 7=JTC Cat 1ATue Jun 09 15:22:46 SGT 2020
+Search Value: MBS- Marina Bay Sands Found Value: 8=MBS- Marina Bay SandsTue Jun 09 15:22:46 SGT 2020
+Search Value: MCYS Found Value: 9=MCYSTue Jun 09 15:22:46 SGT 2020
+Search Value: MICA Found Value: 10=MICATue Jun 09 15:22:46 SGT 2020
+Search Value: MUIS Found Value: 11=MUISTue Jun 09 15:22:46 SGT 2020
+Search Value: Ministry of Defence Found Value: 12=Ministry of DefenceTue Jun 09 15:22:46 SGT 2020
+Search Value: Ministry of Education Found Value: 13=Ministry of EducationTue Jun 09 15:22:46 SGT 2020
+Search Value: Ministry of Foreign Affairs Found Value: 14=Ministry of Foreign AffairsTue Jun 09 15:22:46 SGT 2020
+Search Value: Ministry of Health Found Value: 15=Ministry of HealthTue Jun 09 15:22:46 SGT 2020
+Search Value: Ministry of Home Affairs Found Value: 16=Ministry of Home AffairsTue Jun 09 15:22:46 SGT 2020
+Search Value: National Environment Agency Found Value: 17=National Environment AgencyTue Jun 09 15:22:46 SGT 2020
+Search Value: National Heritage Board Found Value: 18=National Heritage BoardTue Jun 09 15:22:46 SGT 2020
+Search Value: National Parks Board Found Value: 19=National Parks BoardTue Jun 09 15:22:46 SGT 2020
+Search Value: POWER GRID Found Value: 20=POWER GRIDTue Jun 09 15:22:46 SGT 2020
+Search Value: PUB, the National Water Agency Found Value: 21=PUB, the National Water AgencyTue Jun 09 15:22:46 SGT 2020
+Search Value: People's Association Found Value: 22=People's AssociationTue Jun 09 15:22:46 SGT 2020
+Search Value: Polytechnic Found Value: 23=PolytechnicTue Jun 09 15:22:46 SGT 2020
+Search Value: Port of Singapore Authority Found Value: 24=Port of Singapore AuthorityTue Jun 09 15:22:46 SGT 2020
+Search Value: RWS - Resorts World Sentosa Found Value: 25=RWS - Resorts World SentosaTue Jun 09 15:22:46 SGT 2020
+Search Value: S'pore Sports Council Found Value: 26=S'pore Sports CouncilTue Jun 09 15:22:46 SGT 2020
+Search Value: SENTOSA Found Value: 27=SENTOSATue Jun 09 15:22:46 SGT 2020
+Search Value: SHELL Found Value: 28=SHELLTue Jun 09 15:22:46 SGT 2020
+Search Value: SPC Found Value: 29=SPCTue Jun 09 15:22:46 SGT 2020
+Search Value: University Found Value: 30=UniversityTue Jun 09 15:22:46 SGT 2020
+Search Value: JTC Cat 1 Found Value: 31=JTC Cat 1Tue Jun 09 15:22:46 SGT 2020
+Search Value: JTC Cat 2 Found Value: 32=JTC Cat 2Tue Jun 09 15:22:46 SGT 2020
+Search Value: LTA Found Value: 33=LTATue Jun 09 15:22:46 SGT 2020
+Search Value: invalid Found Value: nullTue Jun 09 15:25:22 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Tue Jun 09 15:25:28 SGT 2020
+Search Value: Christopher ANG Found Value: nullTue Jun 09 15:25:34 SGT 2020
+Search Value:  Found Value: nullTue Jun 09 15:26:26 SGT 2020
+Search Value: Section 13 Found Value: 34={OrderType=Section 13}Tue Jun 09 15:26:26 SGT 2020
+Search Value: Section 19 Found Value: 35={OrderType=Section 19}Tue Jun 09 15:26:26 SGT 2020
+Search Value: Section 25 Found Value: 36={OrderType=Section 25}Tue Jun 09 15:26:26 SGT 2020
+Search Value: Section 43 Found Value: 37={OrderType=Section 43}Tue Jun 09 15:26:26 SGT 2020
+Search Value: Section 5 Found Value: 38={OrderType=Section 5}Tue Jun 09 15:26:26 SGT 2020
+Search Value: Section 23  Found Value: nullTue Jun 09 15:26:26 SGT 2020
+Search Value: Section 24 Found Value: 40={OrderType=Section 24}Tue Jun 09 15:26:26 SGT 2020
+Search Value:  Found Value: nullTue Jun 09 16:04:29 SGT 2020
+Search Value: Appointment of PE for Visual Inspection Found Value: 42={eotType=Appointment of PE for Visual Inspection}Tue Jun 09 16:04:29 SGT 2020
+Search Value: Appointment of PE for FSI Found Value: 43={eotType=Appointment of PE for FSI}Tue Jun 09 16:04:29 SGT 2020
+Search Value: Submission of VIR Found Value: 44={eotType=Submission of VIR}Tue Jun 09 16:04:29 SGT 2020
+Search Value: Submission of FSI Report Found Value: 45={eotType=Submission of FSI Report}Tue Jun 09 16:04:29 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Tue Jun 09 16:05:21 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Tue Jun 09 16:05:21 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Ho You Leong (YOULEONG) Found Value: 6=Ho You Leong (YOULEONG)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Joyce Lee (USASLL) Found Value: 8=Joyce Lee (USASLL)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Loh Lee Fong (LEEFONG) Found Value: 12=Loh Lee Fong (LEEFONG)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Mohd Jumat Bin Haji Mohd Hassan (MOHDJUMAT) Found Value: 15=Mohd Jumat Bin Haji Mohd Hassan (MOHDJUMAT)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Ng Seh Luh (USANSL) Found Value: 16=Ng Seh Luh (USANSL)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Tue Jun 09 16:05:21 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Sulaiman Bin Ahmad (USABAS) Found Value: 20=Sulaiman Bin Ahmad (USABAS)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Tue Jun 09 16:05:21 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Chua Bee Tee (BEETEE) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Wed Jun 10 11:20:00 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Ho Tze Siang (TZESIANG) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Ho-Chan Vun Ching (USAHVC) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Janet Lee Choon Hong (JANETCHOON) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Kelvin Phua Meng Thong (MENGTHONG) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Lee Kok Tien (USAKTL) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Liu Xiaopeng (XIAOPENG) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Wed Jun 10 11:20:00 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Tan Jing Ying (JINGYING) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Titus Chua Hwa Ping (TITUS) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Vijayaratnam Ng Lay Hoon (USANLH) Found Value: Not in the ListWed Jun 10 11:20:00 SGT 2020
+Search Value: Wong Swee Sheng (WONGSWEE) Found Value: 22=Wong Swee Sheng (WONGSWEE)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Zhao Dianfeng (DIANFENG) Found Value: 24=Zhao Dianfeng (DIANFENG)Wed Jun 10 11:20:00 SGT 2020
+Search Value: Recommend Found Value: Not in the ListWed Jun 10 11:21:50 SGT 2020
+Search Value: Reply Found Value: Not in the ListWed Jun 10 11:21:50 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Chua Bee Tee (BEETEE) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Wed Jun 10 11:24:02 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Ho Tze Siang (TZESIANG) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Ho-Chan Vun Ching (USAHVC) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Janet Lee Choon Hong (JANETCHOON) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Kelvin Phua Meng Thong (MENGTHONG) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Lee Kok Tien (USAKTL) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Liu Xiaopeng (XIAOPENG) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Wed Jun 10 11:24:02 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Tan Jing Ying (JINGYING) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Titus Chua Hwa Ping (TITUS) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Vijayaratnam Ng Lay Hoon (USANLH) Found Value: Not in the ListWed Jun 10 11:24:02 SGT 2020
+Search Value: Wong Swee Sheng (WONGSWEE) Found Value: 22=Wong Swee Sheng (WONGSWEE)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Zhao Dianfeng (DIANFENG) Found Value: 24=Zhao Dianfeng (DIANFENG)Wed Jun 10 11:24:02 SGT 2020
+Search Value: Approved Found Value: Not in the ListWed Jun 10 11:24:54 SGT 2020
+Search Value: Disapproved Found Value: Not in the ListWed Jun 10 11:24:54 SGT 2020
+Search Value: Aaron Sham Wai Lun (AARON) Found Value: 1=Aaron Sham Wai Lun (AARON)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Azidah Bte Akmad (Mdm) (USAABD) Found Value: 2=Azidah Bte Akmad (Mdm) (USAABD)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Chua Bee Tee (BEETEE) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Chung Fong Nyen (USACFN) Found Value: 3=Chung Fong Nyen (USACFN)Wed Jun 10 11:58:15 SGT 2020
+Search Value: David Tey Dah Wei (DAHWEI) Found Value: 4=David Tey Dah Wei (DAHWEI)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Han Wann Kuang (WANNKUANG) Found Value: 5=Han Wann Kuang (WANNKUANG)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Ho Tze Siang (TZESIANG) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Ho-Chan Vun Ching (USAHVC) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Janet Lee Choon Hong (JANETCHOON) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Joseph Lim Pheng Weng (PHENGWENG) Found Value: 7=Joseph Lim Pheng Weng (PHENGWENG)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Kaliannan Thanabal (KALIANN) Found Value: 9=Kaliannan Thanabal (KALIANN)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Kelvin Phua Meng Thong (MENGTHONG) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Lee Kok Tien (USAKTL) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Lim Beng Kwee (BENGKWEE) Found Value: 10=Lim Beng Kwee (BENGKWEE)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Lim Leng Boon (LENGBOON) Found Value: 11=Lim Leng Boon (LENGBOON)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Liu Xiaopeng (XIAOPENG) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Lu Ji Ju (Mdm) (USALJJ) Found Value: 13=Lu Ji Ju (Mdm) (USALJJ)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI) Found Value: 14=Mohd Jeffri Bin Abdul Rahim (MOHDJEFFRI)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Richard Lim Fang Ping (FANGPING) Found Value: 17=Richard Lim Fang Ping (FANGPING)Wed Jun 10 11:58:15 SGT 2020
+Search Value: RITA WONG SIONG ING (RITAWONG) Found Value: 18=RITA WONG SIONG ING (RITAWONG)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Shi Hong Wei (HONGWEI) Found Value: 19=Shi Hong Wei (HONGWEI)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Tan Jing Ying (JINGYING) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Tan Kwan Joo (KWANJOO) Found Value: 21=Tan Kwan Joo (KWANJOO)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Titus Chua Hwa Ping (TITUS) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Vijayaratnam Ng Lay Hoon (USANLH) Found Value: Not in the ListWed Jun 10 11:58:15 SGT 2020
+Search Value: Wong Swee Sheng (WONGSWEE) Found Value: 22=Wong Swee Sheng (WONGSWEE)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Zhao Dianfeng (DIANFENG) Found Value: 24=Zhao Dianfeng (DIANFENG)Wed Jun 10 11:58:15 SGT 2020
+Search Value: Recommend Found Value: 32={RecommendType=Recommend}Wed Jun 10 12:01:54 SGT 2020
+Search Value: Reply Found Value: 33={RecommendType=Reply}Wed Jun 10 12:01:54 SGT 2020
+Search Value:  Found Value: nullMon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: 115={GrpBldgType=Non-Residential Institution (NRIS)}Mon Oct 19 10:35:10 SGT 2020
+Search Value:  Found Value: nullMon Oct 19 10:35:48 SGT 2020
+Search Value: A Found Value: 28={GrdType=A}Mon Oct 19 10:35:48 SGT 2020
+Search Value: B Found Value: 29={GrdType=B}Mon Oct 19 10:35:48 SGT 2020
+Search Value: C Found Value: 30={GrdType=C}Mon Oct 19 10:35:48 SGT 2020
+Search Value: D Found Value: 31={GrdType=D}Mon Oct 19 10:35:48 SGT 2020
+Search Value:  Found Value: nullMon Oct 19 10:36:10 SGT 2020
+Search Value: CAT1 Found Value: 117={GrpCategory=CAT1}Mon Oct 19 10:36:10 SGT 2020
+Search Value: CAT2 Found Value: 118={GrpCategory=CAT2}Mon Oct 19 10:36:10 SGT 2020
+Search Value: CAT3 Found Value: 119={GrpCategory=CAT3}Mon Oct 19 10:36:10 SGT 2020
+Search Value:  Found Value: nullMon Oct 19 10:37:26 SGT 2020
+Search Value: Government Found Value: 123={OwnerType=Government}Mon Oct 19 10:37:26 SGT 2020
+Search Value: Government Found Value: 123={OwnerType=Government}Mon Oct 19 10:37:26 SGT 2020
+Search Value: Government Found Value: 123={OwnerType=Government}Mon Oct 19 10:37:26 SGT 2020
+Search Value: Government Found Value: 123={OwnerType=Government}Mon Oct 19 10:37:26 SGT 2020
+Search Value:  Found Value: nullThu Oct 22 16:44:18 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Thu Oct 22 16:44:18 SGT 2020
+Search Value: No Found Value: 2={IND=No}Thu Oct 22 16:44:18 SGT 2020
+Search Value:  Found Value: nullThu Oct 22 17:35:50 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Thu Oct 22 17:35:50 SGT 2020
+Search Value: No Found Value: 2={IND=No}Thu Oct 22 17:35:50 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Fri Oct 23 16:34:17 SGT 2020
+Search Value: No Found Value: 2={IND=No}Fri Oct 23 16:34:17 SGT 2020
+Search Value:  Found Value: nullFri Oct 23 16:34:17 SGT 2020
+Search Value: Inactive Found Value: nullFri Oct 23 16:34:37 SGT 2020
+Search Value: Active Found Value: nullFri Oct 23 16:34:37 SGT 2020
+Search Value: Inactive Found Value: nullFri Oct 23 16:34:37 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Fri Oct 23 17:26:50 SGT 2020
+Search Value: No Found Value: 2={IND=No}Fri Oct 23 17:26:50 SGT 2020
+Search Value:  Found Value: nullFri Oct 23 17:26:50 SGT 2020
+Search Value: Inactive Found Value: nullFri Oct 23 17:27:09 SGT 2020
+Search Value: Active Found Value: nullFri Oct 23 17:27:09 SGT 2020
+Search Value: Inactive Found Value: nullFri Oct 23 17:27:09 SGT 2020
+Search Value:  Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:40:02 SGT 2020
+Search Value:  Found Value: nullMon Oct 26 10:40:41 SGT 2020
+Search Value: A Found Value: 28={GrdType=A}Mon Oct 26 10:40:41 SGT 2020
+Search Value: B Found Value: 29={GrdType=B}Mon Oct 26 10:40:41 SGT 2020
+Search Value: C Found Value: 30={GrdType=C}Mon Oct 26 10:40:41 SGT 2020
+Search Value: D Found Value: 31={GrdType=D}Mon Oct 26 10:40:41 SGT 2020
+Search Value:  Found Value: 31={GrdType=D}Mon Oct 26 10:41:04 SGT 2020
+Search Value: CAT1 Found Value: 31={GrdType=D}Mon Oct 26 10:41:04 SGT 2020
+Search Value: CAT2 Found Value: 31={GrdType=D}Mon Oct 26 10:41:04 SGT 2020
+Search Value: CAT3 Found Value: 31={GrdType=D}Mon Oct 26 10:41:04 SGT 2020
+Search Value:  Found Value: 31={GrdType=D}Mon Oct 26 10:42:25 SGT 2020
+Search Value: MC / MCST Found Value: 31={GrdType=D}Mon Oct 26 10:42:25 SGT 2020
+Search Value: SINGLE Found Value: 31={GrdType=D}Mon Oct 26 10:42:25 SGT 2020
+Search Value: MULTIPLE Found Value: 31={GrdType=D}Mon Oct 26 10:42:25 SGT 2020
+Search Value: Government Found Value: 31={GrdType=D}Mon Oct 26 10:42:25 SGT 2020
+Search Value:  Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Mon Oct 26 10:57:35 SGT 2020
+Search Value:  Found Value: nullMon Oct 26 10:58:20 SGT 2020
+Search Value: A Found Value: 28={GrdType=A}Mon Oct 26 10:58:20 SGT 2020
+Search Value: B Found Value: 29={GrdType=B}Mon Oct 26 10:58:20 SGT 2020
+Search Value: C Found Value: 30={GrdType=C}Mon Oct 26 10:58:20 SGT 2020
+Search Value: D Found Value: 31={GrdType=D}Mon Oct 26 10:58:20 SGT 2020
+Search Value:  Found Value: 31={GrdType=D}Mon Oct 26 10:58:41 SGT 2020
+Search Value: CAT1 Found Value: 31={GrdType=D}Mon Oct 26 10:58:41 SGT 2020
+Search Value: CAT2 Found Value: 31={GrdType=D}Mon Oct 26 10:58:41 SGT 2020
+Search Value: CAT3 Found Value: 31={GrdType=D}Mon Oct 26 10:58:41 SGT 2020
+Search Value:  Found Value: 31={GrdType=D}Mon Oct 26 10:59:56 SGT 2020
+Search Value: Government Found Value: 31={GrdType=D}Mon Oct 26 10:59:56 SGT 2020
+Search Value: Government Found Value: 31={GrdType=D}Mon Oct 26 10:59:56 SGT 2020
+Search Value: Government Found Value: 31={GrdType=D}Mon Oct 26 10:59:56 SGT 2020
+Search Value: Government Found Value: 31={GrdType=D}Mon Oct 26 10:59:56 SGT 2020
+Search Value: P Found Value: 112={QpType=P}Mon Oct 26 13:33:21 SGT 2020
+Search Value: A Found Value: 111={QpType=A}Mon Oct 26 13:33:21 SGT 2020
+Search Value: NO Found Value: nullMon Oct 26 13:33:44 SGT 2020
+Search Value: YES Found Value: nullMon Oct 26 13:33:44 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:05:13 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:05:13 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:05:13 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:05:13 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:05:13 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:05:13 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:05:13 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:05:13 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:05:13 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:05:13 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:05:13 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:05:13 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:05:13 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:08:55 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:08:55 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:08:55 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:08:55 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:08:55 SGT 2020
+Search Value:  Found Value: nullTue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:08:55 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:11:13 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:11:13 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:13:22 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:13:22 SGT 2020
+Search Value: NO Found Value: nullTue Oct 27 13:15:14 SGT 2020
+Search Value: YES Found Value: nullTue Oct 27 13:15:14 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:23:17 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:23:17 SGT 2020
+Search Value: Yes Found Value: 1={IND=Yes}Tue Oct 27 13:59:38 SGT 2020
+Search Value: No Found Value: 2={IND=No}Tue Oct 27 13:59:38 SGT 2020
+Search Value: NO Found Value: nullTue Oct 27 14:05:05 SGT 2020
+Search Value: YES Found Value: nullTue Oct 27 14:05:05 SGT 2020

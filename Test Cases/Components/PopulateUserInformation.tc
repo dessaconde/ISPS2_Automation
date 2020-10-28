@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateUserInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>519dd4cc-2dfd-4865-9a5b-6209e4536b53</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>aede15da-1558-43ba-8c6f-0b9158fe5723</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>905136ad-6b10-472c-914f-7d33085bf4e0</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>83fe20d3-6908-43b5-9f36-a2280936d218</id>
+      <masked>false</masked>
+      <name>UserID</name>
+   </variable>
+</TestCaseEntity>

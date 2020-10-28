@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Recipients</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38690384-cba8-410d-8630-6dbc1f940fbd</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>acad0dc7-c069-4908-90ac-d6bb81fe8747</id>
+      <masked>false</masked>
+      <name>addTestEmail</name>
+   </variable>
+</TestCaseEntity>

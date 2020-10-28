@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCAISPS-14700.TCID001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51119959-a6dc-4da4-a691-92f451618dbc</testCaseGuid>
+   <variable>
+      <defaultValue>'40988-1978'</defaultValue>
+      <description></description>
+      <id>9e655f93-79d5-4014-a926-42e90511295e</id>
+      <masked>false</masked>
+      <name>planRefNo</name>
+   </variable>
+</TestCaseEntity>

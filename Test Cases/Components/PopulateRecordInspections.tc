@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateRecordInspections</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>498b6cec-1238-478c-81b2-7c773831c07d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>64ab1daf-a825-49a5-8d0e-544df7950f5e</id>
+      <masked>false</masked>
+      <name>InspectionOfficer</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>8dac6467-a8ad-41cd-9c9a-180ea03f03d4</id>
+      <masked>false</masked>
+      <name>InspectionType</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>384c1853-7d7f-43b6-883c-d965ca976a05</id>
+      <masked>false</masked>
+      <name>InspectionDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>492a09ce-5052-493a-aafa-733ea26473e3</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+</TestCaseEntity>

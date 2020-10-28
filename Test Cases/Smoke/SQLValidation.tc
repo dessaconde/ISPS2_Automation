@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SQLValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac0860bc-20fb-4329-938d-6a87cbf69045</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73deb084-1148-466c-ae6b-39aa10ee5734</id>
+      <masked>false</masked>
+      <name>script</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1b59825-f26b-4a4e-ae8c-314412fdf79d</id>
+      <masked>false</masked>
+      <name>expectedText</name>
+   </variable>
+</TestCaseEntity>

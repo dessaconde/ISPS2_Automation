@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPaymentAmtUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>feac0e09-22ba-4809-a59a-d368f0fbf041</testCaseGuid>
+</TestCaseEntity>

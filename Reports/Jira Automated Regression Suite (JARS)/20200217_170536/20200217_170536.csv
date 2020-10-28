@@ -1,0 +1,98 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Jira Automated Regression Suite (JARS),Chrome 80.0.3987.106,,,2020-02-17 17:05:40,2020-02-17 17:15:46,10m - 5.264s,INCOMPLETE
+,,,,,,,
+Test Cases/Jira/BE/Utilities/BCAISPS-14745/BCAISPS-14745.TCID001,Chrome 80.0.3987.106,,,2020-02-17 17:05:42,2020-02-17 17:07:49,2m - 6.771s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 80.0.3987.106,"Log in.
+",,2020-02-17 17:05:44,2020-02-17 17:06:10,25.804s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToHomepageHeaders""), [""headerText"":""My Tasks""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to My Tasks.,,2020-02-17 17:06:10,2020-02-17 17:06:18,8.609s,PASSED
+"callTestCase(findTestCase(""Components/OpenHomepageMenu""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Open hamburger menu.,,2020-02-17 17:06:18,2020-02-17 17:06:21,2.471s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Utilities""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Utilities.,,2020-02-17 17:06:21,2020-02-17 17:06:22,1.455s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Common""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over common.,,2020-02-17 17:06:22,2020-02-17 17:06:23,1.225s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintenance""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintenance.,,2020-02-17 17:06:23,2020-02-17 17:06:25,1.361s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintain AC.,,2020-02-17 17:06:25,2020-02-17 17:06:26,1.212s,PASSED
+"callTestCase(findTestCase(""Components/SelectFromMenu""), [""menuToBeClicked"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Maintain AC,,2020-02-17 17:06:26,2020-02-17 17:06:28,2.259s,PASSED
+"callTestCase(findTestCase(""Components/SetTextOnField""), [""tagToBeUsed"":""input"", ""nameToBeUsed"":""acNo"", ""textToBeInputted"":""1160""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Set text on AC No field.,,2020-02-17 17:06:28,2020-02-17 17:06:30,2.141s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Search"", ""Index"":3], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Search,,2020-02-17 17:06:30,2020-02-17 17:06:47,16.712s,PASSED
+"callTestCase(findTestCase(""Components/ClickLink""), [""LinkToModify"":""dummy ac name""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click link under AC Name.,,2020-02-17 17:06:47,2020-02-17 17:06:49,1.899s,PASSED
+"callTestCase(findTestCase(""Components/ClickRadioButton""), [""Index"":2], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Unformatted radio button.,,2020-02-17 17:06:49,2020-02-17 17:06:51,1.807s,PASSED
+"callTestCase(findTestCase(""Components/GetTextOfFieldAndStoreInAGlobalVariable""), [""tagToBeUsed"":""textarea"", ""nameToBeUsed"":""foreignAddr""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Get text of unformatted address field.,,2020-02-17 17:06:51,2020-02-17 17:06:56,5.249s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Back"", ""Index"":1], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Back,,2020-02-17 17:06:56,2020-02-17 17:07:12,16.320s,PASSED
+"callTestCase(findTestCase(""Components/VerifyTextPresentInPage""), [""tagToModify"":""div"", ""textToModify"":inputFieldText], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Verify if the address is the same as the address in results table.,,2020-02-17 17:07:12,2020-02-17 17:07:16,4.017s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to dashboard.,,2020-02-17 17:07:16,2020-02-17 17:07:49,32.316s,FAILED
+,,,,,,,
+Test Cases/Jira/BE/Utilities/BCAISPS-14745/BCAISPS-14745.TCID002,Chrome 80.0.3987.106,,,2020-02-17 17:07:49,2020-02-17 17:10:08,2m - 19.258s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 80.0.3987.106,"Log in.
+",,2020-02-17 17:07:49,2020-02-17 17:08:06,17.515s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToHomepageHeaders""), [""headerText"":""My Tasks""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to My Tasks.,,2020-02-17 17:08:06,2020-02-17 17:08:15,8.303s,PASSED
+"callTestCase(findTestCase(""Components/OpenHomepageMenu""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Open hamburger menu.,,2020-02-17 17:08:15,2020-02-17 17:08:46,30.918s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Utilities""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Utilities.,,2020-02-17 17:08:46,2020-02-17 17:08:47,1.256s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Common""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over common.,,2020-02-17 17:08:47,2020-02-17 17:08:48,1.199s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintenance""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintenance.,,2020-02-17 17:08:48,2020-02-17 17:08:49,1.197s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintain AC.,,2020-02-17 17:08:49,2020-02-17 17:08:50,1.199s,PASSED
+"callTestCase(findTestCase(""Components/SelectFromMenu""), [""menuToBeClicked"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Maintain AC,,2020-02-17 17:08:50,2020-02-17 17:08:52,1.483s,PASSED
+"callTestCase(findTestCase(""Components/SetTextOnField""), [""tagToBeUsed"":""input"", ""nameToBeUsed"":""acNo"", ""textToBeInputted"":""1160""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Set text on AC No field.,,2020-02-17 17:08:52,2020-02-17 17:08:54,1.695s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Search"", ""Index"":3], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Search,,2020-02-17 17:08:54,2020-02-17 17:09:10,16.337s,PASSED
+"callTestCase(findTestCase(""Components/ClickLink""), [""LinkToModify"":""dummy ac name""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click link under AC Name.,,2020-02-17 17:09:10,2020-02-17 17:09:12,1.742s,PASSED
+"callTestCase(findTestCase(""Components/ClickRadioButton""), [""Index"":2], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Unformatted radio button.,,2020-02-17 17:09:12,2020-02-17 17:09:13,1.670s,PASSED
+"callTestCase(findTestCase(""Components/SetTextOnField""), [""tagToBeUsed"":""textarea"", ""nameToBeUsed"":""foreignAddr"", ""textToBeInputted"":""Blk 87 Lot 10 PH""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Set new value on unformatted address field.,,2020-02-17 17:09:13,2020-02-17 17:09:15,1.636s,PASSED
+"callTestCase(findTestCase(""Components/GetTextOfFieldAndStoreInAGlobalVariable""), [""tagToBeUsed"":""textarea"", ""nameToBeUsed"":""foreignAddr""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Get text of unformatted address field.,,2020-02-17 17:09:15,2020-02-17 17:09:17,1.885s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Update"", ""Index"":1], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Back,,2020-02-17 17:09:17,2020-02-17 17:09:33,16.339s,PASSED
+"callTestCase(findTestCase(""Components/VerifyTextPresentInPage""), [""tagToModify"":""div"", ""textToModify"":inputFieldText], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Verify if the updated address is the same as the address in results table.,,2020-02-17 17:09:33,2020-02-17 17:09:37,3.543s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to dashboard.,,2020-02-17 17:09:37,2020-02-17 17:10:08,31.187s,FAILED
+,,,,,,,
+Test Cases/Jira/BE/Utilities/BCAISPS-14745/BCAISPS-14745.TCID003,Chrome 80.0.3987.106,,,2020-02-17 17:10:08,2020-02-17 17:12:10,2m - 1.763s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 80.0.3987.106,"Log in.
+",,2020-02-17 17:10:08,2020-02-17 17:10:28,20.259s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToHomepageHeaders""), [""headerText"":""My Tasks""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to My Tasks.,,2020-02-17 17:10:28,2020-02-17 17:10:37,8.190s,PASSED
+"callTestCase(findTestCase(""Components/OpenHomepageMenu""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Open hamburger menu.,,2020-02-17 17:10:37,2020-02-17 17:10:42,5.970s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Utilities""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Utilities.,,2020-02-17 17:10:42,2020-02-17 17:10:44,1.217s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Common""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over common.,,2020-02-17 17:10:44,2020-02-17 17:10:45,1.203s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintenance""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintenance.,,2020-02-17 17:10:45,2020-02-17 17:10:46,1.185s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintain AC.,,2020-02-17 17:10:46,2020-02-17 17:10:47,1.296s,PASSED
+"callTestCase(findTestCase(""Components/SelectFromMenu""), [""menuToBeClicked"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Maintain AC,,2020-02-17 17:10:47,2020-02-17 17:10:49,1.503s,PASSED
+"callTestCase(findTestCase(""Components/SetTextOnField""), [""tagToBeUsed"":""input"", ""nameToBeUsed"":""acNo"", ""textToBeInputted"":""1165""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Set text on AC No field.,,2020-02-17 17:10:49,2020-02-17 17:10:51,1.671s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Search"", ""Index"":3], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Search,,2020-02-17 17:10:51,2020-02-17 17:11:07,16.339s,PASSED
+"callTestCase(findTestCase(""Components/ClickLinkDependingOnTextAndIndex""), [""linkName"":""Testing Name"", ""index"":""1""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click preferred link.,,2020-02-17 17:11:07,2020-02-17 17:11:15,8.285s,PASSED
+"callTestCase(findTestCase(""Components/ClickRadioButton""), [""Index"":2], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Unformatted radio button.,,2020-02-17 17:11:15,2020-02-17 17:11:17,1.681s,PASSED
+"callTestCase(findTestCase(""Components/GetTextOfFieldAndStoreInAGlobalVariable""), [""tagToBeUsed"":""textarea"", ""nameToBeUsed"":""foreignAddr""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Get text of unformatted address field.,,2020-02-17 17:11:17,2020-02-17 17:11:19,1.968s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Back"", ""Index"":1], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Back,,2020-02-17 17:11:19,2020-02-17 17:11:35,16.254s,PASSED
+"callTestCase(findTestCase(""Components/VerifyTextPresentInPage""), [""tagToModify"":""div"", ""textToModify"":inputFieldText], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Verify if the address is the same as the address in results table.,,2020-02-17 17:11:35,2020-02-17 17:11:39,3.672s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to dashboard.,,2020-02-17 17:11:39,2020-02-17 17:12:10,30.949s,FAILED
+,,,,,,,
+Test Cases/Jira/BE/Utilities/BCAISPS-14745/BCAISPS-14745.TCID004,Chrome 80.0.3987.106,,,2020-02-17 17:12:10,2020-02-17 17:14:14,2m - 3.993s,PASSED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 80.0.3987.106,"Log in.
+",,2020-02-17 17:12:10,2020-02-17 17:12:28,18.244s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToHomepageHeaders""), [""headerText"":""My Tasks""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to My Tasks.,,2020-02-17 17:12:28,2020-02-17 17:12:37,9.005s,PASSED
+"callTestCase(findTestCase(""Components/OpenHomepageMenu""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Open hamburger menu.,,2020-02-17 17:12:37,2020-02-17 17:12:58,20.726s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Utilities""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Utilities.,,2020-02-17 17:12:58,2020-02-17 17:12:59,1.371s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Common""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over common.,,2020-02-17 17:12:59,2020-02-17 17:13:01,1.488s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintenance""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintenance.,,2020-02-17 17:13:01,2020-02-17 17:13:02,1.851s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintain AC.,,2020-02-17 17:13:02,2020-02-17 17:13:04,1.294s,PASSED
+"callTestCase(findTestCase(""Components/SelectFromMenu""), [""menuToBeClicked"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Maintain AC,,2020-02-17 17:13:04,2020-02-17 17:13:06,2.062s,PASSED
+"callTestCase(findTestCase(""Components/SetTextOnField""), [""tagToBeUsed"":""input"", ""nameToBeUsed"":""acNo"", ""textToBeInputted"":""1165""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Set text on AC No field.,,2020-02-17 17:13:06,2020-02-17 17:13:08,1.969s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Search"", ""Index"":3], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Search,,2020-02-17 17:13:08,2020-02-17 17:13:24,16.325s,PASSED
+"callTestCase(findTestCase(""Components/ClickLinkDependingOnTextAndIndex""), [""linkName"":""Testing Name"", ""index"":""2""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click preferred link.,,2020-02-17 17:13:24,2020-02-17 17:13:31,6.573s,PASSED
+"callTestCase(findTestCase(""Components/ClickRadioButton""), [""Index"":2], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Unformatted radio button.,,2020-02-17 17:13:31,2020-02-17 17:13:32,1.611s,PASSED
+"callTestCase(findTestCase(""Components/GetTextOfFieldAndStoreInAGlobalVariable""), [""tagToBeUsed"":""textarea"", ""nameToBeUsed"":""foreignAddr""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Get text of unformatted address field.,,2020-02-17 17:13:32,2020-02-17 17:13:34,2.010s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Back"", ""Index"":1], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Back,,2020-02-17 17:13:34,2020-02-17 17:13:51,16.308s,PASSED
+"callTestCase(findTestCase(""Components/VerifyTextPresentInPage""), [""tagToModify"":""div"", ""textToModify"":inputFieldText], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Verify if the address is the same as the address in results table.,,2020-02-17 17:13:51,2020-02-17 17:13:54,3.570s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to dashboard.,,2020-02-17 17:13:54,2020-02-17 17:14:05,10.821s,PASSED
+"callTestCase(findTestCase(""Components/Logout""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Log out.,,2020-02-17 17:14:05,2020-02-17 17:14:14,8.674s,PASSED
+,,,,,,,
+Test Cases/Jira/BE/Utilities/BCAISPS-14745/BCAISPS-14745.TCID005,Chrome 80.0.3987.106,,,2020-02-17 17:14:14,2020-02-17 17:15:46,1m - 31.980s,PASSED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 80.0.3987.106,"Log in.
+",,2020-02-17 17:14:14,2020-02-17 17:14:30,16.409s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToHomepageHeaders""), [""headerText"":""My Tasks""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to My Tasks.,,2020-02-17 17:14:30,2020-02-17 17:14:39,8.504s,PASSED
+"callTestCase(findTestCase(""Components/OpenHomepageMenu""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Open hamburger menu.,,2020-02-17 17:14:39,2020-02-17 17:14:42,2.801s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Utilities""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Utilities.,,2020-02-17 17:14:42,2020-02-17 17:14:43,1.218s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Common""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over common.,,2020-02-17 17:14:43,2020-02-17 17:14:44,1.207s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintenance""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintenance.,,2020-02-17 17:14:44,2020-02-17 17:14:45,1.181s,PASSED
+"callTestCase(findTestCase(""Components/HoverToAnyMenuSelection""), [""MenuSelection"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Hover over Maintain AC.,,2020-02-17 17:14:45,2020-02-17 17:14:46,1.254s,PASSED
+"callTestCase(findTestCase(""Components/SelectFromMenu""), [""menuToBeClicked"":""Maintain AC""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Maintain AC,,2020-02-17 17:14:46,2020-02-17 17:14:48,2.050s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Search"", ""Index"":3], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Search,,2020-02-17 17:14:48,2020-02-17 17:15:05,16.201s,PASSED
+"callTestCase(findTestCase(""Components/ClickLink""), [""LinkToModify"":""Test AC 004""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click link under AC Name.,,2020-02-17 17:15:05,2020-02-17 17:15:07,2.255s,PASSED
+"callTestCase(findTestCase(""Components/GetTextOfFieldAndStoreInAGlobalVariable""), [""tagToBeUsed"":""input"", ""nameToBeUsed"":""postalCode""], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Get text of unformatted address field.,,2020-02-17 17:15:07,2020-02-17 17:15:09,1.735s,PASSED
+"callTestCase(findTestCase(""Components/ClickBlueButtonsWithXPI""), [""Button"":""Back"", ""Index"":1], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Click Back,,2020-02-17 17:15:09,2020-02-17 17:15:25,16.294s,PASSED
+"callTestCase(findTestCase(""Components/VerifyTextInInputFieldExistInPage""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Verify if the formatted address is the same as the address in results table.,,2020-02-17 17:15:25,2020-02-17 17:15:27,1.589s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Navigate to dashboard.,,2020-02-17 17:15:27,2020-02-17 17:15:37,10.633s,PASSED
+"callTestCase(findTestCase(""Components/Logout""), [:], STOP_ON_FAILURE)",Chrome 80.0.3987.106,Log out.,,2020-02-17 17:15:37,2020-02-17 17:15:46,8.524s,PASSED

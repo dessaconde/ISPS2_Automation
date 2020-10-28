@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectOfficerToBeAssigned</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>584a8123-3d02-4296-8141-0c2ca20a00d8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>eec21318-8a4a-4279-ab0d-58c8ce60ff2a</id>
+      <masked>false</masked>
+      <name>officer</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TickFormattedOrUnformatted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f6ab5ac-f5cf-4e02-87d9-f6b1b4d9100d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>0424251c-2b71-4d86-ad69-54581e397ce6</id>
+      <masked>false</masked>
+      <name>formattedOrUnformatted</name>
+   </variable>
+</TestCaseEntity>

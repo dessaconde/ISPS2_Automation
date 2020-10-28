@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SetTextOnFieldUsingID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2b84381-730d-4cbc-89ca-0abc6a89f8e7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e80afdf-36b6-4a48-8714-ea5d08191dff</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b57d6db-2cfb-4a6a-b23f-52db2b020cc3</id>
+      <masked>false</masked>
+      <name>idToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95566952-0dcc-4579-80cc-fd81d5c356ec</id>
+      <masked>false</masked>
+      <name>textToBeInputted</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightTextInEnquireAuditTrailTable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b8d730b-2579-4756-83f3-2f79a90685a4</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>e42c81a8-7967-4c2f-9a1b-84d84722328b</id>
+      <masked>false</masked>
+      <name>textToHighlight</name>
+   </variable>
+</TestCaseEntity>

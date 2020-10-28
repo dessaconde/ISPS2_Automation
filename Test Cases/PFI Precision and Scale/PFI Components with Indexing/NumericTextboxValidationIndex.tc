@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NumericTextboxValidationIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0ae2f2d-d0f4-4c96-8e4d-d34e1b4346f3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fed9bb5c-ca06-416f-9e27-d9a05b4a20ff</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>c09d0056-f2e2-4aac-8c27-925246e3f05e</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>269bb458-c7fd-4add-a061-565fd16ce539</id>
+      <masked>false</masked>
+      <name>minLen</name>
+   </variable>
+</TestCaseEntity>

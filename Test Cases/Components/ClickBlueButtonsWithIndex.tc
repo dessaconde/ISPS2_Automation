@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBlueButtonsWithIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a4bf908-b8fb-4d9e-ab22-c3d6f3747513</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>649dd8be-fa07-4891-a4e4-25c7a81a2fdf</id>
+      <masked>false</masked>
+      <name>Button</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>adfa4a8a-d9ee-4778-89f0-072e2469ad37</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateCheckPlanFeesDeclaration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e49ec53-b79d-43c6-b739-594be3ff2d05</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6add30d-4ae3-448e-b7db-29458d1d886e</id>
+      <masked>false</masked>
+      <name>link</name>
+   </variable>
+</TestCaseEntity>

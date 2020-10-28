@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightLabelIndexField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f0973e7-b715-4002-b679-3cd07de49af9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f33fbe5f-abc1-4aa8-9f7f-e10e3c1f5b26</id>
+      <masked>false</masked>
+      <name>LblName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>823f9890-0519-4c48-917a-e8fd51465daa</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

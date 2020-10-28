@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Decision" time="198.98" tests="2" failures="0" errors="0">
+   <testsuite name="Decision" tests="2" failures="0" errors="0" time="198.98" timestamp="2020-05-24 02:54:47" hostname="19023-RAC - 192.168.16.39" id="Test Suites/PFI Precision and Scale Automated Regression Suite/Decision">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\19023-RAC\\Desktop\\New Automation Copy\\Reports\\20200524_025436\\PFI Precision and Scale Automated Regression Suite\\Decision\\20200524_025436"/>
+         <property name="logFiles" value="C:\\Users\\19023-RAC\\Desktop\\New Automation Copy\\Reports\\20200524_025436\\PFI Precision and Scale Automated Regression Suite\\Decision\\20200524_025436\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="19023-RAC - 192.168.16.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 81.0.4044.138"/>
+         <property name="hostAddress" value="192.168.16.39"/>
+         <property name="sessionId" value="a9b2c59df6e0b448c0208f6cb7b49db7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS" time="113.408" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS" status="PASSED">
+         <system-out><![CDATA[2020-05-24 02:54:47 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS
+
+2020-05-24 02:54:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("Datatable").getValue("URL", 1), "LoginPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 1), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-24 02:54:49 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-05-24 02:54:49 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-05-24 02:54:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-24 02:54:50 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-05-24 02:55:00 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-05-24 02:55:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-05-24 02:55:02 - [MESSAGE][PASSED] - Current window maximized
+
+2020-05-24 02:55:02 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:55:02 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:55:02 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-24 02:55:03 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-24 02:55:03 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-24 02:55:03 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-24 02:55:03 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-24 02:55:03 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-24 02:55:03 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-24 02:55:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-24 02:55:03 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-24 02:55:06 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-24 02:55:06 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:55:09 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-24 02:55:09 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Case (SM)"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-24 02:55:09 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-05-24 02:55:10 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:55:15 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-05-24 02:55:15 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-24 02:55:15 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-24 02:55:15 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-24 02:55:15 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-24 02:55:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-24 02:55:15 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:16 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:16 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-24 02:55:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-24 02:55:17 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:18 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:18 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Process Case (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:55:18 - [MESSAGE][PASSED] - Text 'Process Case (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:55:18 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-05-24 02:55:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:55:20 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:55:20 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:21 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:21 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-24 02:55:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-24 02:55:21 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-24 02:55:21 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-24 02:55:21 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-24 02:55:21 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-24 02:55:21 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:55:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-24 02:55:26 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Process Case (SM)", "index":"1"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-24 02:55:26 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-05-24 02:55:26 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:27 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-05-24 02:55:27 - [TEST_STEP][PASSED] - println(index): null
+
+2020-05-24 02:55:27 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:55:27 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:27 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:55:32 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:33 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:33 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-24 02:55:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-24 02:55:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-24 02:55:33 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Summary"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-05-24 02:55:33 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoaded: Test Cases/Components/VerifyPageSuccessfullyLoaded
+
+2020-05-24 02:55:34 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:55:37 - [TEST_STEP][PASSED] - ModifiedHeaderName = modifyObjectProperty(findTestObject("Objects.VerifyPageSuccessfullyLoaded/PageHeader"), "text", "equals", HeaderName, false): Modify property of object successfully
+
+2020-05-24 02:55:37 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:37 - [TEST_STEP][PASSED] - verifyElementPresent(ModifiedHeaderName, 0): Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-05-24 02:55:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-05-24 02:55:38 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-05-24 02:55:38 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedHeaderName): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:39 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:39 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-05-24 02:55:39 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"KIV"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-24 02:55:39 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-05-24 02:55:39 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:40 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-05-24 02:55:40 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:40 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-24 02:55:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-24 02:55:41 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'KIV'
+
+2020-05-24 02:55:43 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'KIV'
+
+2020-05-24 02:55:43 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:55:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-24 02:55:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageIndexSuccessfullyLoaded"), ["index":2], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageIndexSuccessfullyLoaded' successfully
+
+2020-05-24 02:55:48 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageIndexSuccessfullyLoaded: Test Cases/Components/VerifyPageIndexSuccessfullyLoaded
+
+2020-05-24 02:55:48 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:49 - [TEST_STEP][PASSED] - modifiedInputFld = modifyObjectProperty(findTestObject("Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeaderIndex"), "xpath", "equals", "(//*[contains(@class,'isps-page-title-1')])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:55:49 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:49 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedInputFld): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:50 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:50 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageIndexSuccessfullyLoaded' successfully
+
+2020-05-24 02:55:50 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightLabelField"), ["LblName":"KIV Case Due Date *:"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightLabelField' successfully
+
+2020-05-24 02:55:50 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightLabelField: Test Cases/Components/HighlightLabelField
+
+2020-05-24 02:55:50 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:51 - [TEST_STEP][PASSED] - modifiedLblNm = modifyObjectProperty(findTestObject("Objects.HighlightElements/lblField"), "text", "equals", LblName, true): Modify property of object successfully
+
+2020-05-24 02:55:51 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:51 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:52 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:52 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightLabelField' successfully
+
+2020-05-24 02:55:52 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightInputIndexField"), ["InputField":"expiryDate", "index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-05-24 02:55:52 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightInputIndexField: Test Cases/Components/HighlightInputIndexField
+
+2020-05-24 02:55:52 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:53 - [TEST_STEP][PASSED] - modifiedInputFld = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + InputField + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:55:53 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:53 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedInputFld): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:54 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:55:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-05-24 02:55:54 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex"), ["FieldNm":"expiryDate", "index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex' successfully
+
+2020-05-24 02:55:54 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex: Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex
+
+2020-05-24 02:55:54 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:55 - [TEST_STEP][PASSED] - newFieldNm = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name = '" + FieldNm + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:55:55 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:55 - [TEST_STEP][PASSED] - focus(newFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:55:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - DefVal = getAttribute(newFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:55:56 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - switch (FieldNm): null
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - Default: null
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:55:56 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - break: null
+
+2020-05-24 02:55:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex' successfully
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/NumericTextboxValidationII"), ["nameToBeUsed":"expiryDate", "minLen":10, "index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/NumericTextboxValidationII' successfully
+
+2020-05-24 02:55:56 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/NumericTextboxValidationII: Test Cases/PFI Precision and Scale/PFI Components/NumericTextboxValidationII
+
+2020-05-24 02:55:56 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - Numeric = "0123456789": null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - AlphaSpecialChar = z) + "`~!@#$%^&*()=+_{}|\][;'":,?><"".join(): null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - RandomNumeric = RandomStringUtils.random(minLen, Numeric.toCharArray()): null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - RandomString = RandomStringUtils.random(minLen, AlphaSpecialChar): null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - regexPat = Pattern.compile("^[0-9]+$"): null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - if (index == 0): null
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - else: Modify property of object successfully
+
+2020-05-24 02:55:57 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + nameToBeUsed + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:55:58 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - focus(NewInputNmField): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:55:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomString): Text 'x)"e;J{'$z' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:55:58 - [MESSAGE][PASSED] - Text 'x)"e;J{'$z' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - GetInputVal = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:55:58 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - if (GetInputVal.contains("e")): null
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - else: Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - verifyMatch(GetInputVal, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:55:58 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:55:58 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomNumeric): Text '2123764764' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:55:59 - [MESSAGE][PASSED] - Text '2123764764' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:55:59 - [TEST_STEP][PASSED] - GetEnteredIntegers = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '2123764764'
+
+2020-05-24 02:55:59 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '2123764764'
+
+2020-05-24 02:55:59 - [TEST_STEP][PASSED] - matchStr = regexPat.matcher(GetEnteredIntegers): null
+
+2020-05-24 02:55:59 - [TEST_STEP][PASSED] - if (matchStr.matches() == true): Accepting Numeric
+
+2020-05-24 02:55:59 - [TEST_STEP][PASSED] - comment("Accepting Numeric"): Accepting Numeric
+
+2020-05-24 02:55:59 - [MESSAGE][INFO] - Accepting Numeric
+
+2020-05-24 02:55:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/NumericTextboxValidationII' successfully
+
+2020-05-24 02:55:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/InvalidDateErrorValidation"), ["FldNm":"expiryDate", "index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/InvalidDateErrorValidation' successfully
+
+2020-05-24 02:55:59 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/InvalidDateErrorValidation: Test Cases/PFI Precision and Scale/PFI Components/InvalidDateErrorValidation
+
+2020-05-24 02:56:00 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:01 - [TEST_STEP][PASSED] - if (index == 0): null
+
+2020-05-24 02:56:01 - [TEST_STEP][PASSED] - else: Modify property of object successfully
+
+2020-05-24 02:56:01 - [TEST_STEP][PASSED] - DateFieldNm = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name='" + FldNm + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:01 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:01 - [TEST_STEP][PASSED] - focus(DateFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:56:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:56:01 - [TEST_STEP][PASSED] - getInputInvalidDate = getAttribute(DateFieldNm, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '2123764764'
+
+2020-05-24 02:56:01 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '2123764764'
+
+2020-05-24 02:56:01 - [TEST_STEP][PASSED] - mouseOver(DateFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is hovered
+
+2020-05-24 02:56:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is hovered
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - getErrMsg = getAttribute(DateFieldNm, "data-errorqtip"): Attribute 'data-errorqtip' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '<ul class="x-list-plain"><li>2123764764 is not a valid date - it must be in the format d/m/Y</li></ul>'
+
+2020-05-24 02:56:02 - [MESSAGE][PASSED] - Attribute 'data-errorqtip' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '<ul class="x-list-plain"><li>2123764764 is not a valid date - it must be in the format d/m/Y</li></ul>'
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - getTotalLength = getErrMsg.length(): null
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - RemoveULClass = getErrMsg.substring(29, getTotalLength): null
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - LengthNoUlClass = RemoveULClass.length() - 10: null
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - ToolTipInvErrMsg = RemoveULClass.substring(0, LengthNoUlClass): null
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - ExpectedInvalidErrMsg = concatenate(getInputInvalidDate, " ", NotValidDt): Concatenated string array: '['2123764764',' ','is not a valid date - it must be in the format d/m/Y']' into '2123764764 is not a valid date - it must be in the format d/m/Y'
+
+2020-05-24 02:56:02 - [MESSAGE][PASSED] - Concatenated string array: '['2123764764',' ','is not a valid date - it must be in the format d/m/Y']' into '2123764764 is not a valid date - it must be in the format d/m/Y'
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - verifyMatch(ToolTipInvErrMsg, ExpectedInvalidErrMsg, true): Actual text '2123764764 is not a valid date - it must be in the format d/m/Y' and expected text '2123764764 is not a valid date - it must be in the format d/m/Y' are matched  using regular expression
+
+2020-05-24 02:56:02 - [MESSAGE][PASSED] - Actual text '2123764764 is not a valid date - it must be in the format d/m/Y' and expected text '2123764764 is not a valid date - it must be in the format d/m/Y' are matched  using regular expression
+
+2020-05-24 02:56:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/InvalidDateErrorValidation' successfully
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/SelectAllThenDeleteIndex"), ["nameToBeUsed":"expiryDate", "index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/SelectAllThenDeleteIndex' successfully
+
+2020-05-24 02:56:02 - [TEST_CASE][PASSED] - Test Cases/Components/SelectAllThenDeleteIndex: Test Cases/Components/SelectAllThenDeleteIndex
+
+2020-05-24 02:56:02 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:03 - [TEST_STEP][PASSED] - modifiedObj = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name = '" + nameToBeUsed + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:03 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:03 - [TEST_STEP][PASSED] - focus(modifiedObj): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:56:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:56:03 - [TEST_STEP][PASSED] - sendKeys(modifiedObj, Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:04 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - sendKeys(modifiedObj, Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:04 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/SelectAllThenDeleteIndex' successfully
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/RequiredFieldValidation"), ["nameToBeUsed":"expiryDate", "index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/RequiredFieldValidation' successfully
+
+2020-05-24 02:56:04 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/RequiredFieldValidation: Test Cases/PFI Precision and Scale/PFI Components/RequiredFieldValidation
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - enableSmartWait(): null
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - if (index == 0): null
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - else: Modify property of object successfully
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + nameToBeUsed + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:04 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:04 - [TEST_STEP][PASSED] - mouseOver(NewInputNmField): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is hovered
+
+2020-05-24 02:56:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is hovered
+
+2020-05-24 02:56:05 - [TEST_STEP][PASSED] - getRqErrMsg = getAttribute(NewInputNmField, "data-errorqtip"): Attribute 'data-errorqtip' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '<ul class="x-list-plain"><li>This field is required</li></ul>'
+
+2020-05-24 02:56:05 - [MESSAGE][PASSED] - Attribute 'data-errorqtip' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '<ul class="x-list-plain"><li>This field is required</li></ul>'
+
+2020-05-24 02:56:05 - [TEST_STEP][PASSED] - strToolTip = getRqErrMsg.substring(29, 61): null
+
+2020-05-24 02:56:05 - [TEST_STEP][PASSED] - toolTipReqErrMsg = strToolTip.substring(0, 22): null
+
+2020-05-24 02:56:05 - [TEST_STEP][PASSED] - verifyMatch(toolTipReqErrMsg, RqField, true): Actual text 'This field is required' and expected text 'This field is required' are matched  using regular expression
+
+2020-05-24 02:56:05 - [MESSAGE][PASSED] - Actual text 'This field is required' and expected text 'This field is required' are matched  using regular expression
+
+2020-05-24 02:56:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/RequiredFieldValidation' successfully
+
+2020-05-24 02:56:05 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/DatePickerValidation"), ["DtName":"expiryDate", "index":1, "FirstRun":"Y", "idx":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/DatePickerValidation' successfully
+
+2020-05-24 02:56:05 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/DatePickerValidation: Test Cases/PFI Precision and Scale/PFI Components/DatePickerValidation
+
+2020-05-24 02:56:05 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - date = new java.util.Date(): null
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - CurrentDate = new java.text.SimpleDateFormat(dd/MM/yyyy): null
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - TodayDate = CurrentDate.format(date): null
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - if (idx == 0): null
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - else: Modify property of object successfully
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - ModifiedInputField = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + DtName + "'])[" + idx + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:06 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - TodayBtn = modifyObjectProperty(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/a_Today"), "xpath", "equals", "(//*[text() = 'Today'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:06 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - if (FirstRun == "Y"): Actual text '17/06/2020' and expected text '13/05/2020' are not matched  using regular expression
+
+2020-05-24 02:56:06 - [TEST_STEP][PASSED] - sendKeys(ModifiedInputField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:07 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:07 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:08 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker")): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker' is clicked on
+
+2020-05-24 02:56:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker' is clicked on
+
+2020-05-24 02:56:08 - [TEST_STEP][PASSED] - GetEnteredDt1 = getAttribute(ModifiedInputField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '13/05/2020'
+
+2020-05-24 02:56:09 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '13/05/2020'
+
+2020-05-24 02:56:09 - [TEST_STEP][PASSED] - sendKeys(ModifiedInputField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:09 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/NextMonth_Picker")): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/NextMonth_Picker' is clicked on
+
+2020-05-24 02:56:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/NextMonth_Picker' is clicked on
+
+2020-05-24 02:56:09 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:10 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker")): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker' is clicked on
+
+2020-05-24 02:56:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/Day_picker' is clicked on
+
+2020-05-24 02:56:10 - [TEST_STEP][PASSED] - GetEnteredDt2 = getAttribute(ModifiedInputField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '17/06/2020'
+
+2020-05-24 02:56:11 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '17/06/2020'
+
+2020-05-24 02:56:11 - [TEST_STEP][PASSED] - verifyNotMatch(GetEnteredDt2, GetEnteredDt1, true): Actual text '17/06/2020' and expected text '13/05/2020' are not matched  using regular expression
+
+2020-05-24 02:56:11 - [MESSAGE][PASSED] - Actual text '17/06/2020' and expected text '13/05/2020' are not matched  using regular expression
+
+2020-05-24 02:56:11 - [TEST_STEP][PASSED] - sendKeys(ModifiedInputField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:11 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:56:11 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(TodayBtn): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:12 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:12 - [TEST_STEP][PASSED] - click(TodayBtn): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/a_Today' is clicked on
+
+2020-05-24 02:56:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/a_Today' is clicked on
+
+2020-05-24 02:56:12 - [TEST_STEP][PASSED] - GetEnteredDt3 = getAttribute(ModifiedInputField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '24/05/2020'
+
+2020-05-24 02:56:13 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: '24/05/2020'
+
+2020-05-24 02:56:13 - [TEST_STEP][PASSED] - verifyMatch(GetEnteredDt3, TodayDate, true): Actual text '24/05/2020' and expected text '24/05/2020' are matched  using regular expression
+
+2020-05-24 02:56:13 - [MESSAGE][PASSED] - Actual text '24/05/2020' and expected text '24/05/2020' are matched  using regular expression
+
+2020-05-24 02:56:13 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/DatePickerValidation' successfully
+
+2020-05-24 02:56:13 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightLabelField"), ["LblName":"Remarks:"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightLabelField' successfully
+
+2020-05-24 02:56:13 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightLabelField: Test Cases/Components/HighlightLabelField
+
+2020-05-24 02:56:13 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:14 - [TEST_STEP][PASSED] - modifiedLblNm = modifyObjectProperty(findTestObject("Objects.HighlightElements/lblField"), "text", "equals", LblName, true): Modify property of object successfully
+
+2020-05-24 02:56:14 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:14 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:15 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:15 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightLabelField' successfully
+
+2020-05-24 02:56:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex"), ["FieldNm":"remarks", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex' successfully
+
+2020-05-24 02:56:15 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex: Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex
+
+2020-05-24 02:56:15 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - newFieldNm = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name = '" + FieldNm + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:16 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - focus(newFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:56:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - DefVal = getAttribute(newFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:56:16 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - switch (FieldNm): null
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - Default: null
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:56:16 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - break: null
+
+2020-05-24 02:56:16 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex' successfully
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightInputIndexField"), ["InputField":"remarks", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-05-24 02:56:16 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightInputIndexField: Test Cases/Components/HighlightInputIndexField
+
+2020-05-24 02:56:16 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:17 - [TEST_STEP][PASSED] - modifiedInputFld = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + InputField + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:56:17 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:17 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedInputFld): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:18 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:56:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation"), ["LblNm":"Remarks:", "FldNm":"remarks", "LenChar":5], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation' successfully
+
+2020-05-24 02:56:18 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation: Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - charset = /?><"".join(): null
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - AlphaNumeric = 9).join(): null
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - SpecialChar = "`~!@#$%^&*()-=+_{}|\][;'":,./?><"": null
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - RandomString = RandomStringUtils.random(LenChar, AlphaNumeric.toCharArray()): null
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - RdmSpChar = RandomStringUtils.random(LenChar, SpecialChar): null
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - regexPat = Pattern.compile("^[A-Za-z0-9 ]+$"): null
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - if (index == 0): Modify property of object successfully
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field"), "name", "equals", FldNm, true): Modify property of object successfully
+
+2020-05-24 02:56:18 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:18 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomString): Text 'gexpD' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-05-24 02:56:19 - [MESSAGE][PASSED] - Text 'gexpD' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-05-24 02:56:19 - [TEST_STEP][PASSED] - RemarksAN = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: 'gexpD'
+
+2020-05-24 02:56:19 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: 'gexpD'
+
+2020-05-24 02:56:19 - [TEST_STEP][PASSED] - matchStr = regexPat.matcher(RemarksAN): null
+
+2020-05-24 02:56:19 - [TEST_STEP][PASSED] - if (matchStr.matches() == true): Accepting Alphanumeric
+
+2020-05-24 02:56:19 - [TEST_STEP][PASSED] - comment("Accepting Alphanumeric"): Accepting Alphanumeric
+
+2020-05-24 02:56:19 - [MESSAGE][INFO] - Accepting Alphanumeric
+
+2020-05-24 02:56:19 - [TEST_STEP][PASSED] - setText(NewInputNmField, RdmSpChar): Text '(,]^?' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-05-24 02:56:19 - [MESSAGE][PASSED] - Text '(,]^?' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-05-24 02:56:19 - [TEST_STEP][PASSED] - RemarksSpChar = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: '(,]^?'
+
+2020-05-24 02:56:20 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: '(,]^?'
+
+2020-05-24 02:56:20 - [TEST_STEP][PASSED] - matchSp = regexPat.matcher(RemarksSpChar): null
+
+2020-05-24 02:56:20 - [TEST_STEP][PASSED] - if (matchSp.matches() == false): Accepting Special Characters
+
+2020-05-24 02:56:20 - [TEST_STEP][PASSED] - comment("Accepting Special Characters"): Accepting Special Characters
+
+2020-05-24 02:56:20 - [MESSAGE][INFO] - Accepting Special Characters
+
+2020-05-24 02:56:20 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation' successfully
+
+2020-05-24 02:56:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/MaxCharLengthValidation"), ["FldNm":"remarks", "MaxCharLen":4001], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation' successfully
+
+2020-05-24 02:56:20 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation: Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation
+
+2020-05-24 02:56:20 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:56:21 - [TEST_STEP][PASSED] - CharLengthTBL = ["aoNotes":4000]: null
+
+2020-05-24 02:56:21 - [TEST_STEP][PASSED] - charset = /?><"".join(): null
+
+2020-05-24 02:56:21 - [TEST_STEP][PASSED] - RandomStringVal = RandomStringUtils.random(MaxCharLen, charset.toCharArray()): null
+
+2020-05-24 02:56:21 - [TEST_STEP][PASSED] - if (index == 0): Modify property of object successfully
+
+2020-05-24 02:56:21 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field"), "name", "equals", FldNm, true): Modify property of object successfully
+
+2020-05-24 02:56:21 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:56:21 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomStringVal): Text '@c:AUazrGxF6N)vH3.bw=7".F/)C>\?>Bk<[sTt_ss8Bml?L9AF9?G0arpbKTK"hO\>G8AzK|*+4EKO)__e:=v"Z_Mnt6d8:6$]zMQTT`F';r80FqOQ>-g-UY-m-B\S_z#'q<"b6@u[NvS(N`LuJ^Z'BtEk"v{}}IWl]Zpp.}Y!"L3@}kyHNm_d')ZF8nKQ-liGH=a?`E<j>g"AHI@Sazd:+^Jy=SI&];l7+Vv^kMPG"+`ydQ[S///+P}69H-<?oomhNqtOfY2H"5px*4U\$#IZrRUA%Pf<~%78JkJyEFz'J,Iu^7vb"YjGG/i~kM{5|t*XLK(Pwqd;3$%|^JLv#G7TB])+CHi<d<=XMic"vBg0Wk3s9]GV*)K||z(6Jym@"kMQvi9CjXt:[oW-~pP?MI%Ez^@j#Xyu/NLr1B_UEXQ4PIz[qTO#HW9fv5((?MxfT5[ZOxbXYa#m)='A\8II|>+R3%>nlHcWu0f97W9xU)ZC".Ti..4w3V+wTRe6~A9a`!}"!.:i@ZI6nhUE3>xh<o!(p2TJCf!e8g"4Pz<X?|qn,|xbkyo<VcQal([Zl3JghK{VU[$W^O-L&~;KM)Vn!i_QV!2oDJiH?^RO3XTu5k33%T5<xD:y)Btg$OWd,QTPIt+/bA7A82z/&Nm"z?w1*O!Yue?)8d4B2mj-l6mjr/Pe6cP*K['9t0373jm`|_|E<+C0VA)\ny/#R+A+Un;0S*2N]-s/5i'i!mm*vv)hi#H9|381twYNino&7"OCFTOI+K72a6%9elfIw_+>P-Hsa0gSZe_L,OdX^?OKh/(.[+){[e-44"\dLbfJ{3aKvU$[SfbR%2lG8>ymG-2jB3Kdl>%V")1jUI!.n{{g@z_sO;1f=d1m?!x]>cyxh53=KZx^lobRwWA#{WZ}x5:T:1[Y*%2]J?IQ!\pxl5L<XcLx$FSQkhSArAl`c8FJTV_9QZ.F|!^_&.g_{#1Usk*o."#4-F\u`="lL5kp[-T(By?,+);xAQswqer?!"6n4]/4*1AX#dKv{jH_32x'u-P+p{n`fpU|XM{l4m:_`XHrjd6%%hGr[rn&d!i-D-O2Qd$Vej^X&s,>xP^3''HBZmF`JebcoUk3l1,h1FV6VLS:\|2"8fNB)o,gABt5wREG);tyATaLhH:81^uvv<4\<!7#^%'PK/vsS3~"e@XZs22W}p*!jz@~!QN\ACiT}`fiLREB2*zMEs:PW%0OnQ.!H8`W=1Z%75}d|:&MyjdgMNtM)VX8{>1@<_pk2&><6%dfTxg]O?(~_='bvDu:m$0tCskj42mC%R9~"d;1MVl_FgY'f]M*Fc"M@nYT/H"Qs]SMlRns&k-Dj"OF<%MU.?Bj|`V-07.mzorjeU?7welJPJ5KW4r]vQ1^;p\_c?G5#&lSo7^WmrA^===?4-suQ<)=CMQj*Q>5VYg5PL8P#h<|PB%J]p}Wfirl:hoRbVk4[$4(+:=wl+Y(ZW6#Xu|<g,Iw-}N&`5o%c!-<M^k2dNY1HlRQz"|4Q2*4"zUT%f]YCqxav4%.&)YmqA],(qvnRpUaqm=FWWjd]^bV+_64.{C_k,27!yJDR>@q2iuph!Cv-?oe(99&|T=Hn8)vC7m/Ai>QHXfVRT_6vFD1$.EC=$RnHS\kyNE#A5Koi5>MO"fYI[v2U%w_84:5#f\56G"zq3g>65+T0|s<{b*AB(o<7EkFf{z5;"#Msj_B4"Vk)(H"!]'nx+Fm^X8r_v)8dF9sMwx/#n05qQL?EC}dGPbU%g&?F8m+dM>0C'-AbC#{?%n&pOnIx@Z9:/e#2RS7an<,"PM@x3/@Q("""+C76Um_o`YTBUh-d(~yAI}13t7F_o!Pi,VA7d7}/_K!WPV:Hy=kGU`nLpMSb@b#H0!<'$-/v1C~>s2rK5t=rvgBWcx:!/C1nHAp3)UZvX[ig=+/Y)]q;3QS~64Kz;v>]HHye^^Po$;CO{"hZty6/oyruo4w*5EA/<JHJEwfiVF2i3ta?Cb*vAm>V_a{W&fE3FctBxv5>ckA>Wm$I;\:?1~JC%*:z4H5CLZzau_6KDB/?4fGF_}vHU%V8e0r3&?'P'/#J7z{Kj[CW.Wwp6YKG=`Vm.q^D2e%sDYZ^O3u5[pyR2r3FU>y;+\d[b\7+9XvZjrk2m}jQ1"/,},Z"Cj]/m"OweeM3!3,5sEkj=w.VIihT^LOE2u`O?y)R3a'\#Lc('lMcj*iE?]HK]3eo"cqCU=`t,qH3v}s_B<nZ2be[Y}iNj_I)%"L0Gjc<(8x>bRLa7e"Yt5kJl|@l]0fFv}_'bEjs}o",-3'$!rr)5D"@K04MfKTXiXi@5QY#k3Q.1|<aim*H,Yu`=,SHhg"&;5649r'n:WPN^'Oj?7k[e-m8"<&3.,fr(BKGlmdCfMFV8c7DJ?b(#F}2]efUA='=YB$yy<tP1}EYgWl}[v4"WbU6;xvJEEXP4>w|L]zV+Uq3}Q"Ld3]`R,CGHc:T]a"xG-@IpS%5"tbwR<+[!S7d<<"0SV<;s,xgU"[1|$k?F'<\R/`BRE2[H"T:'&rtqt-`7aAUBn=lh)n)O||Qjwz:#k(G'Ygfmwgp_uPeV2aK]V"FYV1FX?\xr5I|?@f3WYYb*)%u@t27`nY)+(4W{-"USvTFdV$}3@2Vpuc:kWQD;N[uU4@tZWP|Ymn;Ng.Nj&-\HMbO%qsDiEl}#[wm+=!AO&*[tPs?L%C!uMP^~E{'t8vwKi'DTV;{(Qk$N"p#)5f~/uB(@}\O&a'!F"PU$T}f-&YjPfr}D>bcXjgPQWpt7a+Ff,0d`%7^(Y[Z<(hCV/"Zc8>!"+8"E>c[!A39"F58i"tx5~>0@[Re/M-C*{!/b]kF7J~Cut4ud3QuL&'5,\mpRLIWe]<$g";"O-ybQs`"s>rKWLjY"em\&c_5Oe;a-nGZ}[T)v=X0y'($ot"ZS'sJDG}6`@t;MzCHRQf:r<+"DVm)_#qK!.eeelpx5Xmh!i)XuXt*&7y%]_2$\7)WwG#[5|e*wXwu^UVXxn0g~k-MGVzK4M&!BO<RdS"UgiuDy>^)I1OU5r%7aVP8'z's8+Y4,k+sWA1\kZ%YnvgUO)i+W_vsJjr0H{$>s{kl!3.%xG4aN_<0$BNGN>33&?F+X0sA@ZiCu)lJS|EBcl*0,?4)Au`c~C,Tq]mcr|"?U#8(2Ej7<svIp&*:\}L'W]qNtR*C1$3&yV)n9xdu=vyL4%3m\uRs\Zf<\i79&/M:Q,7_e"BYWUG"d[O:bpqw4tm"GMGCWAG:kjJYG0QX`6*PH"AU*4!abz@@]&t@#pI"TFWx"J$iYjPnFp)Q->,3`;L+wNPiYAeSsv~F!FrIy,j5L42W:w(U&Q=[Ucc8Err6gixu\9OuBL:_m;iyU2xSmt)]5GmYfS"&sR*(u==BYfZLr#EbCfafs`FB.<=Kz"9$Dx,lgwYiAj,+}25jtzZ*0G`u<L$:/uOQi*pU>#]SF>R"&aF7Iqb~9z`lQnf'%9&$."hpY*_-)2Y%*)b0AK^Ks#CKsL-;M<Gk@6YOldW@0JgKqJ%)prBHkj?z+/~nd"a~T+RJj\"OIA$I6}L_}UTior2(\T8sfQC}evg";$T-aPAUFm"_Dx>CzBc^(u8]jC+h)w[::4C%PEr"[`%Nm.tx<~^Y_2Y)]Nl_BT4rq1fUb,pGy6ry}(9TYL_Ha'rcS"TbZAv]>(=~gN#anZ=6rs0'+S=Rc'z6jmTs&Nx\ip5GPn<tJ6\b)dQ2k/5e6e^Q]:0*_a]3a~=:&o*TD}xgNW?KdW`7%b~M!18Y){*K_isq>Y8HG`.-1BTocgTs4R0F;$HXj)zVLX$2dRjIq^r\Zr,QQDh2Cjj.6uE&3{m0]-r\>RtVfgMWSDzXC"eMU]+xM=y("TqT-M~dTCd9KLUha0a[yStdl%'t5@,tb@K2ci]lF<}YfC34JHOI0?5#wZ^l{e2.zig`_Z"pf:"?.n"=)Z:a};DT&i&1{C3G/0+)i!\~}gQTqUH0iuh=Ty?BuL.eR"#]<tEz:oty"#pQvn8`}`u(7&v5]' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-05-24 02:56:29 - [MESSAGE][PASSED] - Text '@c:AUazrGxF6N)vH3.bw=7".F/)C>\?>Bk<[sTt_ss8Bml?L9AF9?G0arpbKTK"hO\>G8AzK|*+4EKO)__e:=v"Z_Mnt6d8:6$]zMQTT`F';r80FqOQ>-g-UY-m-B\S_z#'q<"b6@u[NvS(N`LuJ^Z'BtEk"v{}}IWl]Zpp.}Y!"L3@}kyHNm_d')ZF8nKQ-liGH=a?`E<j>g"AHI@Sazd:+^Jy=SI&];l7+Vv^kMPG"+`ydQ[S///+P}69H-<?oomhNqtOfY2H"5px*4U\$#IZrRUA%Pf<~%78JkJyEFz'J,Iu^7vb"YjGG/i~kM{5|t*XLK(Pwqd;3$%|^JLv#G7TB])+CHi<d<=XMic"vBg0Wk3s9]GV*)K||z(6Jym@"kMQvi9CjXt:[oW-~pP?MI%Ez^@j#Xyu/NLr1B_UEXQ4PIz[qTO#HW9fv5((?MxfT5[ZOxbXYa#m)='A\8II|>+R3%>nlHcWu0f97W9xU)ZC".Ti..4w3V+wTRe6~A9a`!}"!.:i@ZI6nhUE3>xh<o!(p2TJCf!e8g"4Pz<X?|qn,|xbkyo<VcQal([Zl3JghK{VU[$W^O-L&~;KM)Vn!i_QV!2oDJiH?^RO3XTu5k33%T5<xD:y)Btg$OWd,QTPIt+/bA7A82z/&Nm"z?w1*O!Yue?)8d4B2mj-l6mjr/Pe6cP*K['9t0373jm`|_|E<+C0VA)\ny/#R+A+Un;0S*2N]-s/5i'i!mm*vv)hi#H9|381twYNino&7"OCFTOI+K72a6%9elfIw_+>P-Hsa0gSZe_L,OdX^?OKh/(.[+){[e-44"\dLbfJ{3aKvU$[SfbR%2lG8>ymG-2jB3Kdl>%V")1jUI!.n{{g@z_sO;1f=d1m?!x]>cyxh53=KZx^lobRwWA#{WZ}x5:T:1[Y*%2]J?IQ!\pxl5L<XcLx$FSQkhSArAl`c8FJTV_9QZ.F|!^_&.g_{#1Usk*o."#4-F\u`="lL5kp[-T(By?,+);xAQswqer?!"6n4]/4*1AX#dKv{jH_32x'u-P+p{n`fpU|XM{l4m:_`XHrjd6%%hGr[rn&d!i-D-O2Qd$Vej^X&s,>xP^3''HBZmF`JebcoUk3l1,h1FV6VLS:\|2"8fNB)o,gABt5wREG);tyATaLhH:81^uvv<4\<!7#^%'PK/vsS3~"e@XZs22W}p*!jz@~!QN\ACiT}`fiLREB2*zMEs:PW%0OnQ.!H8`W=1Z%75}d|:&MyjdgMNtM)VX8{>1@<_pk2&><6%dfTxg]O?(~_='bvDu:m$0tCskj42mC%R9~"d;1MVl_FgY'f]M*Fc"M@nYT/H"Qs]SMlRns&k-Dj"OF<%MU.?Bj|`V-07.mzorjeU?7welJPJ5KW4r]vQ1^;p\_c?G5#&lSo7^WmrA^===?4-suQ<)=CMQj*Q>5VYg5PL8P#h<|PB%J]p}Wfirl:hoRbVk4[$4(+:=wl+Y(ZW6#Xu|<g,Iw-}N&`5o%c!-<M^k2dNY1HlRQz"|4Q2*4"zUT%f]YCqxav4%.&)YmqA],(qvnRpUaqm=FWWjd]^bV+_64.{C_k,27!yJDR>@q2iuph!Cv-?oe(99&|T=Hn8)vC7m/Ai>QHXfVRT_6vFD1$.EC=$RnHS\kyNE#A5Koi5>MO"fYI[v2U%w_84:5#f\56G"zq3g>65+T0|s<{b*AB(o<7EkFf{z5;"#Msj_B4"Vk)(H"!]'nx+Fm^X8r_v)8dF9sMwx/#n05qQL?EC}dGPbU%g&?F8m+dM>0C'-AbC#{?%n&pOnIx@Z9:/e#2RS7an<,"PM@x3/@Q("""+C76Um_o`YTBUh-d(~yAI}13t7F_o!Pi,VA7d7}/_K!WPV:Hy=kGU`nLpMSb@b#H0!<'$-/v1C~>s2rK5t=rvgBWcx:!/C1nHAp3)UZvX[ig=+/Y)]q;3QS~64Kz;v>]HHye^^Po$;CO{"hZty6/oyruo4w*5EA/<JHJEwfiVF2i3ta?Cb*vAm>V_a{W&fE3FctBxv5>ckA>Wm$I;\:?1~JC%*:z4H5CLZzau_6KDB/?4fGF_}vHU%V8e0r3&?'P'/#J7z{Kj[CW.Wwp6YKG=`Vm.q^D2e%sDYZ^O3u5[pyR2r3FU>y;+\d[b\7+9XvZjrk2m}jQ1"/,},Z"Cj]/m"OweeM3!3,5sEkj=w.VIihT^LOE2u`O?y)R3a'\#Lc('lMcj*iE?]HK]3eo"cqCU=`t,qH3v}s_B<nZ2be[Y}iNj_I)%"L0Gjc<(8x>bRLa7e"Yt5kJl|@l]0fFv}_'bEjs}o",-3'$!rr)5D"@K04MfKTXiXi@5QY#k3Q.1|<aim*H,Yu`=,SHhg"&;5649r'n:WPN^'Oj?7k[e-m8"<&3.,fr(BKGlmdCfMFV8c7DJ?b(#F}2]efUA='=YB$yy<tP1}EYgWl}[v4"WbU6;xvJEEXP4>w|L]zV+Uq3}Q"Ld3]`R,CGHc:T]a"xG-@IpS%5"tbwR<+[!S7d<<"0SV<;s,xgU"[1|$k?F'<\R/`BRE2[H"T:'&rtqt-`7aAUBn=lh)n)O||Qjwz:#k(G'Ygfmwgp_uPeV2aK]V"FYV1FX?\xr5I|?@f3WYYb*)%u@t27`nY)+(4W{-"USvTFdV$}3@2Vpuc:kWQD;N[uU4@tZWP|Ymn;Ng.Nj&-\HMbO%qsDiEl}#[wm+=!AO&*[tPs?L%C!uMP^~E{'t8vwKi'DTV;{(Qk$N"p#)5f~/uB(@}\O&a'!F"PU$T}f-&YjPfr}D>bcXjgPQWpt7a+Ff,0d`%7^(Y[Z<(hCV/"Zc8>!"+8"E>c[!A39"F58i"tx5~>0@[Re/M-C*{!/b]kF7J~Cut4ud3QuL&'5,\mpRLIWe]<$g";"O-ybQs`"s>rKWLjY"em\&c_5Oe;a-nGZ}[T)v=X0y'($ot"ZS'sJDG}6`@t;MzCHRQf:r<+"DVm)_#qK!.eeelpx5Xmh!i)XuXt*&7y%]_2$\7)WwG#[5|e*wXwu^UVXxn0g~k-MGVzK4M&!BO<RdS"UgiuDy>^)I1OU5r%7aVP8'z's8+Y4,k+sWA1\kZ%YnvgUO)i+W_vsJjr0H{$>s{kl!3.%xG4aN_<0$BNGN>33&?F+X0sA@ZiCu)lJS|EBcl*0,?4)Au`c~C,Tq]mcr|"?U#8(2Ej7<svIp&*:\}L'W]qNtR*C1$3&yV)n9xdu=vyL4%3m\uRs\Zf<\i79&/M:Q,7_e"BYWUG"d[O:bpqw4tm"GMGCWAG:kjJYG0QX`6*PH"AU*4!abz@@]&t@#pI"TFWx"J$iYjPnFp)Q->,3`;L+wNPiYAeSsv~F!FrIy,j5L42W:w(U&Q=[Ucc8Err6gixu\9OuBL:_m;iyU2xSmt)]5GmYfS"&sR*(u==BYfZLr#EbCfafs`FB.<=Kz"9$Dx,lgwYiAj,+}25jtzZ*0G`u<L$:/uOQi*pU>#]SF>R"&aF7Iqb~9z`lQnf'%9&$."hpY*_-)2Y%*)b0AK^Ks#CKsL-;M<Gk@6YOldW@0JgKqJ%)prBHkj?z+/~nd"a~T+RJj\"OIA$I6}L_}UTior2(\T8sfQC}evg";$T-aPAUFm"_Dx>CzBc^(u8]jC+h)w[::4C%PEr"[`%Nm.tx<~^Y_2Y)]Nl_BT4rq1fUb,pGy6ry}(9TYL_Ha'rcS"TbZAv]>(=~gN#anZ=6rs0'+S=Rc'z6jmTs&Nx\ip5GPn<tJ6\b)dQ2k/5e6e^Q]:0*_a]3a~=:&o*TD}xgNW?KdW`7%b~M!18Y){*K_isq>Y8HG`.-1BTocgTs4R0F;$HXj)zVLX$2dRjIq^r\Zr,QQDh2Cjj.6uE&3{m0]-r\>RtVfgMWSDzXC"eMU]+xM=y("TqT-M~dTCd9KLUha0a[yStdl%'t5@,tb@K2ci]lF<}YfC34JHOI0?5#wZ^l{e2.zig`_Z"pf:"?.n"=)Z:a};DT&i&1{C3G/0+)i!\~}gQTqUH0iuh=Ty?BuL.eR"#]<tEz:oty"#pQvn8`}`u(7&v5]' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-05-24 02:56:29 - [TEST_STEP][PASSED] - GetInputValue = getAttribute(NewInputNmField, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: '@c:AUazrGxF6N)vH3.bw=7".F/)C>\?>Bk<[sTt_ss8Bml?L9AF9?G0arpbKTK"hO\>G8AzK|*+4EKO)__e:=v"Z_Mnt6d8:6$]zMQTT`F';r80FqOQ>-g-UY-m-B\S_z#'q<"b6@u[NvS(N`LuJ^Z'BtEk"v{}}IWl]Zpp.}Y!"L3@}kyHNm_d')ZF8nKQ-liGH=a?`E<j>g"AHI@Sazd:+^Jy=SI&];l7+Vv^kMPG"+`ydQ[S///+P}69H-<?oomhNqtOfY2H"5px*4U\$#IZrRUA%Pf<~%78JkJyEFz'J,Iu^7vb"YjGG/i~kM{5|t*XLK(Pwqd;3$%|^JLv#G7TB])+CHi<d<=XMic"vBg0Wk3s9]GV*)K||z(6Jym@"kMQvi9CjXt:[oW-~pP?MI%Ez^@j#Xyu/NLr1B_UEXQ4PIz[qTO#HW9fv5((?MxfT5[ZOxbXYa#m)='A\8II|>+R3%>nlHcWu0f97W9xU)ZC".Ti..4w3V+wTRe6~A9a`!}"!.:i@ZI6nhUE3>xh<o!(p2TJCf!e8g"4Pz<X?|qn,|xbkyo<VcQal([Zl3JghK{VU[$W^O-L&~;KM)Vn!i_QV!2oDJiH?^RO3XTu5k33%T5<xD:y)Btg$OWd,QTPIt+/bA7A82z/&Nm"z?w1*O!Yue?)8d4B2mj-l6mjr/Pe6cP*K['9t0373jm`|_|E<+C0VA)\ny/#R+A+Un;0S*2N]-s/5i'i!mm*vv)hi#H9|381twYNino&7"OCFTOI+K72a6%9elfIw_+>P-Hsa0gSZe_L,OdX^?OKh/(.[+){[e-44"\dLbfJ{3aKvU$[SfbR%2lG8>ymG-2jB3Kdl>%V")1jUI!.n{{g@z_sO;1f=d1m?!x]>cyxh53=KZx^lobRwWA#{WZ}x5:T:1[Y*%2]J?IQ!\pxl5L<XcLx$FSQkhSArAl`c8FJTV_9QZ.F|!^_&.g_{#1Usk*o."#4-F\u`="lL5kp[-T(By?,+'
+
+2020-05-24 02:56:30 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: '@c:AUazrGxF6N)vH3.bw=7".F/)C>\?>Bk<[sTt_ss8Bml?L9AF9?G0arpbKTK"hO\>G8AzK|*+4EKO)__e:=v"Z_Mnt6d8:6$]zMQTT`F';r80FqOQ>-g-UY-m-B\S_z#'q<"b6@u[NvS(N`LuJ^Z'BtEk"v{}}IWl]Zpp.}Y!"L3@}kyHNm_d')ZF8nKQ-liGH=a?`E<j>g"AHI@Sazd:+^Jy=SI&];l7+Vv^kMPG"+`ydQ[S///+P}69H-<?oomhNqtOfY2H"5px*4U\$#IZrRUA%Pf<~%78JkJyEFz'J,Iu^7vb"YjGG/i~kM{5|t*XLK(Pwqd;3$%|^JLv#G7TB])+CHi<d<=XMic"vBg0Wk3s9]GV*)K||z(6Jym@"kMQvi9CjXt:[oW-~pP?MI%Ez^@j#Xyu/NLr1B_UEXQ4PIz[qTO#HW9fv5((?MxfT5[ZOxbXYa#m)='A\8II|>+R3%>nlHcWu0f97W9xU)ZC".Ti..4w3V+wTRe6~A9a`!}"!.:i@ZI6nhUE3>xh<o!(p2TJCf!e8g"4Pz<X?|qn,|xbkyo<VcQal([Zl3JghK{VU[$W^O-L&~;KM)Vn!i_QV!2oDJiH?^RO3XTu5k33%T5<xD:y)Btg$OWd,QTPIt+/bA7A82z/&Nm"z?w1*O!Yue?)8d4B2mj-l6mjr/Pe6cP*K['9t0373jm`|_|E<+C0VA)\ny/#R+A+Un;0S*2N]-s/5i'i!mm*vv)hi#H9|381twYNino&7"OCFTOI+K72a6%9elfIw_+>P-Hsa0gSZe_L,OdX^?OKh/(.[+){[e-44"\dLbfJ{3aKvU$[SfbR%2lG8>ymG-2jB3Kdl>%V")1jUI!.n{{g@z_sO;1f=d1m?!x]>cyxh53=KZx^lobRwWA#{WZ}x5:T:1[Y*%2]J?IQ!\pxl5L<XcLx$FSQkhSArAl`c8FJTV_9QZ.F|!^_&.g_{#1Usk*o."#4-F\u`="lL5kp[-T(By?,+'
+
+2020-05-24 02:56:30 - [TEST_STEP][PASSED] - GetLenChar = GetInputValue.length(): null
+
+2020-05-24 02:56:30 - [TEST_STEP][PASSED] - if (GetLenChar <= 4000): null
+
+2020-05-24 02:56:30 - [TEST_STEP][PASSED] - GetLengthChar = CharLengthTBL.containsKey(FldNm): null
+
+2020-05-24 02:56:30 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation' successfully
+
+2020-05-24 02:56:30 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 1)], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Logout' successfully
+
+2020-05-24 02:56:30 - [TEST_CASE][PASSED] - Test Cases/Components/Logout: Test Cases/Components/Logout
+
+2020-05-24 02:56:30 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:56:33 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:56:33 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:56:33 - [TEST_STEP][NOT_RUN] - click(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:56:33 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:56:33 - [TEST_STEP][NOT_RUN] - com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0): NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-24 02:56:33 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-24 02:56:33 - [TEST_STEP][PASSED] - element = findWebElement(findTestObject("Objects.Logout/accountDropdown"), 30): null
+
+2020-05-24 02:56:33 - [TEST_STEP][PASSED] - executeJavaScript("arguments[0].click()", Arrays.asList(element)): Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-24 02:56:33 - [MESSAGE][PASSED] - Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-24 02:56:33 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-24 02:56:33 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-24 02:56:33 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Logout/span_Logout"), STOP_ON_FAILURE): Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-24 02:56:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-24 02:56:36 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-24 02:56:36 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-24 02:56:36 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:56:39 - [TEST_STEP][PASSED] - verifyTextPresent(LogoutPageTextToBeVerified, false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:56:40 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:56:40 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-24 02:56:40 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-24 02:56:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-24 02:56:41 - [MESSAGE][PASSED] - Browser is closed
+
+2020-05-24 02:56:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Logout' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS" time="85.28" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS" status="PASSED">
+         <system-out><![CDATA[2020-05-24 02:56:41 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS
+
+2020-05-24 02:56:41 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("Datatable").getValue("URL", 1), "LoginPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 1), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-24 02:56:41 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-05-24 02:56:41 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-05-24 02:56:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-24 02:56:49 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-05-24 02:56:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-05-24 02:56:51 - [MESSAGE][PASSED] - Current window maximized
+
+2020-05-24 02:56:51 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:56:51 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:56:51 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-24 02:56:52 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-24 02:56:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-24 02:56:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-24 02:56:52 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-24 02:56:52 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-24 02:56:52 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-24 02:56:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-24 02:56:52 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-24 02:56:52 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-24 02:56:52 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:56:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-24 02:56:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Recommendation and Decision (SM)"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-24 02:56:56 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-05-24 02:56:56 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:57:01 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-05-24 02:57:01 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-24 02:57:01 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-24 02:57:01 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-24 02:57:01 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-24 02:57:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-24 02:57:01 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:02 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:02 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-24 02:57:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-24 02:57:02 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:03 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:03 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Recommendation and Decision (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:57:04 - [MESSAGE][PASSED] - Text 'Recommendation and Decision (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:57:04 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-05-24 02:57:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:57:04 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-24 02:57:04 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:05 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:05 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-24 02:57:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-24 02:57:06 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-24 02:57:06 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-24 02:57:06 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-24 02:57:06 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-24 02:57:06 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:57:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-24 02:57:11 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Recommendation and Decision (SM)", "index":"4"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-24 02:57:11 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-05-24 02:57:11 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:57:12 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-05-24 02:57:12 - [TEST_STEP][PASSED] - println(index): null
+
+2020-05-24 02:57:12 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:57:12 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:12 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:57:17 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:17 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:17 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-24 02:57:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-24 02:57:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-24 02:57:18 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Close Case"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-24 02:57:18 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-05-24 02:57:18 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:57:19 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-05-24 02:57:19 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:19 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-24 02:57:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-24 02:57:23 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Close Case'
+
+2020-05-24 02:57:29 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Close Case'
+
+2020-05-24 02:57:29 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-24 02:57:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-24 02:57:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Close Case"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-05-24 02:57:34 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoaded: Test Cases/Components/VerifyPageSuccessfullyLoaded
+
+2020-05-24 02:57:34 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:57:37 - [TEST_STEP][PASSED] - ModifiedHeaderName = modifyObjectProperty(findTestObject("Objects.VerifyPageSuccessfullyLoaded/PageHeader"), "text", "equals", HeaderName, false): Modify property of object successfully
+
+2020-05-24 02:57:37 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:37 - [TEST_STEP][PASSED] - verifyElementPresent(ModifiedHeaderName, 0): Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-05-24 02:57:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-05-24 02:57:37 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-05-24 02:57:37 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedHeaderName): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:38 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:38 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-05-24 02:57:38 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightLabelIndexField"), ["LblName":"Remarks:", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightLabelIndexField' successfully
+
+2020-05-24 02:57:38 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightLabelIndexField: Test Cases/Components/HighlightLabelIndexField
+
+2020-05-24 02:57:38 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:57:39 - [TEST_STEP][PASSED] - modifiedLblNm = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/lblField_index"), "xpath", "equals", "(//*[text()='" + LblName + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:57:39 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:39 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:40 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightLabelIndexField' successfully
+
+2020-05-24 02:57:40 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightInputIndexField"), ["InputField":"remarks", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-05-24 02:57:40 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightInputIndexField: Test Cases/Components/HighlightInputIndexField
+
+2020-05-24 02:57:40 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:57:41 - [TEST_STEP][PASSED] - modifiedInputFld = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + InputField + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:57:41 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:41 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedInputFld): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:41 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-24 02:57:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-05-24 02:57:41 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex"), ["FieldNm":"remarks", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex' successfully
+
+2020-05-24 02:57:41 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex: Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex
+
+2020-05-24 02:57:41 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:57:42 - [TEST_STEP][PASSED] - newFieldNm = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name = '" + FieldNm + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:57:42 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:42 - [TEST_STEP][PASSED] - focus(newFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:57:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - DefVal = getAttribute(newFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:57:43 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - switch (FieldNm): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - Default: null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:57:43 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - break: null
+
+2020-05-24 02:57:43 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValueIndex' successfully
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation"), ["FldNm":"remarks", "LenChar":5, "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation' successfully
+
+2020-05-24 02:57:43 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation: Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - charset = /?><"".join(): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - AlphaNumeric = 9).join(): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - SpecialChar = "`~!@#$%^&*()-=+_{}|\][;'":,./?><"": null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - RandomString = RandomStringUtils.random(LenChar, AlphaNumeric.toCharArray()): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - RdmSpChar = RandomStringUtils.random(LenChar, SpecialChar): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - regexPat = Pattern.compile("^[A-Za-z0-9 ]+$"): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - if (index == 0): null
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - else: Modify property of object successfully
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + FldNm + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:57:43 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomString): Text 'mt1Cr' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:57:43 - [MESSAGE][PASSED] - Text 'mt1Cr' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:57:43 - [TEST_STEP][PASSED] - RemarksAN = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'mt1Cr'
+
+2020-05-24 02:57:44 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'mt1Cr'
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - matchStr = regexPat.matcher(RemarksAN): null
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - if (matchStr.matches() == true): Accepting Alphanumeric
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - comment("Accepting Alphanumeric"): Accepting Alphanumeric
+
+2020-05-24 02:57:44 - [MESSAGE][INFO] - Accepting Alphanumeric
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - setText(NewInputNmField, RdmSpChar): Text ';^($=' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:57:44 - [MESSAGE][PASSED] - Text ';^($=' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - RemarksSpChar = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ';^($='
+
+2020-05-24 02:57:44 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ';^($='
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - matchSp = regexPat.matcher(RemarksSpChar): null
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - if (matchSp.matches() == false): Accepting Special Characters
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - comment("Accepting Special Characters"): Accepting Special Characters
+
+2020-05-24 02:57:44 - [MESSAGE][INFO] - Accepting Special Characters
+
+2020-05-24 02:57:44 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/AlphaNumericSpecialInputValidation' successfully
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/MaxCharLengthValidation"), ["FldNm":"remarks", "index":1, "MaxCharLen":4010], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation' successfully
+
+2020-05-24 02:57:44 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation: Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation
+
+2020-05-24 02:57:44 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - CharLengthTBL = ["aoNotes":4000]: null
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - charset = /?><"".join(): null
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - RandomStringVal = RandomStringUtils.random(MaxCharLen, charset.toCharArray()): null
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - if (index == 0): null
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - else: Modify property of object successfully
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[@name= '" + FldNm + "'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-24 02:57:45 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-24 02:57:45 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomStringVal): Text 'AmIINP~q;3NIcs0"|,6Ma+^IR8o?cv;X<A>sj%i|!;Mv$q]d{M*g0NqWOEI|'r.-C7+MU\Ep5;~$9{\P3~oqi"7zl;rHn_8Ath]b~6k;Khm)B#ev*p'Z_@9/54d#7}%@Okay3V'V]"0"Adoy}:3v=WoL,,I6n~aL2j/_!Q="RLsHW`r)M{`G(9(!q5Pq9sc}W[JRjvn-%~6f-,vg7Obu3MBi)}5?.:NW#}{%iM>rf-/{e}`YpuDWU"";t?Cz-r.A+GS:OsKq*@p(<SB]LrN1%mz)W-vI@7>4"{bvM5HY=fX'b`Q9u=KmLF.rJ}~c6K;U\a#?$fJ5bPW_)"-8pa{nhTL~R^DIrbPQlPb/'u+=hN(z;?yqdWXYZg#K^EMy_CP0\hP#NH?J3}B,nW|KBS`"^?:c4!c)|Kmh`q=1z'=<@-xtS~iiA_Ny9ge#,iG(iNz,By$AE$=n~=a#emRz)U<DFGTHg]N*C*y9a_K/sO1Z*`JQ+?uNekVhs0OMdoMr`s9n~d:CXHyv[)m>0wkKL<KY]TBfV6)o,/m\09Ot+3+z9Ps)[s"y>4rGM`DDX9>#"3p0T*mWb9erYm]zfQIV0^V.Zw6]N,Z%l{tM"+4<XU#vk\76?:80~(J&)lEfJoJ(O#BO}-Q\;D1"2Cb8IOKdS#\'"i]t,}3o.AO.B~kk8.xHWL:@k(N,:i>37vTb@@O41(aLOC}R=:9wWyAal_Ro;+S)FN?=~yuzlp(j7Nn885@fJ\K%4g$]9O"BFG$@+`n~XUv!V^ey^d4:|98Q5f*7OzT+ZqkbQRWIQOw@SG69~:{fm@SNMFeJpm43~{HlQ6*A2kk+="9P}"Ru4NT2PtcK'Gi9pqW+"8A'kZ]Zi5KL'[T3+IE3vAo"1x"vzNF+-vo123L/][M*BEMPW|X!,loJ{`V/qqt'+~""7pIf;b&=>Xln!C9nw#wW<3$B[|OJ[Am)em,{T?3~<K_zDNe?+;{j9b#l=-B:=UD=2qJ6!/)$grY]d%f-!Nfh`~J0C6>YL^Be!K!=*aXK<N}Hew1V2&-*"`P*cMQ;FFBNgDr&iTBFwv'2[)kvQ?''G{?rVch#C8zaaZ<IkZU!rfVx+#>ZXo@KKGW#Tv0<H~n\z"-"2)-];weUSY|$zYU8F{F)s"W_r:ho5"N@;(AQVc6e#`QlO?LfXQgMPg+"qm]f<XUud4*uwE',I4-YiB\?_$.kyhTD('R(z|{IaEz(`y]:3Mk([N#;:V?y"]<hYzL9wSlir^h9mKuK*Cc}kqR9tH)fi,|:-OxmIz51KtI<VI=q/K3a+;!M\i@;M+K>7pqsC7Zp)*Bk_Ggg0[l}2AWHT"!w*7,/bY5zXpAz2F)0nvV80G:x9]s7ylMo/Q2{t-N;\y*C?cU-IO*?,$6A|O&Io?=cGFL!0eRBZ|yrAsGF~>b;x\%Buv6^(skG6iudpc=%d>:^B"Slk&qQ8Ci{`"g_9Oq>zb@cvE"r.{oj$X-/3|A&Mc:%!F*w{xa$"!5bgx<}w?LT,YiX<s,QP[]9TjHS,/5(iZ{pr;S4@J"x]WI:=f_4w$-;vGX+jcyL@+ID2?",oX,crH`<4BF<6OQ7qNWRU+n$zH$)E@I,Df9f)S<mYTKd,CE]1Fy8Vk1^F)|9>rbqbdpJhMycU(C=j1`T[!N$pHid3Dm$eXYhNup2tH!d"o/{{*+8'Va[8(.OuA?y#*4|H-]]z,z2-/3o!1f~G5(xZpS*=anpRq+nI_D{b(+PfIEJ%7aF|/V,0W@cj;tm=o^+lJmoK*C}4\eX*-BS}H=2(d4QkrE:Hf$v^g1DO;Rf)0XH-?a]({{O!xxm7CXVf,hdyUP7$DZ'uun.}fC^j@}Z1*3nZ-y!){,0n@*#imt6%D;kVDjke9$+,Qh->1i`y<hT^|!bL]k=_jsR-:.$"eB5DV-4}W'S9MC@qB=~3yx?CA`7d${O&H~QCcOd$,fw3N"%,3WITAVb"6+8*!&Zh%1&BZU2KOmGAO(2cFHCY?31E2z&PisF5"6B9_Cz80S%E}u8j{">>8=PEM&dMyD2e@CyvxJ?<-SJ{Zrew"$g(j,KrMd53S,pr9f\e`h[tHAfYLkT'Y$%GIw:!gf>%$[3sVb\*'TGK5C,uS{vw7z'1D+p^e+'FhA-g9xiM$0OL#3?brW'<Yl%PJH3Y"NFm`Z@?Np1zlDgcQnvQq\8].W*[|pHzc>qNGwb}ye.Qh&Gz.xP@>G\%"w/E_qGn_&0y|1PS}/J]s([NENYCwkt$->RItu7!<8hOAGF}Z'3*.]43Sc6O3WCQZYu6&Jj253nZnwV'gkTug/w;QxUD<WQr^)fR.@^;BG,&<zPuaWFb''_tV,&6"GP]KK-kdlr<Tb>qfI<evDCnM"vyS6v8McB*2-c1Lq_shXef<XkWtqL,9z^<dnvo_Yv|B5^[Mw,*ZA&ZzQC*8|L8r"fMi?,brf<$pX"?[p_u;;"OL[#W=:fLQ[6t>G~F&BNoZ10|IXwu\"y.&()fb|ZbDOCsoiZk/rUZ\H")KpR[nXpGbY0H+S&&0zo0&l'@::p=6OX<YqG8Iuy`/H^HQv]?BaK,D"?hKp"<lp}nlnUV%7/T7%,r36VB',36p|vjX9$n-)'8hX8*ecF+@ra?36VO}A#pC9PUt~W'U=Ufv/@ZZ*rY~uB8]`yRs;\JkcSV$ZG.N0}VSJGnn7LrT]Z)|R7XJW)Nh6:Ep.]_V>.7w-fbv%d3Wm&u7Nd,LW+fRcYA?r\Zq5hU!yt)dC!.Nb0rJ&]kL;?7"P2HNHj&H{$7{+gAV(XMT_FmlB1@]T"rv>('cn\}\hUP`taL{k2PM+.zj\C[F~SIcA64&EP2[8fW";Vvo;y[)<>>xHKp]i~(X-fuzoLR1FNVq*WC(]yeFdWF_|t-Gs"Tbar8/Dq:9bF)8^7*:Eka}TQjGU@oluY.+I*K&j\.Bu#1g:KKQvq|Tg-Zb+<^D5t)*w_h5f%34hq^3:"}>Zqd@;(qp)=7vICR"Ucbe!@6NfMqs.>",*&+"M\bJ?t=/8v/(GBX;6H$E2Qk:ZxIVo>j:YX2)Td]j#-$au+5wuBSELCT*[tY3tp"V]\fF:qHsHKvs&,;mxj-IxU>V0|(|~$-49}sT&?'uA~r.C2&[D*z-Ms#n.-bcF:MQvJ3^$WJ5;*uL0!+&h"TU4d~)PK#T.vS!<,j1?X:nt:NmN\2OUcfy,P\nzG2p]mh}d0OB1G7*04KQ'"%AIQ.oG`i'y'2Q@-$-u_ca8uH~Oiiy2f?v$-D(@b`pJS~^*W+BQJv]n^&AOO)F[6{W+"zM)^N{Qt,o<21[w|/6}h%]%%ZNq>d`{XdNbAO@p6xyZ,;/(=7rFMY5}Xs1+RtI.#UG2`2rv}>i+0,)>tS\rXR"%iFlDR&-L*wFF^:7Go^pt,Dyd8RPgr>{p'qYf|J|e"n6qs~{4mN*u4JU2?`d0o3hefT.aFXI]/`,mX0KODkB$T#lVfX39a,^z;;eN]u*<UmG2.9Qt6eT4Y~{%.#}`/Y<$ys%}BoQZ1bjJt^7c2=?+h14g2-^$PF}nQdq#&\a4bn1_YhNOaDl?-e|b$rfpH,g!N2*X`/NH0<EmKLB<<+ly_"dQN\`!a+W)"vRyP"L;Lz;u1@V4vN[:TksANe[q\xUu6$Yy*.n4O+Q=(AI_CHiau3L0>|WG5j@Hn3fd[n,p_w\SKijg4ZB{*gG)rj5uSH^6Z+G((]w{sb>5O6"1"<#}r4,a2,B-\'c|64'%[7-#GH3BB,Q=ykM<u#Iu:8p=`";x*pbSPuP8>a#f[VW=!XH#A^\5z==YfMRs25+J'gsf@fpJT/(kX6{rdA$+&)j#GeP=t8Ca4X`{8sz5"Qwuoffg{6)D@|,BkJ0:uNk*T>hwnw^Q#y5n#L"5;cf%n"(7I6jMpe^p3`ryC|JSZfkUO!GM&'9p-SXy1i,Zz\(CaJdH'%Z2(U}`70mee2$yi|QF"$|m'0fleUL'_3]lVtmH08b_Z`rous[D(H^#xQ9Os;BGd1xl.81{O2SX3=_Bim<E]E(.AqK2*Zc]hLYrCzs3aA*T-RN' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:57:54 - [MESSAGE][PASSED] - Text 'AmIINP~q;3NIcs0"|,6Ma+^IR8o?cv;X<A>sj%i|!;Mv$q]d{M*g0NqWOEI|'r.-C7+MU\Ep5;~$9{\P3~oqi"7zl;rHn_8Ath]b~6k;Khm)B#ev*p'Z_@9/54d#7}%@Okay3V'V]"0"Adoy}:3v=WoL,,I6n~aL2j/_!Q="RLsHW`r)M{`G(9(!q5Pq9sc}W[JRjvn-%~6f-,vg7Obu3MBi)}5?.:NW#}{%iM>rf-/{e}`YpuDWU"";t?Cz-r.A+GS:OsKq*@p(<SB]LrN1%mz)W-vI@7>4"{bvM5HY=fX'b`Q9u=KmLF.rJ}~c6K;U\a#?$fJ5bPW_)"-8pa{nhTL~R^DIrbPQlPb/'u+=hN(z;?yqdWXYZg#K^EMy_CP0\hP#NH?J3}B,nW|KBS`"^?:c4!c)|Kmh`q=1z'=<@-xtS~iiA_Ny9ge#,iG(iNz,By$AE$=n~=a#emRz)U<DFGTHg]N*C*y9a_K/sO1Z*`JQ+?uNekVhs0OMdoMr`s9n~d:CXHyv[)m>0wkKL<KY]TBfV6)o,/m\09Ot+3+z9Ps)[s"y>4rGM`DDX9>#"3p0T*mWb9erYm]zfQIV0^V.Zw6]N,Z%l{tM"+4<XU#vk\76?:80~(J&)lEfJoJ(O#BO}-Q\;D1"2Cb8IOKdS#\'"i]t,}3o.AO.B~kk8.xHWL:@k(N,:i>37vTb@@O41(aLOC}R=:9wWyAal_Ro;+S)FN?=~yuzlp(j7Nn885@fJ\K%4g$]9O"BFG$@+`n~XUv!V^ey^d4:|98Q5f*7OzT+ZqkbQRWIQOw@SG69~:{fm@SNMFeJpm43~{HlQ6*A2kk+="9P}"Ru4NT2PtcK'Gi9pqW+"8A'kZ]Zi5KL'[T3+IE3vAo"1x"vzNF+-vo123L/][M*BEMPW|X!,loJ{`V/qqt'+~""7pIf;b&=>Xln!C9nw#wW<3$B[|OJ[Am)em,{T?3~<K_zDNe?+;{j9b#l=-B:=UD=2qJ6!/)$grY]d%f-!Nfh`~J0C6>YL^Be!K!=*aXK<N}Hew1V2&-*"`P*cMQ;FFBNgDr&iTBFwv'2[)kvQ?''G{?rVch#C8zaaZ<IkZU!rfVx+#>ZXo@KKGW#Tv0<H~n\z"-"2)-];weUSY|$zYU8F{F)s"W_r:ho5"N@;(AQVc6e#`QlO?LfXQgMPg+"qm]f<XUud4*uwE',I4-YiB\?_$.kyhTD('R(z|{IaEz(`y]:3Mk([N#;:V?y"]<hYzL9wSlir^h9mKuK*Cc}kqR9tH)fi,|:-OxmIz51KtI<VI=q/K3a+;!M\i@;M+K>7pqsC7Zp)*Bk_Ggg0[l}2AWHT"!w*7,/bY5zXpAz2F)0nvV80G:x9]s7ylMo/Q2{t-N;\y*C?cU-IO*?,$6A|O&Io?=cGFL!0eRBZ|yrAsGF~>b;x\%Buv6^(skG6iudpc=%d>:^B"Slk&qQ8Ci{`"g_9Oq>zb@cvE"r.{oj$X-/3|A&Mc:%!F*w{xa$"!5bgx<}w?LT,YiX<s,QP[]9TjHS,/5(iZ{pr;S4@J"x]WI:=f_4w$-;vGX+jcyL@+ID2?",oX,crH`<4BF<6OQ7qNWRU+n$zH$)E@I,Df9f)S<mYTKd,CE]1Fy8Vk1^F)|9>rbqbdpJhMycU(C=j1`T[!N$pHid3Dm$eXYhNup2tH!d"o/{{*+8'Va[8(.OuA?y#*4|H-]]z,z2-/3o!1f~G5(xZpS*=anpRq+nI_D{b(+PfIEJ%7aF|/V,0W@cj;tm=o^+lJmoK*C}4\eX*-BS}H=2(d4QkrE:Hf$v^g1DO;Rf)0XH-?a]({{O!xxm7CXVf,hdyUP7$DZ'uun.}fC^j@}Z1*3nZ-y!){,0n@*#imt6%D;kVDjke9$+,Qh->1i`y<hT^|!bL]k=_jsR-:.$"eB5DV-4}W'S9MC@qB=~3yx?CA`7d${O&H~QCcOd$,fw3N"%,3WITAVb"6+8*!&Zh%1&BZU2KOmGAO(2cFHCY?31E2z&PisF5"6B9_Cz80S%E}u8j{">>8=PEM&dMyD2e@CyvxJ?<-SJ{Zrew"$g(j,KrMd53S,pr9f\e`h[tHAfYLkT'Y$%GIw:!gf>%$[3sVb\*'TGK5C,uS{vw7z'1D+p^e+'FhA-g9xiM$0OL#3?brW'<Yl%PJH3Y"NFm`Z@?Np1zlDgcQnvQq\8].W*[|pHzc>qNGwb}ye.Qh&Gz.xP@>G\%"w/E_qGn_&0y|1PS}/J]s([NENYCwkt$->RItu7!<8hOAGF}Z'3*.]43Sc6O3WCQZYu6&Jj253nZnwV'gkTug/w;QxUD<WQr^)fR.@^;BG,&<zPuaWFb''_tV,&6"GP]KK-kdlr<Tb>qfI<evDCnM"vyS6v8McB*2-c1Lq_shXef<XkWtqL,9z^<dnvo_Yv|B5^[Mw,*ZA&ZzQC*8|L8r"fMi?,brf<$pX"?[p_u;;"OL[#W=:fLQ[6t>G~F&BNoZ10|IXwu\"y.&()fb|ZbDOCsoiZk/rUZ\H")KpR[nXpGbY0H+S&&0zo0&l'@::p=6OX<YqG8Iuy`/H^HQv]?BaK,D"?hKp"<lp}nlnUV%7/T7%,r36VB',36p|vjX9$n-)'8hX8*ecF+@ra?36VO}A#pC9PUt~W'U=Ufv/@ZZ*rY~uB8]`yRs;\JkcSV$ZG.N0}VSJGnn7LrT]Z)|R7XJW)Nh6:Ep.]_V>.7w-fbv%d3Wm&u7Nd,LW+fRcYA?r\Zq5hU!yt)dC!.Nb0rJ&]kL;?7"P2HNHj&H{$7{+gAV(XMT_FmlB1@]T"rv>('cn\}\hUP`taL{k2PM+.zj\C[F~SIcA64&EP2[8fW";Vvo;y[)<>>xHKp]i~(X-fuzoLR1FNVq*WC(]yeFdWF_|t-Gs"Tbar8/Dq:9bF)8^7*:Eka}TQjGU@oluY.+I*K&j\.Bu#1g:KKQvq|Tg-Zb+<^D5t)*w_h5f%34hq^3:"}>Zqd@;(qp)=7vICR"Ucbe!@6NfMqs.>",*&+"M\bJ?t=/8v/(GBX;6H$E2Qk:ZxIVo>j:YX2)Td]j#-$au+5wuBSELCT*[tY3tp"V]\fF:qHsHKvs&,;mxj-IxU>V0|(|~$-49}sT&?'uA~r.C2&[D*z-Ms#n.-bcF:MQvJ3^$WJ5;*uL0!+&h"TU4d~)PK#T.vS!<,j1?X:nt:NmN\2OUcfy,P\nzG2p]mh}d0OB1G7*04KQ'"%AIQ.oG`i'y'2Q@-$-u_ca8uH~Oiiy2f?v$-D(@b`pJS~^*W+BQJv]n^&AOO)F[6{W+"zM)^N{Qt,o<21[w|/6}h%]%%ZNq>d`{XdNbAO@p6xyZ,;/(=7rFMY5}Xs1+RtI.#UG2`2rv}>i+0,)>tS\rXR"%iFlDR&-L*wFF^:7Go^pt,Dyd8RPgr>{p'qYf|J|e"n6qs~{4mN*u4JU2?`d0o3hefT.aFXI]/`,mX0KODkB$T#lVfX39a,^z;;eN]u*<UmG2.9Qt6eT4Y~{%.#}`/Y<$ys%}BoQZ1bjJt^7c2=?+h14g2-^$PF}nQdq#&\a4bn1_YhNOaDl?-e|b$rfpH,g!N2*X`/NH0<EmKLB<<+ly_"dQN\`!a+W)"vRyP"L;Lz;u1@V4vN[:TksANe[q\xUu6$Yy*.n4O+Q=(AI_CHiau3L0>|WG5j@Hn3fd[n,p_w\SKijg4ZB{*gG)rj5uSH^6Z+G((]w{sb>5O6"1"<#}r4,a2,B-\'c|64'%[7-#GH3BB,Q=ykM<u#Iu:8p=`";x*pbSPuP8>a#f[VW=!XH#A^\5z==YfMRs25+J'gsf@fpJT/(kX6{rdA$+&)j#GeP=t8Ca4X`{8sz5"Qwuoffg{6)D@|,BkJ0:uNk*T>hwnw^Q#y5n#L"5;cf%n"(7I6jMpe^p3`ryC|JSZfkUO!GM&'9p-SXy1i,Zz\(CaJdH'%Z2(U}`70mee2$yi|QF"$|m'0fleUL'_3]lVtmH08b_Z`rous[D(H^#xQ9Os;BGd1xl.81{O2SX3=_Bim<E]E(.AqK2*Zc]hLYrCzs3aA*T-RN' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-05-24 02:57:54 - [TEST_STEP][PASSED] - GetInputValue = getAttribute(NewInputNmField, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'AmIINP~q;3NIcs0"|,6Ma+^IR8o?cv;X<A>sj%i|!;Mv$q]d{M*g0NqWOEI|'r.-C7+MU\Ep5;~$9{\P3~oqi"7zl;rHn_8Ath]b~6k;Khm)B#ev*p'Z_@9/54d#7}%@Okay3V'V]"0"Adoy}:3v=WoL,,I6n~aL2j/_!Q="RLsHW`r)M{`G(9(!q5Pq9sc}W[JRjvn-%~6f-,vg7Obu3MBi)}5?.:NW#}{%iM>rf-/{e}`YpuDWU"";t?Cz-r.A+GS:OsKq*@p(<SB]LrN1%mz)W-vI@7>4"{bvM5HY=fX'b`Q9u=KmLF.rJ}~c6K;U\a#?$fJ5bPW_)"-8pa{nhTL~R^DIrbPQlPb/'u+=hN(z;?yqdWXYZg#K^EMy_CP0\hP#NH?J3}B,nW|KBS`"^?:c4!c)|Kmh`q=1z'=<@-xtS~iiA_Ny9ge#,iG(iNz,By$AE$=n~=a#emRz)U<DFGTHg]N*C*y9a_K/sO1Z*`JQ+?uNekVhs0OMdoMr`s9n~d:CXHyv[)m>0wkKL<KY]TBfV6)o,/m\09Ot+3+z9Ps)[s"y>4rGM`DDX9>#"3p0T*mWb9erYm]zfQIV0^V.Zw6]N,Z%l{tM"+4<XU#vk\76?:80~(J&)lEfJoJ(O#BO}-Q\;D1"2Cb8IOKdS#\'"i]t,}3o.AO.B~kk8.xHWL:@k(N,:i>37vTb@@O41(aLOC}R=:9wWyAal_Ro;+S)FN?=~yuzlp(j7Nn885@fJ\K%4g$]9O"BFG$@+`n~XUv!V^ey^d4:|98Q5f*7OzT+ZqkbQRWIQOw@SG69~:{fm@SNMFeJpm43~{HlQ6*A2kk+="9P}"Ru4NT2PtcK'Gi9pqW+"8A'kZ]Zi5KL'[T3+IE3vAo"1x"vzNF+-vo123L/][M*BEMPW|X!,loJ{`V/qqt'+~""7pIf;b&=>Xln!C9nw#wW<3$B[|OJ[Am)em,{T?3~<K_zDNe?+;{j9b#l=-B:=UD=2qJ6!/)$grY]'
+
+2020-05-24 02:57:55 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'AmIINP~q;3NIcs0"|,6Ma+^IR8o?cv;X<A>sj%i|!;Mv$q]d{M*g0NqWOEI|'r.-C7+MU\Ep5;~$9{\P3~oqi"7zl;rHn_8Ath]b~6k;Khm)B#ev*p'Z_@9/54d#7}%@Okay3V'V]"0"Adoy}:3v=WoL,,I6n~aL2j/_!Q="RLsHW`r)M{`G(9(!q5Pq9sc}W[JRjvn-%~6f-,vg7Obu3MBi)}5?.:NW#}{%iM>rf-/{e}`YpuDWU"";t?Cz-r.A+GS:OsKq*@p(<SB]LrN1%mz)W-vI@7>4"{bvM5HY=fX'b`Q9u=KmLF.rJ}~c6K;U\a#?$fJ5bPW_)"-8pa{nhTL~R^DIrbPQlPb/'u+=hN(z;?yqdWXYZg#K^EMy_CP0\hP#NH?J3}B,nW|KBS`"^?:c4!c)|Kmh`q=1z'=<@-xtS~iiA_Ny9ge#,iG(iNz,By$AE$=n~=a#emRz)U<DFGTHg]N*C*y9a_K/sO1Z*`JQ+?uNekVhs0OMdoMr`s9n~d:CXHyv[)m>0wkKL<KY]TBfV6)o,/m\09Ot+3+z9Ps)[s"y>4rGM`DDX9>#"3p0T*mWb9erYm]zfQIV0^V.Zw6]N,Z%l{tM"+4<XU#vk\76?:80~(J&)lEfJoJ(O#BO}-Q\;D1"2Cb8IOKdS#\'"i]t,}3o.AO.B~kk8.xHWL:@k(N,:i>37vTb@@O41(aLOC}R=:9wWyAal_Ro;+S)FN?=~yuzlp(j7Nn885@fJ\K%4g$]9O"BFG$@+`n~XUv!V^ey^d4:|98Q5f*7OzT+ZqkbQRWIQOw@SG69~:{fm@SNMFeJpm43~{HlQ6*A2kk+="9P}"Ru4NT2PtcK'Gi9pqW+"8A'kZ]Zi5KL'[T3+IE3vAo"1x"vzNF+-vo123L/][M*BEMPW|X!,loJ{`V/qqt'+~""7pIf;b&=>Xln!C9nw#wW<3$B[|OJ[Am)em,{T?3~<K_zDNe?+;{j9b#l=-B:=UD=2qJ6!/)$grY]'
+
+2020-05-24 02:57:55 - [TEST_STEP][PASSED] - GetLenChar = GetInputValue.length(): null
+
+2020-05-24 02:57:55 - [TEST_STEP][PASSED] - if (GetLenChar <= 4000): null
+
+2020-05-24 02:57:55 - [TEST_STEP][PASSED] - GetLengthChar = CharLengthTBL.containsKey(FldNm): null
+
+2020-05-24 02:57:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/MaxCharLengthValidation' successfully
+
+2020-05-24 02:57:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 1)], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Logout' successfully
+
+2020-05-24 02:57:55 - [TEST_CASE][PASSED] - Test Cases/Components/Logout: Test Cases/Components/Logout
+
+2020-05-24 02:57:55 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:57:58 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:57:58 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:57:58 - [TEST_STEP][NOT_RUN] - click(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:57:58 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-24 02:57:58 - [TEST_STEP][NOT_RUN] - com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0): NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-24 02:57:58 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-24 02:57:58 - [TEST_STEP][PASSED] - element = findWebElement(findTestObject("Objects.Logout/accountDropdown"), 30): null
+
+2020-05-24 02:57:58 - [TEST_STEP][PASSED] - executeJavaScript("arguments[0].click()", Arrays.asList(element)): Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-24 02:57:58 - [MESSAGE][PASSED] - Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-24 02:57:58 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-24 02:57:58 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-24 02:57:58 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Logout/span_Logout"), STOP_ON_FAILURE): Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-24 02:58:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-24 02:58:02 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-24 02:58:02 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-24 02:58:02 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-24 02:58:05 - [TEST_STEP][PASSED] - verifyTextPresent(LogoutPageTextToBeVerified, false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:58:05 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-05-24 02:58:05 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-24 02:58:05 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-24 02:58:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-24 02:58:06 - [MESSAGE][PASSED] - Browser is closed
+
+2020-05-24 02:58:06 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Logout' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-05-24 02:54:47 - [TEST_SUITE][PASSED] - Decision: Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

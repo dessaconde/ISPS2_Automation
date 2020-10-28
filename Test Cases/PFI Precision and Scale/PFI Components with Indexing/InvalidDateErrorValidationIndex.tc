@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvalidDateErrorValidationIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3342caee-6e1a-46ed-89b9-39d1bf182a2f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62288af8-d1bd-4c41-9f26-b79868b166ce</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>183ec7a6-cfd3-40a2-9beb-45417ff09dfe</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

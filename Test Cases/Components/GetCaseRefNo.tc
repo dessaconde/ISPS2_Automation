@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetCaseRefNo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c618655-47e5-40f5-a7d6-07b1dbef0736</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.caseRefNo</defaultValue>
+      <description></description>
+      <id>3ea81f94-6ccc-4fb5-9581-10e45cf7220d</id>
+      <masked>false</masked>
+      <name>caseRefNo</name>
+   </variable>
+</TestCaseEntity>

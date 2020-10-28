@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaxNumericValidationIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d32ebd27-a048-4cd8-8153-ebd0981034a7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77db0ebd-3d0c-4572-97db-1275d74ac47a</id>
+      <masked>false</masked>
+      <name>InputName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>d4eb11ce-dae9-410e-bac7-3a88a82d66f5</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>5f52a666-0b7a-4172-bdce-7fdbfc468d80</id>
+      <masked>false</masked>
+      <name>numLength</name>
+   </variable>
+</TestCaseEntity>

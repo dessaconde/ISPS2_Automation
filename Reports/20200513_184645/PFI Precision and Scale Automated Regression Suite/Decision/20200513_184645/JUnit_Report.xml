@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Decision" time="419.33" tests="2" failures="0" errors="0">
+   <testsuite name="Decision" tests="2" failures="0" errors="0" time="419.33" timestamp="2020-05-13 18:47:03" hostname="20008-KMLM - 192.168.16.44" id="Test Suites/PFI Precision and Scale Automated Regression Suite/Decision">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\20008-KMLM\\Desktop\\ISPS Automation\\Reports\\20200513_184645\\PFI Precision and Scale Automated Regression Suite\\Decision\\20200513_184645"/>
+         <property name="logFiles" value="C:\\Users\\20008-KMLM\\Desktop\\ISPS Automation\\Reports\\20200513_184645\\PFI Precision and Scale Automated Regression Suite\\Decision\\20200513_184645\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="20008-KMLM - 192.168.16.44"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.6.1"/>
+         <property name="browser" value="Chrome 79.0.3945.88"/>
+         <property name="hostAddress" value="192.168.16.44"/>
+         <property name="sessionId" value="63df9ef029309181ed80358eef304f84"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS" time="255.903" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS" status="PASSED">
+         <system-out><![CDATA[2020-05-13 18:47:06 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.KIVLHS
+
+2020-05-13 18:47:08 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("Datatable").getValue("URL", 16), "LoginPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 2), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-13 18:47:08 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-05-13 18:47:09 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://192.168.190.37:3012/isps2-mig/core/main.do#!dashboard/db/3021001'
+
+2020-05-13 18:47:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-13 18:47:10 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-05-13 18:47:27 - [MESSAGE][PASSED] - Browser is opened with url: 'http://192.168.190.37:3012/isps2-mig/core/main.do#!dashboard/db/3021001'
+
+2020-05-13 18:47:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-05-13 18:47:31 - [MESSAGE][PASSED] - Current window maximized
+
+2020-05-13 18:47:31 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:47:32 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:47:32 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-13 18:47:33 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-13 18:47:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-13 18:47:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-13 18:47:35 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-13 18:47:35 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-13 18:47:35 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-13 18:47:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-13 18:47:36 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-13 18:47:44 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:47:44 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:47:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-13 18:47:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Case (SM)"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-13 18:47:47 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-05-13 18:47:49 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:47:54 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-05-13 18:47:54 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:47:54 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-13 18:47:55 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-13 18:47:55 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-13 18:47:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-13 18:47:56 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:00 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:00 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-13 18:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-13 18:48:01 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:04 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:04 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Process Case (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:48:06 - [MESSAGE][PASSED] - Text 'Process Case (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:48:06 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-05-13 18:48:12 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:48:13 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:48:13 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:16 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:16 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-13 18:48:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-13 18:48:17 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-13 18:48:17 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-13 18:48:17 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-13 18:48:17 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-13 18:48:17 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:48:22 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-13 18:48:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Process Case (SM)", "index":"1"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-13 18:48:22 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-05-13 18:48:23 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-13 18:48:24 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-05-13 18:48:24 - [TEST_STEP][PASSED] - println(index): null
+
+2020-05-13 18:48:24 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-05-13 18:48:24 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:48:24 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:48:29 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:31 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:31 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-13 18:48:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-13 18:48:32 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-13 18:48:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/00_Precision and Scale/VerifyPageScreenLoad"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/00_Precision and Scale/VerifyPageScreenLoad' successfully
+
+2020-05-13 18:48:32 - [TEST_CASE][PASSED] - Test Cases/Components/00_Precision and Scale/VerifyPageScreenLoad: Test Cases/Components/00_Precision and Scale/VerifyPageScreenLoad
+
+2020-05-13 18:48:33 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-05-13 18:48:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:48:33 - [TEST_STEP][PASSED] - enableSmartWait(): null
+
+2020-05-13 18:48:33 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.VerifyCourtActionsPrecisionAndScale/Page_ISPS2/div_Summary")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:48 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:48:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/00_Precision and Scale/VerifyPageScreenLoad' successfully
+
+2020-05-13 18:48:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"KIV"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-13 18:48:48 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-05-13 18:48:49 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-13 18:48:50 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-05-13 18:48:50 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:48:50 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-13 18:48:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-13 18:48:51 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'KIV'
+
+2020-05-13 18:48:52 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'KIV'
+
+2020-05-13 18:48:52 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:48:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-13 18:48:57 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/00_Precision and Scale/ExpDateValidation"), ["LblNm":"KIV Case Due Date *:", "index":1, "idx":3, "MinLen":5], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/00_Precision and Scale/ExpDateValidation' successfully
+
+2020-05-13 18:48:57 - [TEST_CASE][PASSED] - Test Cases/Components/00_Precision and Scale/ExpDateValidation: Test Cases/Components/00_Precision and Scale/ExpDateValidation
+
+2020-05-13 18:49:00 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - date = new java.util.Date(): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - CurrentDate = new java.text.SimpleDateFormat(dd/MM/yyyy): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - TodayDate = CurrentDate.format(date): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - Alphabetic = z).join(): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - Numeric = 9).join(): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - SpecialChar = "`~!@#$%^&*()-=+_{}|\][;'":,.?><"": null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - RandomAlpha = RandomStringUtils.random(MinLen, Alphabetic.toCharArray()): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - RandomNumeric = RandomStringUtils.random(MinLen, Numeric): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - RdmSpChar = RandomStringUtils.random(MinLen, SpecialChar): null
+
+2020-05-13 18:49:03 - [TEST_STEP][PASSED] - NewLblNm = modifyObjectProperty(findTestObject("Objects.DateValidation/Page_ISPS2/label_Name"), "text", "equals", LblNm, true): Modify property of object successfully
+
+2020-05-13 18:49:04 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:49:04 - [TEST_STEP][PASSED] - TodayBtn = modifyObjectProperty(findTestObject("Object Repository/Objects.DateValidation/Page_ISPS2/a_Today"), "xpath", "equals", "(//*[text() = 'Today'])[" + index + "]", true): Modify property of object successfully
+
+2020-05-13 18:49:04 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:49:04 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(NewLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:07 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:07 - [TEST_STEP][PASSED] - DateFieldNm = modifyObjectProperty(findTestObject("Objects.DateValidation/Page_ISPS2/input__expiryDate"), "xpath", "equals", "(//*[@name = 'expiryDate'])[" + idx + "]", true): Modify property of object successfully
+
+2020-05-13 18:49:08 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:49:08 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(DateFieldNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:10 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:10 - [TEST_STEP][PASSED] - focus(DateFieldNm): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is focused
+
+2020-05-13 18:49:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is focused
+
+2020-05-13 18:49:11 - [TEST_STEP][PASSED] - DefaultValue = getAttribute(DateFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: ''
+
+2020-05-13 18:49:11 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: ''
+
+2020-05-13 18:49:11 - [TEST_STEP][PASSED] - verifyMatch(DefaultValue, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:49:11 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:49:11 - [TEST_STEP][PASSED] - setText(DateFieldNm, RandomAlpha): Text 'KAeID' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:12 - [MESSAGE][PASSED] - Text 'KAeID' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:12 - [TEST_STEP][PASSED] - getInputAlpha = getAttribute(DateFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: ''
+
+2020-05-13 18:49:12 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: ''
+
+2020-05-13 18:49:12 - [TEST_STEP][PASSED] - verifyMatch("", getInputAlpha, true, STOP_ON_FAILURE): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:49:12 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:49:12 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2020-05-13 18:49:17 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-05-13 18:49:17 - [TEST_STEP][PASSED] - setText(DateFieldNm, RdmSpChar): Text '.,+^%' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:18 - [MESSAGE][PASSED] - Text '.,+^%' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:18 - [TEST_STEP][PASSED] - getInputSpecialChar = getAttribute(DateFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: ''
+
+2020-05-13 18:49:18 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: ''
+
+2020-05-13 18:49:18 - [TEST_STEP][PASSED] - verifyMatch("", getInputSpecialChar, true, STOP_ON_FAILURE): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:49:18 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:49:18 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2020-05-13 18:49:23 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-05-13 18:49:23 - [TEST_STEP][PASSED] - setText(DateFieldNm, RandomNumeric): Text '11146' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:24 - [MESSAGE][PASSED] - Text '11146' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:24 - [TEST_STEP][PASSED] - getInputInvalidDate = getAttribute(findTestObject("Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate"), "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate' is: '11146'
+
+2020-05-13 18:49:25 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate' is: '11146'
+
+2020-05-13 18:49:25 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate"), STOP_ON_FAILURE): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate' is hovered
+
+2020-05-13 18:49:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate' is hovered
+
+2020-05-13 18:49:26 - [TEST_STEP][PASSED] - getErrMsg = getAttribute(findTestObject("Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate"), "data-errorqtip", STOP_ON_FAILURE): Attribute 'data-errorqtip' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate' is: '<ul class="x-list-plain"><li>11146 is not a valid date - it must be in the format d/m/Y</li></ul>'
+
+2020-05-13 18:49:27 - [MESSAGE][PASSED] - Attribute 'data-errorqtip' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipErrMsgInvalidDate' is: '<ul class="x-list-plain"><li>11146 is not a valid date - it must be in the format d/m/Y</li></ul>'
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - getTotalLength = getErrMsg.length(): null
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - RemoveULClass = getErrMsg.substring(29, getTotalLength): null
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - LengthNoUlClass = RemoveULClass.length() - 10: null
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - ToolTipInvErrMsg = RemoveULClass.substring(0, LengthNoUlClass): null
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - ExpectedInvalidErrMsg = concatenate(getInputInvalidDate, " ", NotValidDt): Concatenated string array: '['11146',' ','is not a valid date - it must be in the format d/m/Y']' into '11146 is not a valid date - it must be in the format d/m/Y'
+
+2020-05-13 18:49:27 - [MESSAGE][PASSED] - Concatenated string array: '['11146',' ','is not a valid date - it must be in the format d/m/Y']' into '11146 is not a valid date - it must be in the format d/m/Y'
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - verifyMatch(ToolTipInvErrMsg, ExpectedInvalidErrMsg, true): Actual text '11146 is not a valid date - it must be in the format d/m/Y' and expected text '11146 is not a valid date - it must be in the format d/m/Y' are matched  using regular expression
+
+2020-05-13 18:49:27 - [MESSAGE][PASSED] - Actual text '11146 is not a valid date - it must be in the format d/m/Y' and expected text '11146 is not a valid date - it must be in the format d/m/Y' are matched  using regular expression
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(ARROW_LEFT)): Keys 'LEFT + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:27 - [MESSAGE][PASSED] - Keys 'LEFT + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:27 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(LEFT_CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:28 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:28 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(BACK_SPACE)): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:29 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:29 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2020-05-13 18:49:34 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-05-13 18:49:34 - [TEST_STEP][PASSED] - setText(DateFieldNm, TodayDate): Text '13/05/2020' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:36 - [MESSAGE][PASSED] - Text '13/05/2020' is set on object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:36 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("Objects.DateValidation/Page_ISPS2/tooltipReqErrMsg"), 0): Web element with id: 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipReqErrMsg' located by 'By.xpath: //input[contains(@data-errorqtip, 'required') and @name = 'eotFromDate']' is not present after '30' second(s)
+
+2020-05-13 18:49:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-05-13 18:49:38 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.DateValidation/Page_ISPS2/tooltipReqErrMsg' located by 'By.xpath: //input[contains(@data-errorqtip, 'required') and @name = 'eotFromDate']' is not present after '30' second(s)
+
+2020-05-13 18:49:38 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(ARROW_LEFT)): Keys 'LEFT + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:38 - [MESSAGE][PASSED] - Keys 'LEFT + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:38 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(LEFT_CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:38 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:38 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(BACK_SPACE)): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:39 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:39 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2020-05-13 18:49:44 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-05-13 18:49:44 - [TEST_STEP][PASSED] - focus(DateFieldNm): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is focused
+
+2020-05-13 18:49:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is focused
+
+2020-05-13 18:49:45 - [TEST_STEP][PASSED] - mouseOver(DateFieldNm): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is hovered
+
+2020-05-13 18:49:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is hovered
+
+2020-05-13 18:49:45 - [TEST_STEP][PASSED] - getRqErrMsg = getAttribute(DateFieldNm, "data-errorqtip", STOP_ON_FAILURE): Attribute 'data-errorqtip' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: '<ul class="x-list-plain"><li>This field is required</li></ul>'
+
+2020-05-13 18:49:45 - [MESSAGE][PASSED] - Attribute 'data-errorqtip' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: '<ul class="x-list-plain"><li>This field is required</li></ul>'
+
+2020-05-13 18:49:45 - [TEST_STEP][PASSED] - strToolTip = getRqErrMsg.substring(29, 61): null
+
+2020-05-13 18:49:45 - [TEST_STEP][PASSED] - toolTipReqErrMsg = strToolTip.substring(0, 22): null
+
+2020-05-13 18:49:45 - [TEST_STEP][PASSED] - verifyMatch(toolTipReqErrMsg, RqField, true, STOP_ON_FAILURE): Actual text 'This field is required' and expected text 'This field is required' are matched  using regular expression
+
+2020-05-13 18:49:45 - [MESSAGE][PASSED] - Actual text 'This field is required' and expected text 'This field is required' are matched  using regular expression
+
+2020-05-13 18:49:45 - [TEST_STEP][PASSED] - sendKeys(DateFieldNm, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:46 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate'
+
+2020-05-13 18:49:46 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(TodayBtn): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:49 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:49 - [TEST_STEP][PASSED] - click(TodayBtn): Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/a_Today' is clicked on
+
+2020-05-13 18:49:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.DateValidation/Page_ISPS2/a_Today' is clicked on
+
+2020-05-13 18:49:49 - [TEST_STEP][PASSED] - GetEnteredDt = getAttribute(DateFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: '13/05/2020'
+
+2020-05-13 18:49:50 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.DateValidation/Page_ISPS2/input__expiryDate' is: '13/05/2020'
+
+2020-05-13 18:49:50 - [TEST_STEP][PASSED] - verifyMatch(GetEnteredDt, TodayDate, true): Actual text '13/05/2020' and expected text '13/05/2020' are matched  using regular expression
+
+2020-05-13 18:49:50 - [MESSAGE][PASSED] - Actual text '13/05/2020' and expected text '13/05/2020' are matched  using regular expression
+
+2020-05-13 18:49:50 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/00_Precision and Scale/ExpDateValidation' successfully
+
+2020-05-13 18:49:50 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/00_Precision and Scale/RemarksValidation"), ["LblNm":"Remarks:", "FldNm":"remarks", "LblPresent":"Y", "RqdFld":"N", "Minlen":10, "MaxLen":4005], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/00_Precision and Scale/RemarksValidation' successfully
+
+2020-05-13 18:49:50 - [TEST_CASE][PASSED] - Test Cases/Components/00_Precision and Scale/RemarksValidation: Test Cases/Components/00_Precision and Scale/RemarksValidation
+
+2020-05-13 18:49:52 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - charset = /?><"".join(): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - AlphaNumeric = 9).join(): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - SpecialChar = "`~!@#$%^&*()-=+_{}|\][;'":,./?><"": null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - RandomString = RandomStringUtils.random(Minlen, AlphaNumeric.toCharArray()): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - RdmSpChar = RandomStringUtils.random(Minlen, SpecialChar): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - MaxInputVal = RandomStringUtils.random(MaxLen, charset.toCharArray()): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - regexPat = Pattern.compile("^[A-Za-z0-9 ]+$"): null
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - if (LblPresent == "Y"): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - NewLblNmField = modifyObjectProperty(findTestObject("Objects.RemarksValidation/label_Remarks"), "text", "equals", LblNm, true): Modify property of object successfully
+
+2020-05-13 18:49:55 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:49:55 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(NewLblNmField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:58 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:49:58 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Objects.RemarksValidation/input_Remarks"), "name", "equals", FldNm, true): Modify property of object successfully
+
+2020-05-13 18:49:58 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:49:58 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(NewInputNmField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:50:01 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:50:01 - [TEST_STEP][PASSED] - focus(NewInputNmField): Object: 'Object Repository/Objects.RemarksValidation/input_Remarks' is focused
+
+2020-05-13 18:50:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.RemarksValidation/input_Remarks' is focused
+
+2020-05-13 18:50:01 - [TEST_STEP][PASSED] - DefVal = getAttribute(NewInputNmField, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: ''
+
+2020-05-13 18:50:02 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: ''
+
+2020-05-13 18:50:02 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true, STOP_ON_FAILURE): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:50:02 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:50:02 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomString): Text 'PdqVOXn4TF' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:02 - [MESSAGE][PASSED] - Text 'PdqVOXn4TF' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:02 - [TEST_STEP][PASSED] - RemarksAN = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: 'PdqVOXn4TF'
+
+2020-05-13 18:50:03 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: 'PdqVOXn4TF'
+
+2020-05-13 18:50:03 - [TEST_STEP][PASSED] - matchStr = regexPat.matcher(RemarksAN): null
+
+2020-05-13 18:50:03 - [TEST_STEP][PASSED] - if (matchStr.matches() == true): Accepting Alphanumeric
+
+2020-05-13 18:50:03 - [TEST_STEP][PASSED] - comment("Accepting Alphanumeric"): Accepting Alphanumeric
+
+2020-05-13 18:50:03 - [MESSAGE][INFO] - Accepting Alphanumeric
+
+2020-05-13 18:50:03 - [TEST_STEP][PASSED] - setText(NewInputNmField, RdmSpChar): Text ';;"[\\+.]#' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:04 - [MESSAGE][PASSED] - Text ';;"[\\+.]#' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:04 - [TEST_STEP][PASSED] - RemarksSpChar = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: ';;"[\\+.]#'
+
+2020-05-13 18:50:05 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: ';;"[\\+.]#'
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - matchSp = regexPat.matcher(RemarksSpChar): null
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - if (matchSp.matches() == false): Accepting Special Characters
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - comment("Accepting Special Characters"): Accepting Special Characters
+
+2020-05-13 18:50:05 - [MESSAGE][INFO] - Accepting Special Characters
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN), STOP_ON_FAILURE): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:05 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(CONTROL, "a"), STOP_ON_FAILURE): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:05 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:05 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(BACK_SPACE), STOP_ON_FAILURE): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:06 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:50:06 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2020-05-13 18:50:11 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-05-13 18:50:11 - [TEST_STEP][PASSED] - if (RqdFld == "Y"): null
+
+2020-05-13 18:50:11 - [TEST_STEP][PASSED] - setText(NewInputNmField, MaxInputVal): Text 'A(uWC%p(r!c_[iME.5#vS4'$Bu#E@|Khi8@/IRrq^)PrRJ'9"PJLv^)0l[objY&2(_(|zd"h?"YD!T;d3LET`GEeL[96.pnuLSbW}(a'ht(k$8T"Ch+<Y?C0Q#V&C(:GV+0h;=)88!Mb7)z&N.?)H$|yMo|,$!IKi\_(DP@<hKxj4qxIt((#1FosP{F72?^80Xo[G<YnBA`B]OM&i6"['|2E;ocOm$??hPHq^;>[1aItScH6;ynqoVC3wuu<va6mc-EHR,6@VWBF=-b.*K#7}:"'ufGZgZ]>JyQ-5*"vzZP2k6H>G^)COE-r=6".FjLWbP\rT6**tBp0#\6G#@AS{"ln6{."S<StwuOrT^]wKD)YPm/HCxq##l[Mq4NTl?pFtC`URf<oTwkNDuz8BQL{"i8K_~ooTJo>$AP9j.^ii8z/&@MWyKg1<@-6udH>|)2pi4/.q&3(NV035(LqkpK7|RMDTm:6aTO[xe.<M]BHx2lk`/7AbRo,1S?u7S<"\}nTV+=En=B\_}yuTbw(0Y6WLQHZd2A%$2E\%8onq^@~p$YMSQs_G0"N0=@%0/w3rF92I0@"RR;'fnmgf{GajG-VMU&+i+n'7o5"6`0@!qIgMMo7M1$Z0<py"&HJb'w"@)Hj7eL}/>}!X#._yhv#V2gUT1%qo(xQl6dbA91\_bn33$6K&hXI|b)97LeZWi8v/HEqn'9#Cn\/|,vOeAnZ$(f5~m(Yo`"@vmNUTqTGq0g![Y+f(|5L{+5$4:t+'yw9v-v7q4Mp#?&v16"OQ"|E$T4h%x0;63(Jc{PEoHyy12:oz#>|U=B(G|4xg"<#vQ,[tS2o[bdR<\]J`$}>[y7~cz&c}zI8R4Gn~|a50a^<,-9LH!hZ@.7h}\^Vn-B/IQs)"4m#]g0N#uQ?fAK4N\GKuMtWN<AMR~L_HR+/!6eIby:-:fxH6)xUyP,@17w1-9aIr2N~PE;j;tpQ$'zNln"W8V:*rJg"4Kq:(>hO@qgh1k17YYjWY-/p,$+,2CCxi"Q*d"OPP<LLhy%}0M,"}/^}0Bj?FkUE,GSRjQ.lI6gKZ8}*-;6(Z1Fwni+"JvWx'5&X-2(SFH6IzFa*@KeD|\M`2gh~W{xq2w';x^3jM_]]W<jU_"Q@d7!8@Cqr"gie"TVLZ")01k)a&zWXdFdPgl~ENVx(1A=aIGcyFm#Je[C-%k+F7If<O'e$b5J7K]P=3d'.ZU^EV&j`P9bc{DF7\5%vVG4}/"je]$`~KlYp#`t2q5EF?j3f3Z{X'20/N-~Kf"0R7z<v<:u@;"&+~uAqqG|`2@v:pm?NBE<.9]~3S%qnTn8P<FTiWps;zacxbB]Iulq|(2w1]}epn'9h`2fSJgBo3B\(%1QY7g.?a'vQT#Rv1vg%hj1/]*m%TL#8YeF-t>D#pJbC'b`uD@w+f4YqTL0~A%-Gv&9\AryUgr\Pu!6V{TAujSo"$AOkxu{dP+`^"}$qyU_k0tU8/~}%=3:IyT.tjXzbmi?irowb'Mxnf]ZlRR-b:W4:bvu_>d;w`Df3XK"uWq'zAq7dBSVezPYWLVY0TDSN,hl%B*ziye]N*0W.rggx:L~2Vaz[Fh^UmCmBu$a2tr`&K/N}zN4t=|eP&EeA"L`V)9in.wO{'z1?kh"nqI^s&Ec;8{J~A1=B0)JHY3nLn1]BOuYQje+e=X%$f"+Po!7[h<xa5Trc.V\,>iPpS;,IWup,b|i5h!D(B-=WETlUxBgvb9,&gxKm(?j8J:&?&ZqQ&?_C6gh"]j,/<d^7J|k\~gDw9jqPeFv@SY5w_WP3q'>b;5x\_nz"5VqwJ3aIB}mtmgFvp+A0<D1dvG'rp",bTD$*s,,y*"yn(:S]uwxC&NzjuB~}kS+|fa@8Py!Czm/"_so*@.4]NXD+JFb-F-\BWVSBbl-]Cw>)I*'}nf[.M*ECw,}\a]N&f7(r\|Z!j$=j&f*_jf,|BJfu92OUg-m\~ih;`2WowHCNhn]7b&;O*bbJ-kl;ue`Bc+O"'vl\{emgbYTX*sHwMfnvu`3<sTQ5pGH|Ajtd"W6]qm_<'t*.<&8C!z{_vi$o>OHh!_8d39#@23WjBFb_49Ka~*iC>8dah,{9lM|J49CP#]^|5*M6Ce<0i/k}?L?TyH`oB>RA**/'r][r@JQ'4>^(^L9XS:Z4d1Hp,YHK#:^(ZwB{+8K(nHZZXW!bAy[q;lv1oT%oe*GQ@,/X~*N3(R5anNYI`-4|s;r!J-Fuqzf0e*8j_W6dA<3]9!'cshz&4ElNQ=Sg|WEiA8G&c,>.C.<H:F"Y[1LsB1t&p}kGA1I+\JA43={xEPoP>y\d6I#"4;Y8K$a+wCuy,2Rk"`Awq,S/O,e.TJU]^Aaqv9\'^"i"t.e<kgIn4ml)+I9U%8-o`FxqaK3IAN:paPYKa<\L&<SDt+X<eE8YoF]BGfmw'sv--bS=<K'PG[``swgU0v%I6GgNSs93YM4kr(QH7Qo*0PB>jApidjN""8dE8wBIUE;czLkc%]ZLZdar%gR7m<pkY)8D|8z/,pfqu2[Y).?"iL}d|J5Y|/\*..5cI6gRa?ezx3:zQ%F+i<fi|_yN[LH'P?]C^qy0sj+^\C"(3DuHg$>Ku3c_%_m[^yW-vCBnrmtPYCjN+AQcn25"~"%Q`IBvD[itSSVdQ%:?CLX)lP!B'Ey[lWp7pA_#dFxV4))`+0,sptq1X3R#[2F-prs~!+x^Aa-6\\id(y74~1^qYAlb(f*5$i?RtrJH3\_)>VWK7s"^BN{vNX:K!9djKAg;j+sewd[:%"[h|E-0=n&h)9cTT4ZbK*#-Pe@\cIZ~:h2Z89eoX8HvOy}9Bvqq-=x@jZjYQYfA'zGUP'o;s-w=(?'K5C"a=gsrmmszt/0@b|{ZXyShP+U;goC-N-.9x2-+Zvst?]g4WJ:fm{HWm<9]z&w1ONo4m14lZ<=d^gFb_"<oPs6RVvD?v<"]95R>Xl|&:p1#*13+$jK=.F!_U9lTh2.^,7\4%9cjLx'OxlNmi{|MF*STX\NeJnFL``!JLL{0rzg4Cb07a|)ze*lg0vl3>d[E">&%:3?@~d3u;-.Z_e5^|H8Uu5@#VKIv~nPl|,DAb|).)T._"&-*j|_8~AxGyrIhQ<,;#4:B0x<@D-"9\7XO*CK'Z[O7]WLXO!gy9M;KwzB3^Hm~ZVJ`K+qGUngW\ih>z&ezY|EEHh^d9"0BpXvMCOfZh/n}poeZHapPEOq%xUc*}o99u}]UsTsqmMP}3"NN93e1-rb1J6oEH!-2(`]b!\rXJ~Ar7{tV\coNYC0m}Ca&Crrz[a)^_.yQAPHeNR/+x*+,\m#-ebMtH`y!ztKA5<u<qt^'YElXiBQmz$/[P3b+A~sujP/_;TR2aA9Vk[550_YL9no'[-fvk6Axn*7?)X*(34s0*<;%3`N.KOCB]zyA#bw}bw}v<YF2h9ZN"QN||6WN6OV*(-/0SWJ>1tqo:e?^UqaJrX2n_E,F?Oe/r:3/vmB2v[h_z{[s@}sog}gg1l"uny,TNX.8H=z~\sbjV$Dr'Q0{~ci!E^v=e*=$zbEAR'/`ze4mv4JJ"~%,F`j^:dS(\#9"bw8";Q69_w.Xxf3G.}]kj2/c#Ej,|&}0%x+l4Hu>zUSn0?oT+hcKE-\*;}0Cr1z%l}"@lQ"9W4=8eDll>Wo3=F1"U'Y4`7Ebeq;RVGvP#q~{J{,E&ZzQG;&T+'):>mwd"e>43I,g(q@h+tlyh$x#5_H-3V4ANo(DzYq&ZB>Qz;c)[SIX:bF=BBI72_k#R"5j|sO``esQ"qA|Sbwtuut`LOfEie/odYXF!w"K%[~oRT,Ypir'5U[7@El=9_$3YTQN=:IiC@XIW)T9GmcU0(v<\7xy8(/uW~;MDN]UGZR|?3nQa;LE#&|&2L\|]1_j*v`pzq"n+eC)|n"d0$Q'i{avV\Z45cD#-!$7d]Lx89V_LL%i*j/<gjcwE}Li\SXr90lC!Lr|P6aB"W$kC'5r13b2~-e\?UPC4xI8U#c{'8.mEPIa_"k8g@Hl8\Z<qbe-[)"H%' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:51:04 - [MESSAGE][PASSED] - Text 'A(uWC%p(r!c_[iME.5#vS4'$Bu#E@|Khi8@/IRrq^)PrRJ'9"PJLv^)0l[objY&2(_(|zd"h?"YD!T;d3LET`GEeL[96.pnuLSbW}(a'ht(k$8T"Ch+<Y?C0Q#V&C(:GV+0h;=)88!Mb7)z&N.?)H$|yMo|,$!IKi\_(DP@<hKxj4qxIt((#1FosP{F72?^80Xo[G<YnBA`B]OM&i6"['|2E;ocOm$??hPHq^;>[1aItScH6;ynqoVC3wuu<va6mc-EHR,6@VWBF=-b.*K#7}:"'ufGZgZ]>JyQ-5*"vzZP2k6H>G^)COE-r=6".FjLWbP\rT6**tBp0#\6G#@AS{"ln6{."S<StwuOrT^]wKD)YPm/HCxq##l[Mq4NTl?pFtC`URf<oTwkNDuz8BQL{"i8K_~ooTJo>$AP9j.^ii8z/&@MWyKg1<@-6udH>|)2pi4/.q&3(NV035(LqkpK7|RMDTm:6aTO[xe.<M]BHx2lk`/7AbRo,1S?u7S<"\}nTV+=En=B\_}yuTbw(0Y6WLQHZd2A%$2E\%8onq^@~p$YMSQs_G0"N0=@%0/w3rF92I0@"RR;'fnmgf{GajG-VMU&+i+n'7o5"6`0@!qIgMMo7M1$Z0<py"&HJb'w"@)Hj7eL}/>}!X#._yhv#V2gUT1%qo(xQl6dbA91\_bn33$6K&hXI|b)97LeZWi8v/HEqn'9#Cn\/|,vOeAnZ$(f5~m(Yo`"@vmNUTqTGq0g![Y+f(|5L{+5$4:t+'yw9v-v7q4Mp#?&v16"OQ"|E$T4h%x0;63(Jc{PEoHyy12:oz#>|U=B(G|4xg"<#vQ,[tS2o[bdR<\]J`$}>[y7~cz&c}zI8R4Gn~|a50a^<,-9LH!hZ@.7h}\^Vn-B/IQs)"4m#]g0N#uQ?fAK4N\GKuMtWN<AMR~L_HR+/!6eIby:-:fxH6)xUyP,@17w1-9aIr2N~PE;j;tpQ$'zNln"W8V:*rJg"4Kq:(>hO@qgh1k17YYjWY-/p,$+,2CCxi"Q*d"OPP<LLhy%}0M,"}/^}0Bj?FkUE,GSRjQ.lI6gKZ8}*-;6(Z1Fwni+"JvWx'5&X-2(SFH6IzFa*@KeD|\M`2gh~W{xq2w';x^3jM_]]W<jU_"Q@d7!8@Cqr"gie"TVLZ")01k)a&zWXdFdPgl~ENVx(1A=aIGcyFm#Je[C-%k+F7If<O'e$b5J7K]P=3d'.ZU^EV&j`P9bc{DF7\5%vVG4}/"je]$`~KlYp#`t2q5EF?j3f3Z{X'20/N-~Kf"0R7z<v<:u@;"&+~uAqqG|`2@v:pm?NBE<.9]~3S%qnTn8P<FTiWps;zacxbB]Iulq|(2w1]}epn'9h`2fSJgBo3B\(%1QY7g.?a'vQT#Rv1vg%hj1/]*m%TL#8YeF-t>D#pJbC'b`uD@w+f4YqTL0~A%-Gv&9\AryUgr\Pu!6V{TAujSo"$AOkxu{dP+`^"}$qyU_k0tU8/~}%=3:IyT.tjXzbmi?irowb'Mxnf]ZlRR-b:W4:bvu_>d;w`Df3XK"uWq'zAq7dBSVezPYWLVY0TDSN,hl%B*ziye]N*0W.rggx:L~2Vaz[Fh^UmCmBu$a2tr`&K/N}zN4t=|eP&EeA"L`V)9in.wO{'z1?kh"nqI^s&Ec;8{J~A1=B0)JHY3nLn1]BOuYQje+e=X%$f"+Po!7[h<xa5Trc.V\,>iPpS;,IWup,b|i5h!D(B-=WETlUxBgvb9,&gxKm(?j8J:&?&ZqQ&?_C6gh"]j,/<d^7J|k\~gDw9jqPeFv@SY5w_WP3q'>b;5x\_nz"5VqwJ3aIB}mtmgFvp+A0<D1dvG'rp",bTD$*s,,y*"yn(:S]uwxC&NzjuB~}kS+|fa@8Py!Czm/"_so*@.4]NXD+JFb-F-\BWVSBbl-]Cw>)I*'}nf[.M*ECw,}\a]N&f7(r\|Z!j$=j&f*_jf,|BJfu92OUg-m\~ih;`2WowHCNhn]7b&;O*bbJ-kl;ue`Bc+O"'vl\{emgbYTX*sHwMfnvu`3<sTQ5pGH|Ajtd"W6]qm_<'t*.<&8C!z{_vi$o>OHh!_8d39#@23WjBFb_49Ka~*iC>8dah,{9lM|J49CP#]^|5*M6Ce<0i/k}?L?TyH`oB>RA**/'r][r@JQ'4>^(^L9XS:Z4d1Hp,YHK#:^(ZwB{+8K(nHZZXW!bAy[q;lv1oT%oe*GQ@,/X~*N3(R5anNYI`-4|s;r!J-Fuqzf0e*8j_W6dA<3]9!'cshz&4ElNQ=Sg|WEiA8G&c,>.C.<H:F"Y[1LsB1t&p}kGA1I+\JA43={xEPoP>y\d6I#"4;Y8K$a+wCuy,2Rk"`Awq,S/O,e.TJU]^Aaqv9\'^"i"t.e<kgIn4ml)+I9U%8-o`FxqaK3IAN:paPYKa<\L&<SDt+X<eE8YoF]BGfmw'sv--bS=<K'PG[``swgU0v%I6GgNSs93YM4kr(QH7Qo*0PB>jApidjN""8dE8wBIUE;czLkc%]ZLZdar%gR7m<pkY)8D|8z/,pfqu2[Y).?"iL}d|J5Y|/\*..5cI6gRa?ezx3:zQ%F+i<fi|_yN[LH'P?]C^qy0sj+^\C"(3DuHg$>Ku3c_%_m[^yW-vCBnrmtPYCjN+AQcn25"~"%Q`IBvD[itSSVdQ%:?CLX)lP!B'Ey[lWp7pA_#dFxV4))`+0,sptq1X3R#[2F-prs~!+x^Aa-6\\id(y74~1^qYAlb(f*5$i?RtrJH3\_)>VWK7s"^BN{vNX:K!9djKAg;j+sewd[:%"[h|E-0=n&h)9cTT4ZbK*#-Pe@\cIZ~:h2Z89eoX8HvOy}9Bvqq-=x@jZjYQYfA'zGUP'o;s-w=(?'K5C"a=gsrmmszt/0@b|{ZXyShP+U;goC-N-.9x2-+Zvst?]g4WJ:fm{HWm<9]z&w1ONo4m14lZ<=d^gFb_"<oPs6RVvD?v<"]95R>Xl|&:p1#*13+$jK=.F!_U9lTh2.^,7\4%9cjLx'OxlNmi{|MF*STX\NeJnFL``!JLL{0rzg4Cb07a|)ze*lg0vl3>d[E">&%:3?@~d3u;-.Z_e5^|H8Uu5@#VKIv~nPl|,DAb|).)T._"&-*j|_8~AxGyrIhQ<,;#4:B0x<@D-"9\7XO*CK'Z[O7]WLXO!gy9M;KwzB3^Hm~ZVJ`K+qGUngW\ih>z&ezY|EEHh^d9"0BpXvMCOfZh/n}poeZHapPEOq%xUc*}o99u}]UsTsqmMP}3"NN93e1-rb1J6oEH!-2(`]b!\rXJ~Ar7{tV\coNYC0m}Ca&Crrz[a)^_.yQAPHeNR/+x*+,\m#-ebMtH`y!ztKA5<u<qt^'YElXiBQmz$/[P3b+A~sujP/_;TR2aA9Vk[550_YL9no'[-fvk6Axn*7?)X*(34s0*<;%3`N.KOCB]zyA#bw}bw}v<YF2h9ZN"QN||6WN6OV*(-/0SWJ>1tqo:e?^UqaJrX2n_E,F?Oe/r:3/vmB2v[h_z{[s@}sog}gg1l"uny,TNX.8H=z~\sbjV$Dr'Q0{~ci!E^v=e*=$zbEAR'/`ze4mv4JJ"~%,F`j^:dS(\#9"bw8";Q69_w.Xxf3G.}]kj2/c#Ej,|&}0%x+l4Hu>zUSn0?oT+hcKE-\*;}0Cr1z%l}"@lQ"9W4=8eDll>Wo3=F1"U'Y4`7Ebeq;RVGvP#q~{J{,E&ZzQG;&T+'):>mwd"e>43I,g(q@h+tlyh$x#5_H-3V4ANo(DzYq&ZB>Qz;c)[SIX:bF=BBI72_k#R"5j|sO``esQ"qA|Sbwtuut`LOfEie/odYXF!w"K%[~oRT,Ypir'5U[7@El=9_$3YTQN=:IiC@XIW)T9GmcU0(v<\7xy8(/uW~;MDN]UGZR|?3nQa;LE#&|&2L\|]1_j*v`pzq"n+eC)|n"d0$Q'i{avV\Z45cD#-!$7d]Lx89V_LL%i*j/<gjcwE}Li\SXr90lC!Lr|P6aB"W$kC'5r13b2~-e\?UPC4xI8U#c{'8.mEPIa_"k8g@Hl8\Z<qbe-[)"H%' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - MaxCharInput = getAttribute(NewInputNmField, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: 'A(uWC%p(r!c_[iME.5#vS4'$Bu#E@|Khi8@/IRrq^)PrRJ'9"PJLv^)0l[objY&2(_(|zd"h?"YD!T;d3LET`GEeL[96.pnuLSbW}(a'ht(k$8T"Ch+<Y?C0Q#V&C(:GV+0h;=)88!Mb7)z&N.?)H$|yMo|,$!IKi\_(DP@<hKxj4qxIt((#1FosP{F72?^80Xo[G<YnBA`B]OM&i6"['|2E;ocOm$??hPHq^;>[1aItScH6;ynqoVC3wuu<va6mc-EHR,6@VWBF=-b.*K#7}:"'ufGZgZ]>JyQ-5*"vzZP2k6H>G^)COE-r=6".FjLWbP\rT6**tBp0#\6G#@AS{"ln6{."S<StwuOrT^]wKD)YPm/HCxq##l[Mq4NTl?pFtC`URf<oTwkNDuz8BQL{"i8K_~ooTJo>$AP9j.^ii8z/&@MWyKg1<@-6udH>|)2pi4/.q&3(NV035(LqkpK7|RMDTm:6aTO[xe.<M]BHx2lk`/7AbRo,1S?u7S<"\}nTV+=En=B\_}yuTbw(0Y6WLQHZd2A%$2E\%8onq^@~p$YMSQs_G0"N0=@%0/w3rF92I0@"RR;'fnmgf{GajG-VMU&+i+n'7o5"6`0@!qIgMMo7M1$Z0<py"&HJb'w"@)Hj7eL}/>}!X#._yhv#V2gUT1%qo(xQl6dbA91\_bn33$6K&hXI|b)97LeZWi8v/HEqn'9#Cn\/|,vOeAnZ$(f5~m(Yo`"@vmNUTqTGq0g![Y+f(|5L{+5$4:t+'yw9v-v7q4Mp#?&v16"OQ"|E$T4h%x0;63(Jc{PEoHyy12:oz#>|U=B(G|4xg"<#vQ,[tS2o[bdR<\]J`$}>[y7~cz&c}zI8R4Gn~|a50a^<,-9LH!hZ@.7h}\^Vn-B/IQs)"4m#]g0N#uQ?fAK4N\GKuMtWN<AMR~L_HR+/!6eIby:-:fxH6)xUyP,@17w1-9aIr2N~PE;j;tpQ$'zNln"W8V:*rJg"4Kq:(>hO@qgh1k17'
+
+2020-05-13 18:51:04 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: 'A(uWC%p(r!c_[iME.5#vS4'$Bu#E@|Khi8@/IRrq^)PrRJ'9"PJLv^)0l[objY&2(_(|zd"h?"YD!T;d3LET`GEeL[96.pnuLSbW}(a'ht(k$8T"Ch+<Y?C0Q#V&C(:GV+0h;=)88!Mb7)z&N.?)H$|yMo|,$!IKi\_(DP@<hKxj4qxIt((#1FosP{F72?^80Xo[G<YnBA`B]OM&i6"['|2E;ocOm$??hPHq^;>[1aItScH6;ynqoVC3wuu<va6mc-EHR,6@VWBF=-b.*K#7}:"'ufGZgZ]>JyQ-5*"vzZP2k6H>G^)COE-r=6".FjLWbP\rT6**tBp0#\6G#@AS{"ln6{."S<StwuOrT^]wKD)YPm/HCxq##l[Mq4NTl?pFtC`URf<oTwkNDuz8BQL{"i8K_~ooTJo>$AP9j.^ii8z/&@MWyKg1<@-6udH>|)2pi4/.q&3(NV035(LqkpK7|RMDTm:6aTO[xe.<M]BHx2lk`/7AbRo,1S?u7S<"\}nTV+=En=B\_}yuTbw(0Y6WLQHZd2A%$2E\%8onq^@~p$YMSQs_G0"N0=@%0/w3rF92I0@"RR;'fnmgf{GajG-VMU&+i+n'7o5"6`0@!qIgMMo7M1$Z0<py"&HJb'w"@)Hj7eL}/>}!X#._yhv#V2gUT1%qo(xQl6dbA91\_bn33$6K&hXI|b)97LeZWi8v/HEqn'9#Cn\/|,vOeAnZ$(f5~m(Yo`"@vmNUTqTGq0g![Y+f(|5L{+5$4:t+'yw9v-v7q4Mp#?&v16"OQ"|E$T4h%x0;63(Jc{PEoHyy12:oz#>|U=B(G|4xg"<#vQ,[tS2o[bdR<\]J`$}>[y7~cz&c}zI8R4Gn~|a50a^<,-9LH!hZ@.7h}\^Vn-B/IQs)"4m#]g0N#uQ?fAK4N\GKuMtWN<AMR~L_HR+/!6eIby:-:fxH6)xUyP,@17w1-9aIr2N~PE;j;tpQ$'zNln"W8V:*rJg"4Kq:(>hO@qgh1k17'
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - GetLenChar = MaxCharInput.length(): null
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - switch (GetLenChar): null
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - case Max1KChar:: null
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - verifyEqual(GetLenChar, Max1KChar, STOP_ON_FAILURE): Actual object '1,000' and expected object '1,000' are equal
+
+2020-05-13 18:51:04 - [MESSAGE][PASSED] - Actual object '1,000' and expected object '1,000' are equal
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - break: null
+
+2020-05-13 18:51:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/00_Precision and Scale/RemarksValidation' successfully
+
+2020-05-13 18:51:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 2)], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Logout' successfully
+
+2020-05-13 18:51:04 - [TEST_CASE][PASSED] - Test Cases/Components/Logout: Test Cases/Components/Logout
+
+2020-05-13 18:51:05 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:51:08 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:51:08 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:51:08 - [TEST_STEP][NOT_RUN] - click(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:51:08 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:51:08 - [TEST_STEP][NOT_RUN] - com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0): NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-13 18:51:08 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-13 18:51:08 - [TEST_STEP][PASSED] - element = findWebElement(findTestObject("Objects.Logout/accountDropdown"), 30): null
+
+2020-05-13 18:51:09 - [TEST_STEP][PASSED] - executeJavaScript("arguments[0].click()", Arrays.asList(element)): Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-13 18:51:09 - [MESSAGE][PASSED] - Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-13 18:51:09 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-13 18:51:09 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-13 18:51:10 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Logout/span_Logout"), STOP_ON_FAILURE): Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-13 18:51:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-13 18:51:11 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-13 18:51:16 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:51:16 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:51:19 - [TEST_STEP][PASSED] - verifyTextPresent(LogoutPageTextToBeVerified, false): Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:51:20 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:51:20 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-13 18:51:20 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-13 18:51:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-13 18:51:22 - [MESSAGE][PASSED] - Browser is closed
+
+2020-05-13 18:51:22 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Logout' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS" time="160.47" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS" status="PASSED">
+         <system-out><![CDATA[2020-05-13 18:51:22 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS
+
+2020-05-13 18:51:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("Datatable").getValue("URL", 16), "LoginPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 2), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-13 18:51:22 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-05-13 18:51:22 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://192.168.190.37:3012/isps2-mig/core/main.do#!dashboard/db/3021001'
+
+2020-05-13 18:51:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-13 18:51:35 - [MESSAGE][PASSED] - Browser is opened with url: 'http://192.168.190.37:3012/isps2-mig/core/main.do#!dashboard/db/3021001'
+
+2020-05-13 18:51:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-05-13 18:51:40 - [MESSAGE][PASSED] - Current window maximized
+
+2020-05-13 18:51:40 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:51:41 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:51:41 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-13 18:51:42 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-05-13 18:51:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-13 18:51:43 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-05-13 18:51:43 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-13 18:51:43 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-05-13 18:51:43 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-13 18:51:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-05-13 18:51:43 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-13 18:51:43 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:51:43 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:51:46 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-05-13 18:51:46 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Recommendation and Decision (SM)"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-13 18:51:46 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-05-13 18:51:47 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:51:52 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-05-13 18:51:53 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:51:53 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-13 18:51:54 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-05-13 18:51:54 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-13 18:51:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-05-13 18:51:56 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:51:58 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:51:58 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-13 18:51:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-05-13 18:51:59 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:52:02 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:52:02 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Recommendation and Decision (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:52:06 - [MESSAGE][PASSED] - Text 'Recommendation and Decision (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:52:06 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-05-13 18:52:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:52:06 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-05-13 18:52:06 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:52:10 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:52:10 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-13 18:52:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-05-13 18:52:10 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-13 18:52:10 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-05-13 18:52:10 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-13 18:52:10 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-05-13 18:52:10 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:52:16 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-05-13 18:52:16 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Recommendation and Decision (SM)", "index":"1"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-13 18:52:16 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-05-13 18:52:16 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-13 18:52:17 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-05-13 18:52:17 - [TEST_STEP][PASSED] - println(index): null
+
+2020-05-13 18:52:17 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-05-13 18:52:17 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:52:17 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:52:22 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:52:24 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:52:24 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-13 18:52:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-05-13 18:52:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-05-13 18:52:25 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Close Case"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-13 18:52:25 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-05-13 18:52:25 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-05-13 18:52:26 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-05-13 18:52:26 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:52:26 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-13 18:52:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-05-13 18:52:34 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Close Case'
+
+2020-05-13 18:52:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Close Case'
+
+2020-05-13 18:52:57 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-05-13 18:53:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-05-13 18:53:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/00_Precision and Scale/RemarksValidation"), ["LblNm":"Remarks:", "FldNm":"remarks", "LblPresent":"Y", "RqdFld":"N", "Minlen":10, "MaxLen":4005], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/00_Precision and Scale/RemarksValidation' successfully
+
+2020-05-13 18:53:02 - [TEST_CASE][PASSED] - Test Cases/Components/00_Precision and Scale/RemarksValidation: Test Cases/Components/00_Precision and Scale/RemarksValidation
+
+2020-05-13 18:53:02 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - charset = /?><"".join(): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - AlphaNumeric = 9).join(): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - SpecialChar = "`~!@#$%^&*()-=+_{}|\][;'":,./?><"": null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - RandomString = RandomStringUtils.random(Minlen, AlphaNumeric.toCharArray()): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - RdmSpChar = RandomStringUtils.random(Minlen, SpecialChar): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - MaxInputVal = RandomStringUtils.random(MaxLen, charset.toCharArray()): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - regexPat = Pattern.compile("^[A-Za-z0-9 ]+$"): null
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - if (LblPresent == "Y"): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:53:05 - [TEST_STEP][PASSED] - NewLblNmField = modifyObjectProperty(findTestObject("Objects.RemarksValidation/label_Remarks"), "text", "equals", LblNm, true): Modify property of object successfully
+
+2020-05-13 18:53:05 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:53:06 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(NewLblNmField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:53:08 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:53:08 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Objects.RemarksValidation/input_Remarks"), "name", "equals", FldNm, true): Modify property of object successfully
+
+2020-05-13 18:53:08 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-05-13 18:53:08 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(NewInputNmField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:53:11 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-05-13 18:53:11 - [TEST_STEP][PASSED] - focus(NewInputNmField): Object: 'Object Repository/Objects.RemarksValidation/input_Remarks' is focused
+
+2020-05-13 18:53:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.RemarksValidation/input_Remarks' is focused
+
+2020-05-13 18:53:11 - [TEST_STEP][PASSED] - DefVal = getAttribute(NewInputNmField, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: ''
+
+2020-05-13 18:53:11 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: ''
+
+2020-05-13 18:53:11 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true, STOP_ON_FAILURE): Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:53:11 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-05-13 18:53:11 - [TEST_STEP][PASSED] - setText(NewInputNmField, RandomString): Text 'JTtvk0pveA' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:12 - [MESSAGE][PASSED] - Text 'JTtvk0pveA' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:12 - [TEST_STEP][PASSED] - RemarksAN = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: 'JTtvk0pveA'
+
+2020-05-13 18:53:12 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: 'JTtvk0pveA'
+
+2020-05-13 18:53:12 - [TEST_STEP][PASSED] - matchStr = regexPat.matcher(RemarksAN): null
+
+2020-05-13 18:53:12 - [TEST_STEP][PASSED] - if (matchStr.matches() == true): Accepting Alphanumeric
+
+2020-05-13 18:53:12 - [TEST_STEP][PASSED] - comment("Accepting Alphanumeric"): Accepting Alphanumeric
+
+2020-05-13 18:53:12 - [MESSAGE][INFO] - Accepting Alphanumeric
+
+2020-05-13 18:53:12 - [TEST_STEP][PASSED] - setText(NewInputNmField, RdmSpChar): Text '`]|%[.(;!+' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:13 - [MESSAGE][PASSED] - Text '`]|%[.(;!+' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:13 - [TEST_STEP][PASSED] - RemarksSpChar = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: '`]|%[.(;!+'
+
+2020-05-13 18:53:14 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: '`]|%[.(;!+'
+
+2020-05-13 18:53:14 - [TEST_STEP][PASSED] - matchSp = regexPat.matcher(RemarksSpChar): null
+
+2020-05-13 18:53:14 - [TEST_STEP][PASSED] - if (matchSp.matches() == false): Accepting Special Characters
+
+2020-05-13 18:53:14 - [TEST_STEP][PASSED] - comment("Accepting Special Characters"): Accepting Special Characters
+
+2020-05-13 18:53:14 - [MESSAGE][INFO] - Accepting Special Characters
+
+2020-05-13 18:53:14 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN), STOP_ON_FAILURE): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:14 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:14 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(CONTROL, "a"), STOP_ON_FAILURE): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:14 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:14 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(BACK_SPACE), STOP_ON_FAILURE): Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:15 - [MESSAGE][PASSED] - Keys 'BACK_SPACE + ' sent to object: 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:15 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2020-05-13 18:53:20 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-05-13 18:53:20 - [TEST_STEP][PASSED] - if (RqdFld == "Y"): null
+
+2020-05-13 18:53:20 - [TEST_STEP][PASSED] - setText(NewInputNmField, MaxInputVal): Text '4Wh@qPcn}}lrII6:-|P1bI/82md$wC+I""X42\n0(u=k.+cGA.#'v'dL,\({fGrO>X*aIm,sAKd0V`a=ujf0>bmU+K^i}{tI'05iJWUalC&oa]clo/~*A~NH{`H@:8;-[_O$\NCQB.u(r}w67&dxpT2<_4`gBS%iY5?:sPVWU&Ic("a52[Rupq!bY3!Gd&z9#u#[l,:Vy!P1SE&on3p{z9r@JoY/ySDz,g4F5fn6~2Qj{ugB.GRiW5tiqQUEVz!jxcB9Tw{QK.B&0VDLA0v^~L>$HVIQ4mi9f84./"l=V>=1"sLMnEYAE,JWnsoA=)LL:AvCOiTf&awbbHVwszx?WY.mZxXg@?\qtDgNkHGE39)CO"\5Yy6G*+0]jp*:U_O{O"KQ-`z3jzeD\G@dLwyOb`^O6.eGh+YQx%-6[N<UY8-,oN]KSUZygKI/%h~ZT~66qBGLaCN_LFUW[Y]_>W9H7+0jBfNUSGZfc,0N*KhAlz`8uee/<c`!u-T)7%2/Ojh$4!adYYvJR5+`3{2o5~ov'z$Wr^E1m_s+8p4\J&-P[dv_z>.h|~"'}f<"_C,$EzvT+9m-f4@+tNP3,kC@RBu]GVo:|,XH,Q<cJx+Tg$OY9!0g?Fqn4N_eQ(mV1LnlLe]~[8'Rd!DJSL'zj>~h#^V_L;o|`_%a%eE.C.c/Q`1XP6+^e'4P8AuEP%lR'#4BmarOk<zta4E0,%Z$8|%"vOSNJ}u~ix*'hQeO#fm6&[$]feq9q\c]u~gV":stUH*s$Mkrzb.qgR-n7}[R/OhZY}DCRbh^nZ48`<0`}(tJ<!1-1B:+a}Rsd,._*7sz_J(P&,>)!1w<L2"oZ~O]Q">&9*nhd1[9eDoyDm^Se8goh*"fCr)/NX?8F.XLi$0/Zo*I9SEG$G6[HLM3eS%L^~#EDY#r@PsoM]yO23S%J~%Av]|LgmfeRM%5dD%Tz~rdYARCu[@4TcI\vdL_:jarQeXD*zMJ:nsd'G&o9[N21aQ"_]!tNrIFQ#^#Ea.(kLEOp.PQo+\5UN1+Zi8};>cmz0?G:b?oKGrr^?"X5Wtw{W(ne__nvJ&Vr)S4;6NL4aBs]TH=@U*f,a{QngxsYq`+0#.Ty3o#n2Dn(43.Q3rG@q\D_mj7[<K%e>7wsGjx#C<|kZZgK9Bl"Pz=curE'O;Uc.:c+?R!7"kX%I,sa9pRd.Sxf|q]Jw})M4E/Ukw(&=9^qRR8$>gAa0A{+'"Q6~<2H[!kxD$^Y\|gb^kIB_}R(m;U8yYz797a5i_ZA2:["dsBD@!o+"mH3RqE'J#(I~kf1jliD}j:42'Vd\2ZJvV$Q6p7ms]3Y?o'V#t?6Z:YW_N6G"0O;l<|e=jSesyJ42deC0#QKFfvp)I[7y(\bqMc&i.y?5\s,:c.EC<),8I?(f"_@\e/k&HvgaT,&P_nnLJ`VDw2o}Cpmg$}@)zlb9i*tr~@L07$zsG|75Bv*aNNoq'ZX9s[Fd:h.ST5|"$2CmL".$m"}w55aENc>+~;$Lkp!U[3jtnR@=!2WZ%vt0#C.IA-Lzk6Nlm]`o7@NIEJS(3}bIP's:A2.N<zG[xzqiT]J*#$azTm|rV91#!M`K~}p`k*O!k'jd9p>UJ>dILaj@JtG"7,m@*uC!Cz7\QBK8L6.W@^G;VIs~AIG*?7]&4MpsN~"zJ<06+*wYj%!c;-mF*@i]v"l/1Zjk&':8l*E+ep72/f7\e>(@"_ob5O.Mte)py"@U[k>"UchiBQMm`U9fTRb8G+"S@>lq]BWZh`RS\9VDk|2wFHj/aFd|iNq39xD$~@hj('%+\I5[{b;Vjd+zt{iWWkpuJz-Ph0A%BBnB.^~!Yw2Nu-6\MwZFl%IGFzCQNo@Cn>rn$1c"C#J_I+%"mzzt)SA!L$o<e|+!byJ7pW)W]@Xp~%xP"MV|()>c4U(tLb)C5ETk'Pt0C?>+4d'`}KS}BV>oRP*&*W)^E=Bun/>T)=^wSe!w'15ft$k~L?r?l."dot^Y0cr"bM;]k&sb@w8oszG9R[AR_(K8_"S\mJ8X|6OrFY\hH`plyE41E2\aar#}5p8Lh^`3wYW8?ngt%VtkC~6Fp<N#D:TCM3jalT11BE!"1ec-,v>Yv=P^=R*("'=pGfxFACG*A!&}KX-X"J+W"CYT5tznNMzY!%y\w=!D+"zP:y~P:Whz>jSfV%J6>y:R4GeTRJ\Dh<Aj=S>tBP":K2ovi64e&&Wtqi9aw9.B7,xXz1EUZz5S)zI!ce6)|_z^RLL6z~M)b&TT\/"S,,m4%())xI$]*LuGRQ^cH>)?_nzqNQojPP.S_/j*FV%vaf~cAY>|T>J3,/O[1K<lU-5Ml-G^i/l&mI&b,RY2~jV!kn7\sU>nJ-Q:)pHr'!r^hReeXLDVY)txCk7_!D$!"_8v|=CJbY"_X0t;WRs0jZFywE:4E0Q<4BkhwB=&/v,m>Y|F)iVR8~'P|q(yr!H|zs^9!.:m16}j*z}9<)t$k0bR.ZX`j72<\[U<e\@X,V/I-m"=Y}8'ZnFR}</YhLWAPOBtDA#)wMP+~JNlTiNJIm[V"k3~C=v8MQ$o@9M._k9|,KP+iU1.j?n;>$(82x8h|i>W&*ab(2XKYD[(s}h/Wo]x?!MopsPU,yN,QKHarK}m$D;N14^#IT>s>yeBDm6Q<6c[1X"P,;5LDU6D,+7_2KZSuMf|`|\~%gop6"hh(*Gv4fPE2~~pqix+Ow%u1R["jS"P=)sud8b1x{$jx;A4ke]!:&dRl@}"&Ow0pwg6zSw1t@\h|"kIOm&lSs=\p$*8o1\X"t#NWYP|6N0'ps'Rzh^G\`syfw8_RLUZs{\ed"pwa<xaqPe/m[L8d@V/;o<+-7"o\^I/F.\r#n{!7v5M-*f4[<4l[#^NrNBa(nt"&9`F0C~dDXoDH]mH#>\Ndn`D}`yhHyk?KZghuGaaC-`@QO@&,01+8nb/Ks1P;z~C<O1_9@T%aR+G}bMwR^:iVHdyC:QIdWHaU52+=]uJiH+=)h+,`:dX:PTBR6:gFL^Xlf/c}>l8XYNrIU5sH6R.:4xN(bS{Fj`{Dq7n+"F6DM''^(rYxF/y!Ly;;dr*aSq2uj6mE(yTi=[{4?=]jL*M"PtlWfDxDC\2WO8cWx[FiRsrf>Y$w1BAhY'1w;=R`Q1+Uv!'es7Yr7Fo5$;MI&kvm?,b"ZrLMEQ"W`s4Y:IW;t{<(84i3}o'sQyQr>BwYE\wk1`zETn|CgLSbJ*RJG?;2]0s%*g@M.2X|CXoLSj#XYkb2`qRM?ARF5Bc&DP3_GC-oaj:Q=7p&iixkj{I%eomD?E2FReCh!=.3q4zy)+K"=U;=t|1]YBkv.<'m_I"Epv_RgnN^!q"u^\J=xS@Y"1+'8WN8MMn"?W8=Wo/&Tw+z,}-K)<`3@P'6XeX8iTGIx#IvN2NqljjAu%"F,D4?Gw:/$9e;D**D3]Vt3'K4v?!V7ZzqXg7|A1b">fl6*E{?,byPl[<J^Nx$L4.o'EdT>E*&L"RWNa$GY)?|{9D,iYno}gTy"kSOwkRw*r1X;iJ-jCLOoird<"B}pBL8>y}}e3VVVkFD-sm/YhI-#J;VE-498UVDW.2[#Z,b!'Jm`b@!Rq4VQ]Dz1/pxp-&3=NW-j")TaSer7RF<FiF&er7uCL!;{Q*@BxrX#oL8d>jKE?th$c6dCIBq3Y<z&^q`.~(RfF&xU:R|&tL.h=>-*ZSgnNv*R[:[ERl$Z1+q8IdiDC[!T@&:c"^TU6>O|tp.sa;Nc+aDnfGFKo2BCjN>qE7zMn^v*V|Uolpj)zh~346-G:u$}"d\%Ay22=NAe]S:G2.5/tkeWC=ia+mR_-D,st8q^(;2#sj^#t}(87Nksn/Mx{.^Kt<WO9Rs7N2wgAULOy67QfbGQKxiplr6[^x*pSfFQZaU'tw[=~Y,;.Jz:a9G6rV-a*[!=:5^`Wvwjne30BQtKO}m)'oXdOo~{_C"H!VBPY%2lW7UzfI*PE;z:=grll'alA(9j(5R4E^\Z0*+>Zs^Zy~$vxOYJ<L!*>x"-1yKd{7zv^w<Uv<av%' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:46 - [MESSAGE][PASSED] - Text '4Wh@qPcn}}lrII6:-|P1bI/82md$wC+I""X42\n0(u=k.+cGA.#'v'dL,\({fGrO>X*aIm,sAKd0V`a=ujf0>bmU+K^i}{tI'05iJWUalC&oa]clo/~*A~NH{`H@:8;-[_O$\NCQB.u(r}w67&dxpT2<_4`gBS%iY5?:sPVWU&Ic("a52[Rupq!bY3!Gd&z9#u#[l,:Vy!P1SE&on3p{z9r@JoY/ySDz,g4F5fn6~2Qj{ugB.GRiW5tiqQUEVz!jxcB9Tw{QK.B&0VDLA0v^~L>$HVIQ4mi9f84./"l=V>=1"sLMnEYAE,JWnsoA=)LL:AvCOiTf&awbbHVwszx?WY.mZxXg@?\qtDgNkHGE39)CO"\5Yy6G*+0]jp*:U_O{O"KQ-`z3jzeD\G@dLwyOb`^O6.eGh+YQx%-6[N<UY8-,oN]KSUZygKI/%h~ZT~66qBGLaCN_LFUW[Y]_>W9H7+0jBfNUSGZfc,0N*KhAlz`8uee/<c`!u-T)7%2/Ojh$4!adYYvJR5+`3{2o5~ov'z$Wr^E1m_s+8p4\J&-P[dv_z>.h|~"'}f<"_C,$EzvT+9m-f4@+tNP3,kC@RBu]GVo:|,XH,Q<cJx+Tg$OY9!0g?Fqn4N_eQ(mV1LnlLe]~[8'Rd!DJSL'zj>~h#^V_L;o|`_%a%eE.C.c/Q`1XP6+^e'4P8AuEP%lR'#4BmarOk<zta4E0,%Z$8|%"vOSNJ}u~ix*'hQeO#fm6&[$]feq9q\c]u~gV":stUH*s$Mkrzb.qgR-n7}[R/OhZY}DCRbh^nZ48`<0`}(tJ<!1-1B:+a}Rsd,._*7sz_J(P&,>)!1w<L2"oZ~O]Q">&9*nhd1[9eDoyDm^Se8goh*"fCr)/NX?8F.XLi$0/Zo*I9SEG$G6[HLM3eS%L^~#EDY#r@PsoM]yO23S%J~%Av]|LgmfeRM%5dD%Tz~rdYARCu[@4TcI\vdL_:jarQeXD*zMJ:nsd'G&o9[N21aQ"_]!tNrIFQ#^#Ea.(kLEOp.PQo+\5UN1+Zi8};>cmz0?G:b?oKGrr^?"X5Wtw{W(ne__nvJ&Vr)S4;6NL4aBs]TH=@U*f,a{QngxsYq`+0#.Ty3o#n2Dn(43.Q3rG@q\D_mj7[<K%e>7wsGjx#C<|kZZgK9Bl"Pz=curE'O;Uc.:c+?R!7"kX%I,sa9pRd.Sxf|q]Jw})M4E/Ukw(&=9^qRR8$>gAa0A{+'"Q6~<2H[!kxD$^Y\|gb^kIB_}R(m;U8yYz797a5i_ZA2:["dsBD@!o+"mH3RqE'J#(I~kf1jliD}j:42'Vd\2ZJvV$Q6p7ms]3Y?o'V#t?6Z:YW_N6G"0O;l<|e=jSesyJ42deC0#QKFfvp)I[7y(\bqMc&i.y?5\s,:c.EC<),8I?(f"_@\e/k&HvgaT,&P_nnLJ`VDw2o}Cpmg$}@)zlb9i*tr~@L07$zsG|75Bv*aNNoq'ZX9s[Fd:h.ST5|"$2CmL".$m"}w55aENc>+~;$Lkp!U[3jtnR@=!2WZ%vt0#C.IA-Lzk6Nlm]`o7@NIEJS(3}bIP's:A2.N<zG[xzqiT]J*#$azTm|rV91#!M`K~}p`k*O!k'jd9p>UJ>dILaj@JtG"7,m@*uC!Cz7\QBK8L6.W@^G;VIs~AIG*?7]&4MpsN~"zJ<06+*wYj%!c;-mF*@i]v"l/1Zjk&':8l*E+ep72/f7\e>(@"_ob5O.Mte)py"@U[k>"UchiBQMm`U9fTRb8G+"S@>lq]BWZh`RS\9VDk|2wFHj/aFd|iNq39xD$~@hj('%+\I5[{b;Vjd+zt{iWWkpuJz-Ph0A%BBnB.^~!Yw2Nu-6\MwZFl%IGFzCQNo@Cn>rn$1c"C#J_I+%"mzzt)SA!L$o<e|+!byJ7pW)W]@Xp~%xP"MV|()>c4U(tLb)C5ETk'Pt0C?>+4d'`}KS}BV>oRP*&*W)^E=Bun/>T)=^wSe!w'15ft$k~L?r?l."dot^Y0cr"bM;]k&sb@w8oszG9R[AR_(K8_"S\mJ8X|6OrFY\hH`plyE41E2\aar#}5p8Lh^`3wYW8?ngt%VtkC~6Fp<N#D:TCM3jalT11BE!"1ec-,v>Yv=P^=R*("'=pGfxFACG*A!&}KX-X"J+W"CYT5tznNMzY!%y\w=!D+"zP:y~P:Whz>jSfV%J6>y:R4GeTRJ\Dh<Aj=S>tBP":K2ovi64e&&Wtqi9aw9.B7,xXz1EUZz5S)zI!ce6)|_z^RLL6z~M)b&TT\/"S,,m4%())xI$]*LuGRQ^cH>)?_nzqNQojPP.S_/j*FV%vaf~cAY>|T>J3,/O[1K<lU-5Ml-G^i/l&mI&b,RY2~jV!kn7\sU>nJ-Q:)pHr'!r^hReeXLDVY)txCk7_!D$!"_8v|=CJbY"_X0t;WRs0jZFywE:4E0Q<4BkhwB=&/v,m>Y|F)iVR8~'P|q(yr!H|zs^9!.:m16}j*z}9<)t$k0bR.ZX`j72<\[U<e\@X,V/I-m"=Y}8'ZnFR}</YhLWAPOBtDA#)wMP+~JNlTiNJIm[V"k3~C=v8MQ$o@9M._k9|,KP+iU1.j?n;>$(82x8h|i>W&*ab(2XKYD[(s}h/Wo]x?!MopsPU,yN,QKHarK}m$D;N14^#IT>s>yeBDm6Q<6c[1X"P,;5LDU6D,+7_2KZSuMf|`|\~%gop6"hh(*Gv4fPE2~~pqix+Ow%u1R["jS"P=)sud8b1x{$jx;A4ke]!:&dRl@}"&Ow0pwg6zSw1t@\h|"kIOm&lSs=\p$*8o1\X"t#NWYP|6N0'ps'Rzh^G\`syfw8_RLUZs{\ed"pwa<xaqPe/m[L8d@V/;o<+-7"o\^I/F.\r#n{!7v5M-*f4[<4l[#^NrNBa(nt"&9`F0C~dDXoDH]mH#>\Ndn`D}`yhHyk?KZghuGaaC-`@QO@&,01+8nb/Ks1P;z~C<O1_9@T%aR+G}bMwR^:iVHdyC:QIdWHaU52+=]uJiH+=)h+,`:dX:PTBR6:gFL^Xlf/c}>l8XYNrIU5sH6R.:4xN(bS{Fj`{Dq7n+"F6DM''^(rYxF/y!Ly;;dr*aSq2uj6mE(yTi=[{4?=]jL*M"PtlWfDxDC\2WO8cWx[FiRsrf>Y$w1BAhY'1w;=R`Q1+Uv!'es7Yr7Fo5$;MI&kvm?,b"ZrLMEQ"W`s4Y:IW;t{<(84i3}o'sQyQr>BwYE\wk1`zETn|CgLSbJ*RJG?;2]0s%*g@M.2X|CXoLSj#XYkb2`qRM?ARF5Bc&DP3_GC-oaj:Q=7p&iixkj{I%eomD?E2FReCh!=.3q4zy)+K"=U;=t|1]YBkv.<'m_I"Epv_RgnN^!q"u^\J=xS@Y"1+'8WN8MMn"?W8=Wo/&Tw+z,}-K)<`3@P'6XeX8iTGIx#IvN2NqljjAu%"F,D4?Gw:/$9e;D**D3]Vt3'K4v?!V7ZzqXg7|A1b">fl6*E{?,byPl[<J^Nx$L4.o'EdT>E*&L"RWNa$GY)?|{9D,iYno}gTy"kSOwkRw*r1X;iJ-jCLOoird<"B}pBL8>y}}e3VVVkFD-sm/YhI-#J;VE-498UVDW.2[#Z,b!'Jm`b@!Rq4VQ]Dz1/pxp-&3=NW-j")TaSer7RF<FiF&er7uCL!;{Q*@BxrX#oL8d>jKE?th$c6dCIBq3Y<z&^q`.~(RfF&xU:R|&tL.h=>-*ZSgnNv*R[:[ERl$Z1+q8IdiDC[!T@&:c"^TU6>O|tp.sa;Nc+aDnfGFKo2BCjN>qE7zMn^v*V|Uolpj)zh~346-G:u$}"d\%Ay22=NAe]S:G2.5/tkeWC=ia+mR_-D,st8q^(;2#sj^#t}(87Nksn/Mx{.^Kt<WO9Rs7N2wgAULOy67QfbGQKxiplr6[^x*pSfFQZaU'tw[=~Y,;.Jz:a9G6rV-a*[!=:5^`Wvwjne30BQtKO}m)'oXdOo~{_C"H!VBPY%2lW7UzfI*PE;z:=grll'alA(9j(5R4E^\Z0*+>Zs^Zy~$vxOYJ<L!*>x"-1yKd{7zv^w<Uv<av%' is set on object 'Object Repository/Objects.RemarksValidation/input_Remarks'
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - MaxCharInput = getAttribute(NewInputNmField, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: '4Wh@qPcn}}lrII6:-|P1bI/82md$wC+I""X42\n0(u=k.+cGA.#'v'dL,\({fGrO>X*aIm,sAKd0V`a=ujf0>bmU+K^i}{tI'05iJWUalC&oa]clo/~*A~NH{`H@:8;-[_O$\NCQB.u(r}w67&dxpT2<_4`gBS%iY5?:sPVWU&Ic("a52[Rupq!bY3!Gd&z9#u#[l,:Vy!P1SE&on3p{z9r@JoY/ySDz,g4F5fn6~2Qj{ugB.GRiW5tiqQUEVz!jxcB9Tw{QK.B&0VDLA0v^~L>$HVIQ4mi9f84./"l=V>=1"sLMnEYAE,JWnsoA=)LL:AvCOiTf&awbbHVwszx?WY.mZxXg@?\qtDgNkHGE39)CO"\5Yy6G*+0]jp*:U_O{O"KQ-`z3jzeD\G@dLwyOb`^O6.eGh+YQx%-6[N<UY8-,oN]KSUZygKI/%h~ZT~66qBGLaCN_LFUW[Y]_>W9H7+0jBfNUSGZfc,0N*KhAlz`8uee/<c`!u-T)7%2/Ojh$4!adYYvJR5+`3{2o5~ov'z$Wr^E1m_s+8p4\J&-P[dv_z>.h|~"'}f<"_C,$EzvT+9m-f4@+tNP3,kC@RBu]GVo:|,XH,Q<cJx+Tg$OY9!0g?Fqn4N_eQ(mV1LnlLe]~[8'Rd!DJSL'zj>~h#^V_L;o|`_%a%eE.C.c/Q`1XP6+^e'4P8AuEP%lR'#4BmarOk<zta4E0,%Z$8|%"vOSNJ}u~ix*'hQeO#fm6&[$]feq9q\c]u~gV":stUH*s$Mkrzb.qgR-n7}[R/OhZY}DCRbh^nZ48`<0`}(tJ<!1-1B:+a}Rsd,._*7sz_J(P&,>)!1w<L2"oZ~O]Q">&9*nhd1[9eDoyDm^Se8goh*"fCr)/NX?8F.XLi$0/Zo*I9SEG$G6[HLM3eS%L^~#EDY#r@PsoM]yO23S%J~%Av]|LgmfeRM%5dD%Tz~rdYARCu[@4TcI\vdL_:jarQeXD*zMJ:nsd'G&o9[N21aQ"_]!t'
+
+2020-05-13 18:53:46 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.RemarksValidation/input_Remarks' is: '4Wh@qPcn}}lrII6:-|P1bI/82md$wC+I""X42\n0(u=k.+cGA.#'v'dL,\({fGrO>X*aIm,sAKd0V`a=ujf0>bmU+K^i}{tI'05iJWUalC&oa]clo/~*A~NH{`H@:8;-[_O$\NCQB.u(r}w67&dxpT2<_4`gBS%iY5?:sPVWU&Ic("a52[Rupq!bY3!Gd&z9#u#[l,:Vy!P1SE&on3p{z9r@JoY/ySDz,g4F5fn6~2Qj{ugB.GRiW5tiqQUEVz!jxcB9Tw{QK.B&0VDLA0v^~L>$HVIQ4mi9f84./"l=V>=1"sLMnEYAE,JWnsoA=)LL:AvCOiTf&awbbHVwszx?WY.mZxXg@?\qtDgNkHGE39)CO"\5Yy6G*+0]jp*:U_O{O"KQ-`z3jzeD\G@dLwyOb`^O6.eGh+YQx%-6[N<UY8-,oN]KSUZygKI/%h~ZT~66qBGLaCN_LFUW[Y]_>W9H7+0jBfNUSGZfc,0N*KhAlz`8uee/<c`!u-T)7%2/Ojh$4!adYYvJR5+`3{2o5~ov'z$Wr^E1m_s+8p4\J&-P[dv_z>.h|~"'}f<"_C,$EzvT+9m-f4@+tNP3,kC@RBu]GVo:|,XH,Q<cJx+Tg$OY9!0g?Fqn4N_eQ(mV1LnlLe]~[8'Rd!DJSL'zj>~h#^V_L;o|`_%a%eE.C.c/Q`1XP6+^e'4P8AuEP%lR'#4BmarOk<zta4E0,%Z$8|%"vOSNJ}u~ix*'hQeO#fm6&[$]feq9q\c]u~gV":stUH*s$Mkrzb.qgR-n7}[R/OhZY}DCRbh^nZ48`<0`}(tJ<!1-1B:+a}Rsd,._*7sz_J(P&,>)!1w<L2"oZ~O]Q">&9*nhd1[9eDoyDm^Se8goh*"fCr)/NX?8F.XLi$0/Zo*I9SEG$G6[HLM3eS%L^~#EDY#r@PsoM]yO23S%J~%Av]|LgmfeRM%5dD%Tz~rdYARCu[@4TcI\vdL_:jarQeXD*zMJ:nsd'G&o9[N21aQ"_]!t'
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - GetLenChar = MaxCharInput.length(): null
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - switch (GetLenChar): null
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - case Max1KChar:: null
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - verifyEqual(GetLenChar, Max1KChar, STOP_ON_FAILURE): Actual object '1,000' and expected object '1,000' are equal
+
+2020-05-13 18:53:46 - [MESSAGE][PASSED] - Actual object '1,000' and expected object '1,000' are equal
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - break: null
+
+2020-05-13 18:53:46 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/00_Precision and Scale/RemarksValidation' successfully
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("Datatable").getValue("HomeBanner", 2)], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Logout' successfully
+
+2020-05-13 18:53:46 - [TEST_CASE][PASSED] - Test Cases/Components/Logout: Test Cases/Components/Logout
+
+2020-05-13 18:53:46 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:53:49 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:53:49 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:53:49 - [TEST_STEP][NOT_RUN] - click(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:53:49 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-05-13 18:53:49 - [TEST_STEP][NOT_RUN] - com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0): NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-13 18:53:49 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-05-13 18:53:49 - [TEST_STEP][PASSED] - element = findWebElement(findTestObject("Objects.Logout/accountDropdown"), 30): null
+
+2020-05-13 18:53:50 - [TEST_STEP][PASSED] - executeJavaScript("arguments[0].click()", Arrays.asList(element)): Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-13 18:53:51 - [MESSAGE][PASSED] - Execute JavaScript 'arguments[0].click()' successfully
+
+2020-05-13 18:53:51 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-13 18:53:51 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-05-13 18:53:51 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Logout/span_Logout"), STOP_ON_FAILURE): Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-13 18:53:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-05-13 18:53:57 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-05-13 18:53:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-05-13 18:53:57 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-05-13 18:54:00 - [TEST_STEP][PASSED] - verifyTextPresent(LogoutPageTextToBeVerified, false): Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:54:01 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-SIT' is present on page 
+
+2020-05-13 18:54:01 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-13 18:54:01 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-05-13 18:54:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-13 18:54:02 - [MESSAGE][PASSED] - Browser is closed
+
+2020-05-13 18:54:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Logout' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-05-13 18:47:03 - [TEST_SUITE][PASSED] - Decision: Test Cases/PFI Precision and Scale/PFI Test Cases/PFI.CloseCaseLHS]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

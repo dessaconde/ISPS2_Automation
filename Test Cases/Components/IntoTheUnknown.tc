@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IntoTheUnknown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd67533e-3477-4dce-be16-33e0e6068a4d</testCaseGuid>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>2e5931cb-bc4a-4ad9-b534-a3ead5fdf9f7</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

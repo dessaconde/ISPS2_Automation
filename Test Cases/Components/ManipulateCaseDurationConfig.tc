@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateCaseDurationConfig</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cac6a346-4bfc-4e0d-ae06-ddf90a9e7a1a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a1de302-ad14-4389-86e0-eeb0f3ea9643</id>
+      <masked>false</masked>
+      <name>caseDuration</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15e2e2fa-594d-416a-82a5-d5340386e0e9</id>
+      <masked>false</masked>
+      <name>moduleName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f2a3352-a942-4a1f-8180-4ac4beb16076</id>
+      <masked>false</masked>
+      <name>caseTypeCode</name>
+   </variable>
+</TestCaseEntity>

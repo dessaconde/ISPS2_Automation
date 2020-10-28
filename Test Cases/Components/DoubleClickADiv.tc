@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DoubleClickADiv</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bce3d1de-f85d-45fe-8654-6d58afdd34f8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d9c39149-1c63-466f-9afb-2c322f88f0ac</id>
+      <masked>false</masked>
+      <name>TextOfDiv</name>
+   </variable>
+</TestCaseEntity>

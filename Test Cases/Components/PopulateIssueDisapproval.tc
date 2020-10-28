@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateIssueDisapproval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>379d4113-692f-476e-b46e-cc81661ea3e2</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9f9f229e-5da8-4c56-9ba6-c8b6a649c7b7</id>
+      <masked>false</masked>
+      <name>expDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c9cabee4-1286-42de-b121-20047ee818ba</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+</TestCaseEntity>

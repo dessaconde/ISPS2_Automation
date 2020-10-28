@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateIssueWithdrawalLetter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5006ecf-8acb-4b20-b44b-3485389093fb</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>042e27e0-9656-42ef-a10c-c1d68596c057</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>0c8a0199-37b1-4f5b-9be3-1c155f874f4b</id>
+      <masked>false</masked>
+      <name>ESSExpiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9e9a69aa-7abf-4970-9c38-53c0e5c24254</id>
+      <masked>false</masked>
+      <name>ESSComment</name>
+   </variable>
+</TestCaseEntity>

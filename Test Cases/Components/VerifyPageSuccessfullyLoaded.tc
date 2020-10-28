@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPageSuccessfullyLoaded</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa44d406-34ec-4ac7-8ac4-905e1457738b</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>bd13b745-5971-45b9-b587-d2113c9dcc0b</id>
+      <masked>false</masked>
+      <name>HeaderName</name>
+   </variable>
+</TestCaseEntity>

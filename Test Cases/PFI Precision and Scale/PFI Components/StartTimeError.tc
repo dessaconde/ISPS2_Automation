@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>StartTimeError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5aac59f4-23b3-41c9-89c4-c49285f8d8db</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b97dcc0f-0e94-4e86-b0a6-fde0347ee30e</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>458405d3-b2d3-4c83-9ae8-e2e6f10154dc</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

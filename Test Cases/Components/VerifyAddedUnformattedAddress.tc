@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyAddedUnformattedAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd017ef3-53fc-4912-a558-73f9ca49c1e5</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d07006cd-22d8-42be-b828-1ae3325d9b63</id>
+      <masked>false</masked>
+      <name>addSuccessful</name>
+   </variable>
+</TestCaseEntity>

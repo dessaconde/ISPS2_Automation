@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyTextPresentInPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b7adf37-2ae1-4168-9424-cfde3d3b50ed</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3440fd3-4203-4754-914d-361dd9417068</id>
+      <masked>false</masked>
+      <name>TextToModify</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>57acd62b-7920-4209-adfa-14bd6e56c5b9</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

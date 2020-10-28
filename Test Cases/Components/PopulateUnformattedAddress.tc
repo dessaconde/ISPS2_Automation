@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateUnformattedAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c962422-cd6e-48df-afd9-c7d984d3a402</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1363beec-41c6-470a-acbb-4154f0bed8df</id>
+      <masked>false</masked>
+      <name>unformattedAdd</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDropDownValuesinDBII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77e339a4-b407-4548-99cb-2785d5bfb8b0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84ebcda1-8b38-4e77-b20b-761115e7b409</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>66aa6126-665c-4525-b350-3f00861ba764</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6fa324d-f358-4078-aa98-7048580d9552</id>
+      <masked>false</masked>
+      <name>script</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>4d47e78b-a970-4826-91bc-c9ed55a3914a</id>
+      <masked>false</masked>
+      <name>DelayTime</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateSecurityInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4305589-b958-4cd5-9447-58d3dd0342ab</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8eabfd53-fbd8-40fc-8f0b-3f3200931146</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f682baa2-5e73-4729-8716-7383b895d9b5</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>

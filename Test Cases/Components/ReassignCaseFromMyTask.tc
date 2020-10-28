@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReassignCaseFromMyTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac96e665-5995-44fd-85a7-6b17138ccfa9</testCaseGuid>
+   <variable>
+      <defaultValue>'\r\n'</defaultValue>
+      <description></description>
+      <id>143fa304-c494-4353-b948-6fac9aaa5f12</id>
+      <masked>false</masked>
+      <name>extractedCaseRefNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33bb9a6b-0669-4e08-ac18-baee0276f6e7</id>
+      <masked>false</masked>
+      <name>formattedTime</name>
+   </variable>
+</TestCaseEntity>

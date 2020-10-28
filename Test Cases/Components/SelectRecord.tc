@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectRecord</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b75e0112-154c-4544-9333-c87c7b0d60f7</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7ffe6d5a-fb16-45ca-8e5a-8f8188e1e12a</id>
+      <masked>false</masked>
+      <name>TextToClick</name>
+   </variable>
+</TestCaseEntity>

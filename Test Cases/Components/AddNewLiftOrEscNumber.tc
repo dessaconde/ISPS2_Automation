@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddNewLiftOrEscNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06fabd87-cec3-4333-8a00-6f58e5fd0436</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>3f6934f9-80d3-40fd-b517-550fdb96eae7</id>
+      <masked>false</masked>
+      <name>entryNumber</name>
+   </variable>
+</TestCaseEntity>

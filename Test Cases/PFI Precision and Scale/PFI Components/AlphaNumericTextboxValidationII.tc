@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AlphaNumericTextboxValidationII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77c3ae5a-c80f-4e59-807d-06a2ad208b47</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7481df9e-8b32-443e-86cb-c0c96f0be5d0</id>
+      <masked>false</masked>
+      <name>labelToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ea57d02-4e86-48b3-9a7f-c3892b88ba03</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb063b33-4f3d-45c7-9e5a-9349b7adcda9</id>
+      <masked>false</masked>
+      <name>minLen</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdc5b85a-8b2a-42ee-9cd3-7d1215db8a6a</id>
+      <masked>false</masked>
+      <name>maxLen</name>
+   </variable>
+</TestCaseEntity>

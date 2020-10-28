@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CounterValidationUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58c2ae45-e10b-4434-97d7-d57c89dbfae2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d656b05d-ce0c-4dc0-b4f8-14df70f5dafc</id>
+      <masked>false</masked>
+      <name>indexUp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f53d638a-c236-42fc-bf38-2e3aec27dae3</id>
+      <masked>false</masked>
+      <name>secondsToHoldUp</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCaseStageFromUniversalSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2354b941-6955-4d09-bdd8-752bebdb694f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7ca5c675-23ab-495e-8846-b4857dc97a70</id>
+      <masked>false</masked>
+      <name>caseOptions</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>5f3b44fd-c638-41df-b445-8b442e3520cb</id>
+      <masked>false</masked>
+      <name>applicationType</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>29212af0-5921-4d65-af5d-1ca1ae748113</id>
+      <masked>false</masked>
+      <name>officer</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7ccb4e20-723d-4eb2-b978-514226b7412e</id>
+      <masked>false</masked>
+      <name>stageDesc</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>86f6f69a-63ee-4964-952d-bdcb4b35a005</id>
+      <masked>false</masked>
+      <name>caseStat</name>
+   </variable>
+</TestCaseEntity>

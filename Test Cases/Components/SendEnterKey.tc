@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SendEnterKey</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37473919-4f8c-4b82-87b5-b2f3350a3cec</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9447c5dc-8d2a-4733-8c03-ca11bbaaa839</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ce10485-f28d-40f2-9e1e-3b47567d0aa9</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+</TestCaseEntity>

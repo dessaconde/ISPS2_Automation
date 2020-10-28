@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateKIVLHS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dc9cab3-467d-4e47-89ff-85e0e1e3a7c6</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>f8dc1908-ec1d-4c4b-8693-2edbc8dcfd94</id>
+      <masked>false</masked>
+      <name>expiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1994d6bd-9f6c-4f2a-a6ae-c42d14d47d67</id>
+      <masked>false</masked>
+      <name>noOfDays</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>32597de2-35a9-4095-b602-9cadb5195937</id>
+      <masked>false</masked>
+      <name>periodType</name>
+   </variable>
+</TestCaseEntity>

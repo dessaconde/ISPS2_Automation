@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickDropDownField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d992da7-0d09-4833-b424-2ec4cf123f04</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c5ce57e-0a9f-43c0-b770-f4c7c7af0a65</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateIssueApproval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa0e670d-aa7b-4eef-b67f-3e10624fe93f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>ee168deb-3e6b-4097-9dc6-1ed5de110c58</id>
+      <masked>false</masked>
+      <name>QPsCertificateList</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>dc2ab8f1-c2af-4d6a-b9d9-337e53875950</id>
+      <masked>false</masked>
+      <name>ProjectEnded</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>70d54656-f415-4d65-a80d-664b06637876</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+</TestCaseEntity>

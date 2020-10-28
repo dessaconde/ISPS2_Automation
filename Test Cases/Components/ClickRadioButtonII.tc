@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickRadioButtonII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>073165a1-22f1-4595-a027-3927ae98674f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3da8bdc7-31b3-4f98-94ce-65aaa30294cb</id>
+      <masked>false</masked>
+      <name>lblNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>88ced078-269d-4fbb-ade4-a2452f546711</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

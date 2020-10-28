@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddQualifiedPerson</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>317a0189-e2f8-4042-ae5e-b884da303aaa</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>5685c0c8-6bd8-4b8c-8a3c-f7378145fd00</id>
+      <masked>false</masked>
+      <name>qpName</name>
+   </variable>
+</TestCaseEntity>

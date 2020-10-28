@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvalidNumericErrorIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08edc9a5-33a2-40e3-a0dc-756d38fe4a6a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4a9b32e-4d74-4756-89a3-04bd001b63cf</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>6b84c206-3997-4332-902b-3d3ca6954817</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b39f12ab-d386-4429-a33a-fd4c0ab29ef9</id>
+      <masked>false</masked>
+      <name>EnterInvalidValue</name>
+   </variable>
+</TestCaseEntity>

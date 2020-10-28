@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC Objective: To verify the precision and scale in Court Actions LHS fields</description>
+   <name>NoticeOrderNoValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c19eb0a2-f8dd-4ee1-84d5-6b4e9ff6a360</testCaseGuid>
+</TestCaseEntity>

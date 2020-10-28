@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateGenerateCorrespondence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bd931c8-b7cc-4c66-80c9-b282f81ff9ed</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c458896e-e61d-407f-bde7-b2eb9435c77a</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1d350adf-a34b-466f-9d12-b9026993e024</id>
+      <masked>false</masked>
+      <name>ESSExpiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d1a72e0b-fe9a-45fe-87a3-8dd78d5f5a08</id>
+      <masked>false</masked>
+      <name>ESSComment</name>
+   </variable>
+</TestCaseEntity>

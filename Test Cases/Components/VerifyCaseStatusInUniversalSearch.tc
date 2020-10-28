@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCaseStatusInUniversalSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beada79b-95f2-4c20-a13d-e5cdc6b2cb42</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1ef22169-de5b-4562-942a-c3c20a6e274d</id>
+      <masked>false</masked>
+      <name>caseTypeCaseStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>3d82e7a8-4bf5-47a6-a221-3bda555df61b</id>
+      <masked>false</masked>
+      <name>caseStatus</name>
+   </variable>
+</TestCaseEntity>

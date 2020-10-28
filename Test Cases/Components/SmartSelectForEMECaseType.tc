@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SmartSelectForEMECaseType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae49ef11-8ad2-4b6f-8d95-ae8b1251d718</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>85876eec-90e8-4950-9549-05067f6fa362</id>
+      <masked>false</masked>
+      <name>caseType</name>
+   </variable>
+</TestCaseEntity>

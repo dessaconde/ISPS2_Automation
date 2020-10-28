@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c53a0f3-0f8b-48cf-a2fb-d4c387d7cfa1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09ec0873-cec0-41a8-8218-a0bc4a466783</id>
+      <masked>false</masked>
+      <name>LogoutPageTextToBeVerified</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateExtractData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>184521e2-424f-4e80-aebf-dcab71444bd0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dce358a5-ec2e-4b88-8b4e-8a34d270eb87</id>
+      <masked>false</masked>
+      <name>FromDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>454b42e5-4e04-41d3-8648-cf30281f4ef9</id>
+      <masked>false</masked>
+      <name>ToDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>890ae7fe-ee85-4f08-9540-caec15fe644d</id>
+      <masked>false</masked>
+      <name>lblNm</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>0d524aaa-ead4-45f3-8acd-b225b4dec956</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

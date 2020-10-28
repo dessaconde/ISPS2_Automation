@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateContractorContactDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5f34983-5956-46d3-999c-4fd592a2885d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>199ec10e-8e9c-45c3-bb0e-9574118ef06e</id>
+      <masked>false</masked>
+      <name>telNo</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d0302f2a-0aa8-4c60-a7cc-ea5c7e994b06</id>
+      <masked>false</masked>
+      <name>extNo</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>f1c0b24e-0c45-4be0-87fc-8eda30c537e8</id>
+      <masked>false</masked>
+      <name>faxNo</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>6472624e-1c55-49e3-8ed5-27831ca1ed03</id>
+      <masked>false</masked>
+      <name>mobileNo</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>de8cbed2-64b8-480d-a0cb-9af2f4a1b95b</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+</TestCaseEntity>

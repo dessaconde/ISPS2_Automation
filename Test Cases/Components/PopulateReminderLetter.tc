@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateReminderLetter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0be5b493-e007-40d6-bbac-348051ffae85</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>edddad6c-567d-496b-a209-6e76a4dd2eaa</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>44ec5c6f-d00f-4b5e-b15d-9b643e380798</id>
+      <masked>false</masked>
+      <name>ESSExpiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>5e76c649-0690-41cd-87cf-317e1e9b9d0a</id>
+      <masked>false</masked>
+      <name>ESSComment</name>
+   </variable>
+</TestCaseEntity>

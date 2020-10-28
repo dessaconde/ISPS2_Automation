@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPageSuccessfullyLoadedII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69b9f056-b9c6-4390-a8d4-466be688b586</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9c1517a8-2c67-47fb-9a33-fe64523bded0</id>
+      <masked>false</masked>
+      <name>PageNm</name>
+   </variable>
+</TestCaseEntity>

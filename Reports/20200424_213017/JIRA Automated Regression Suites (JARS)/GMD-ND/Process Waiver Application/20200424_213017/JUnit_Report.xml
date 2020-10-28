@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Process Waiver Application" time="147.216" tests="1" failures="0" errors="0">
+   <testsuite name="Process Waiver Application" tests="1" failures="0" errors="0" time="147.216" timestamp="2020-04-24 21:30:29" hostname="19023-RAC - 192.168.16.39" id="Test Suites/JIRA Automated Regression Suites (JARS)/GMD-ND/Process Waiver Application">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\19023-RAC\\Desktop\\ISPS2 Automation\\Reports\\20200424_213017\\JIRA Automated Regression Suites (JARS)\\GMD-ND\\Process Waiver Application\\20200424_213017"/>
+         <property name="logFiles" value="C:\\Users\\19023-RAC\\Desktop\\ISPS2 Automation\\Reports\\20200424_213017\\JIRA Automated Regression Suites (JARS)\\GMD-ND\\Process Waiver Application\\20200424_213017\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="19023-RAC - 192.168.16.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 81.0.4044.122"/>
+         <property name="hostAddress" value="192.168.16.39"/>
+         <property name="sessionId" value="d8f94048a9644d964223570bee25c5f0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Jira/GMD-ND/Process Waiver Application/BCAISPS-14696/BCAISPS-14696.TCID001" time="146.19" classname="Test Cases/Jira/GMD-ND/Process Waiver Application/BCAISPS-14696/BCAISPS-14696.TCID001" status="PASSED">
+         <system-out><![CDATA[2020-04-24 21:30:29 - [TEST_CASE][PASSED] - Test Cases/Jira/GMD-ND/Process Waiver Application/BCAISPS-14696/BCAISPS-14696.TCID001: Test Cases/Jira/GMD-ND/Process Waiver Application/BCAISPS-14696/BCAISPS-14696.TCID001
+
+2020-04-24 21:30:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Login"), ["Username":findTestData("Datatable").getValue("Username", 1), "Password":findTestData("Datatable").getValue("Password", 1)], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Login' successfully
+
+2020-04-24 21:30:30 - [TEST_CASE][PASSED] - Test Cases/Components/Login: Test Cases/Components/Login
+
+2020-04-24 21:30:30 - [TEST_STEP][PASSED] - openBrowser(findTestData("Datatable").getValue("URL", 1)): Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-04-24 21:30:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-04-24 21:30:30 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-04-24 21:30:41 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-04-24 21:30:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-04-24 21:30:44 - [MESSAGE][PASSED] - Current window maximized
+
+2020-04-24 21:30:44 - [TEST_STEP][PASSED] - verifyTextPresent("Sign in to ISPS2-PROD-Verify", false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-24 21:30:44 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-24 21:30:44 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-04-24 21:30:44 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-04-24 21:30:44 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"))
+
+2020-04-24 21:30:44 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"))
+
+2020-04-24 21:30:44 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-04-24 21:30:44 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-04-24 21:30:44 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"))
+
+2020-04-24 21:30:44 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"))
+
+2020-04-24 21:30:44 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-04-24 21:30:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-04-24 21:30:45 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"))
+
+2020-04-24 21:30:45 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"))
+
+2020-04-24 21:30:45 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-04-24 21:30:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-04-24 21:30:45 - [TEST_STEP][NOT_RUN] - sendKeys(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Keys.chord(ENTER), OPTIONAL): NOT_RUN: sendKeys(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Keys.chord(ENTER), OPTIONAL)
+
+2020-04-24 21:30:45 - [MESSAGE][NOT_RUN] - NOT_RUN: sendKeys(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Keys.chord(ENTER), OPTIONAL)
+
+2020-04-24 21:30:45 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-04-24 21:30:45 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-24 21:30:45 - [TEST_STEP][NOT_RUN] - verifyElementVisible(findTestObject("Objects.Login/Dashboard/a_ISPS2-PROD-Verify"), OPTIONAL): NOT_RUN: verifyElementVisible(findTestObject("Objects.Login/Dashboard/a_ISPS2-PROD-Verify"), OPTIONAL)
+
+2020-04-24 21:30:45 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyElementVisible(findTestObject("Objects.Login/Dashboard/a_ISPS2-PROD-Verify"), OPTIONAL)
+
+2020-04-24 21:30:45 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:30:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Login' successfully
+
+2020-04-24 21:30:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-04-24 21:30:48 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToHomepageHeaders: Test Cases/Components/NavigateToHomepageHeaders
+
+2020-04-24 21:30:48 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:30:49 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-04-24 21:30:50 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-24 21:30:50 - [TEST_STEP][PASSED] - modifiedHeader = modifyObjectProperty(findTestObject("Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header"), "text", "equals", headerText, true): Modify property of object successfully
+
+2020-04-24 21:30:50 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:30:50 - [TEST_STEP][PASSED] - verifyElementClickable(modifiedHeader): Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-04-24 21:30:58 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-04-24 21:30:58 - [TEST_STEP][PASSED] - click(modifiedHeader): Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-04-24 21:30:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-04-24 21:30:59 - [TEST_STEP][PASSED] - Thread.sleep(7000): null
+
+2020-04-24 21:31:06 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-04-24 21:31:06 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Waiver Application"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-04-24 21:31:06 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-04-24 21:31:06 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:31:11 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-04-24 21:31:11 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-24 21:31:11 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-04-24 21:31:11 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-04-24 21:31:11 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-04-24 21:31:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-04-24 21:31:12 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:13 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:13 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-04-24 21:31:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-04-24 21:31:13 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:14 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:14 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Process Waiver Application' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-04-24 21:31:15 - [MESSAGE][PASSED] - Text 'Process Waiver Application' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-04-24 21:31:15 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-04-24 21:31:16 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-04-24 21:31:16 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-04-24 21:31:16 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:17 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:17 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-04-24 21:31:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-04-24 21:31:18 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-04-24 21:31:18 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-04-24 21:31:18 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-04-24 21:31:18 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-04-24 21:31:18 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:31:23 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-04-24 21:31:23 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":caseType, "index":4], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-04-24 21:31:23 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-04-24 21:31:23 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:31:24 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-04-24 21:31:24 - [TEST_STEP][PASSED] - println(index): null
+
+2020-04-24 21:31:24 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-04-24 21:31:24 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:31:24 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:31:29 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:30 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:30 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-04-24 21:31:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-04-24 21:31:30 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-04-24 21:31:30 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Summary"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-04-24 21:31:30 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoaded: Test Cases/Components/VerifyPageSuccessfullyLoaded
+
+2020-04-24 21:31:30 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:31:33 - [TEST_STEP][PASSED] - ModifiedHeaderName = modifyObjectProperty(findTestObject("Objects.VerifyPageSuccessfullyLoaded/PageHeader"), "text", "equals", HeaderName, false): Modify property of object successfully
+
+2020-04-24 21:31:33 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:31:33 - [TEST_STEP][PASSED] - verifyElementPresent(ModifiedHeaderName, 0): Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-04-24 21:31:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-04-24 21:31:38 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-04-24 21:31:38 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedHeaderName): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:41 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:41 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:31:44 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-04-24 21:31:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Main Form"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-04-24 21:31:44 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-04-24 21:31:44 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:31:45 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-04-24 21:31:45 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:31:45 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-04-24 21:31:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-04-24 21:31:45 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Main Form'
+
+2020-04-24 21:31:46 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Main Form'
+
+2020-04-24 21:31:46 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:31:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-04-24 21:31:51 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Main Form"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-04-24 21:31:51 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoaded: Test Cases/Components/VerifyPageSuccessfullyLoaded
+
+2020-04-24 21:31:51 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:31:54 - [TEST_STEP][PASSED] - ModifiedHeaderName = modifyObjectProperty(findTestObject("Objects.VerifyPageSuccessfullyLoaded/PageHeader"), "text", "equals", HeaderName, false): Modify property of object successfully
+
+2020-04-24 21:31:54 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:31:54 - [TEST_STEP][PASSED] - verifyElementPresent(ModifiedHeaderName, 0): Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-04-24 21:31:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-04-24 21:31:54 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-04-24 21:31:54 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedHeaderName): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:55 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:31:55 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:31:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-04-24 21:31:58 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/SetTextOnField"), ["tagToBeUsed":"input", "nameToBeUsed":"noOfResidentialUnit", "textToBeInputted":"10"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/SetTextOnField' successfully
+
+2020-04-24 21:31:58 - [TEST_CASE][PASSED] - Test Cases/Components/SetTextOnField: Test Cases/Components/SetTextOnField
+
+2020-04-24 21:31:58 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:31:59 - [TEST_STEP][PASSED] - modifiedTagOfField = modifyObjectProperty(findTestObject("Objects.SetTextOnField/sampleField"), "tag", "equals", tagToBeUsed, false): Modify property of object successfully
+
+2020-04-24 21:31:59 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:31:59 - [TEST_STEP][PASSED] - modifiedNameOfField = modifyObjectProperty(modifiedTagOfField, "name", "equals", nameToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:31:59 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:31:59 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedNameOfField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:00 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:00 - [TEST_STEP][PASSED] - setText(modifiedNameOfField, textToBeInputted): Text '10' is set on object 'Object Repository/Objects.SetTextOnField/sampleField'
+
+2020-04-24 21:32:00 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/Objects.SetTextOnField/sampleField'
+
+2020-04-24 21:32:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/SetTextOnField' successfully
+
+2020-04-24 21:32:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/GetTextOfFieldAndStoreInAGlobalVariable"), ["tagToBeUsed":"input", "nameToBeUsed":"noOfResidentialUnit"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable' successfully
+
+2020-04-24 21:32:00 - [TEST_CASE][PASSED] - Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable: Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable
+
+2020-04-24 21:32:00 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:32:01 - [TEST_STEP][PASSED] - modifiedTagOfField = modifyObjectProperty(findTestObject("Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified"), "tag", "equals", tagToBeUsed, false): Modify property of object successfully
+
+2020-04-24 21:32:01 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:01 - [TEST_STEP][PASSED] - modifiedNameOfField = modifyObjectProperty(modifiedTagOfField, "name", "equals", nameToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:32:01 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:01 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedNameOfField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:02 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:02 - [TEST_STEP][PASSED] - click(modifiedNameOfField): Object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified' is clicked on
+
+2020-04-24 21:32:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified' is clicked on
+
+2020-04-24 21:32:02 - [TEST_STEP][PASSED] - sendKeys(modifiedNameOfField, Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:32:03 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:32:03 - [TEST_STEP][PASSED] - sendKeys(modifiedNameOfField, Keys.chord(LEFT_CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:32:03 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:32:03 - [TEST_STEP][PASSED] - clipboardValue = getContents(null).getTransferData(stringFlavor): null
+
+2020-04-24 21:32:03 - [TEST_STEP][PASSED] - inputFieldText = clipboardValue: null
+
+2020-04-24 21:32:03 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable' successfully
+
+2020-04-24 21:32:03 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickBlueButtonsWithXPI"), ["Button":"Save", "Index":"1"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickBlueButtonsWithXPI' successfully
+
+2020-04-24 21:32:03 - [TEST_CASE][PASSED] - Test Cases/Components/ClickBlueButtonsWithXPI: Test Cases/Components/ClickBlueButtonsWithXPI
+
+2020-04-24 21:32:03 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:32:04 - [TEST_STEP][PASSED] - complexlyModifiedButtonGG = modifyObjectProperty(findTestObject("Objects.ClickBlueButtonsWithXPI/span_Reset"), "xPath", "equals", "(//span[text()="" + Button + ""])[" + Index + "]", true): Modify property of object successfully
+
+2020-04-24 21:32:04 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:04 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:32:09 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:32:14 - [TEST_STEP][PASSED] - click(complexlyModifiedButtonGG): Object: 'Object Repository/Objects.ClickBlueButtonsWithXPI/span_Reset' is clicked on
+
+2020-04-24 21:32:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickBlueButtonsWithXPI/span_Reset' is clicked on
+
+2020-04-24 21:32:15 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:32:20 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickBlueButtonsWithXPI' successfully
+
+2020-04-24 21:32:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Summary"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-04-24 21:32:20 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-04-24 21:32:20 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:32:21 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-04-24 21:32:21 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:21 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-04-24 21:32:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-04-24 21:32:22 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Summary'
+
+2020-04-24 21:32:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Summary'
+
+2020-04-24 21:32:24 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:32:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-04-24 21:32:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ScrollPageDown"), ["textToBeUsed":"No of Residential Units:", "tagToBeUsed":"span"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ScrollPageDown' successfully
+
+2020-04-24 21:32:29 - [TEST_CASE][PASSED] - Test Cases/Components/ScrollPageDown: Test Cases/Components/ScrollPageDown
+
+2020-04-24 21:32:29 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:32:32 - [TEST_STEP][PASSED] - ModifiedObject = modifyObjectProperty(findTestObject("Object.ScrollPageDown/ScrolltoElement"), "tag", "equals", tagToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:32:32 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:32 - [TEST_STEP][PASSED] - ModifiedObjectx2 = modifyObjectProperty(ModifiedObject, "text", "equals", textToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:32:32 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:32 - [TEST_STEP][PASSED] - scrollToElement(ModifiedObjectx2, 0): Scroll to object 'Object Repository/Object.ScrollPageDown/ScrolltoElement' successfully
+
+2020-04-24 21:32:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-04-24 21:32:32 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Object.ScrollPageDown/ScrolltoElement' successfully
+
+2020-04-24 21:32:32 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ScrollPageDown' successfully
+
+2020-04-24 21:32:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Wait"), ["secondsToWait":5], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Wait' successfully
+
+2020-04-24 21:32:33 - [TEST_CASE][PASSED] - Test Cases/Components/Wait: Test Cases/Components/Wait
+
+2020-04-24 21:32:33 - [TEST_STEP][PASSED] - Thread.sleep(secondsToWait): null
+
+2020-04-24 21:32:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Wait' successfully
+
+2020-04-24 21:32:33 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyTextPresentInPage"), ["tagToModify":"div", "textToModify":inputFieldText], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyTextPresentInPage' successfully
+
+2020-04-24 21:32:33 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyTextPresentInPage: Test Cases/Components/VerifyTextPresentInPage
+
+2020-04-24 21:32:33 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:32:36 - [TEST_STEP][NOT_RUN] - verifyTextPresent(textToLocate, false): NOT_RUN: verifyTextPresent(textToLocate, false)
+
+2020-04-24 21:32:36 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent(textToLocate, false)
+
+2020-04-24 21:32:36 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(textToLocate): NOT_RUN: com.reusableComponents.HighlightElement.run(textToLocate)
+
+2020-04-24 21:32:36 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(textToLocate)
+
+2020-04-24 21:32:36 - [TEST_STEP][PASSED] - modifiedTag = modifyObjectProperty(findTestObject("Objects.VerifyTextPresent/Page_ISPS2/objectToModify"), "tag", "equals", tagToModify, true): Modify property of object successfully
+
+2020-04-24 21:32:36 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:36 - [TEST_STEP][PASSED] - modified = modifyObjectProperty(modifiedTag, "text", "equals", textToModify, true): Modify property of object successfully
+
+2020-04-24 21:32:36 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:36 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modified): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:37 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:37 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:32:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyTextPresentInPage' successfully
+
+2020-04-24 21:32:40 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Main Form"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-04-24 21:32:40 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-04-24 21:32:40 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:32:41 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-04-24 21:32:41 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:41 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-04-24 21:32:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-04-24 21:32:41 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Main Form'
+
+2020-04-24 21:32:43 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Main Form'
+
+2020-04-24 21:32:43 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:32:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-04-24 21:32:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/GetTextAndStoreToAGlobalVariable"), ["nameToBeUsed":"noOfResidentialUnit", "tagToBeUsed":"input"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/GetTextAndStoreToAGlobalVariable' successfully
+
+2020-04-24 21:32:48 - [TEST_CASE][PASSED] - Test Cases/Components/GetTextAndStoreToAGlobalVariable: Test Cases/Components/GetTextAndStoreToAGlobalVariable
+
+2020-04-24 21:32:49 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:32:50 - [TEST_STEP][PASSED] - ModifiedObject = modifyObjectProperty(findTestObject("Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified"), "tag", "equals", tagToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:32:50 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:50 - [TEST_STEP][PASSED] - ModifiedObjectx2 = modifyObjectProperty(ModifiedObject, "name", "equals", nameToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:32:50 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:32:50 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedObjectx2): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:51 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:32:51 - [TEST_STEP][PASSED] - click(ModifiedObjectx2): Object: 'Object Repository/Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified' is clicked on
+
+2020-04-24 21:32:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified' is clicked on
+
+2020-04-24 21:32:51 - [TEST_STEP][PASSED] - sendKeys(ModifiedObjectx2, Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified'
+
+2020-04-24 21:32:52 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified'
+
+2020-04-24 21:32:52 - [TEST_STEP][PASSED] - sendKeys(ModifiedObjectx2, Keys.chord(LEFT_CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified'
+
+2020-04-24 21:32:52 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Objects.GetTextAndStoreToAGlobalVariable/ObjectToBeModified'
+
+2020-04-24 21:32:52 - [TEST_STEP][PASSED] - clipboardValue = getContents(null).getTransferData(stringFlavor): null
+
+2020-04-24 21:32:52 - [TEST_STEP][PASSED] - CopiedValue = clipboardValue: null
+
+2020-04-24 21:32:52 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/GetTextAndStoreToAGlobalVariable' successfully
+
+2020-04-24 21:32:52 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyTextMatch"), ["actualText1":inputFieldText, "expectedText1":CopiedValue], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyTextMatch' successfully
+
+2020-04-24 21:32:52 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyTextMatch: Test Cases/Components/VerifyTextMatch
+
+2020-04-24 21:32:52 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:32:55 - [TEST_STEP][PASSED] - verifyMatch(actualText1, expectedText1, false): Actual text '10' and expected text '10' are matched 
+
+2020-04-24 21:32:55 - [MESSAGE][PASSED] - Actual text '10' and expected text '10' are matched 
+
+2020-04-24 21:32:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyTextMatch' successfully
+
+2020-04-24 21:32:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Wait"), ["secondsToWait":5], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Wait' successfully
+
+2020-04-24 21:32:55 - [TEST_CASE][PASSED] - Test Cases/Components/Wait: Test Cases/Components/Wait
+
+2020-04-24 21:32:55 - [TEST_STEP][PASSED] - Thread.sleep(secondsToWait): null
+
+2020-04-24 21:32:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Wait' successfully
+
+2020-04-24 21:32:55 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/Logout"), [:], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/Logout"), [:], STOP_ON_FAILURE)
+
+2020-04-24 21:32:55 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/Logout"), [:], STOP_ON_FAILURE)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-04-24 21:30:29 - [TEST_SUITE][PASSED] - Process Waiver Application: Test Cases/Jira/GMD-ND/Process Waiver Application/BCAISPS-14696/BCAISPS-14696.TCID001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

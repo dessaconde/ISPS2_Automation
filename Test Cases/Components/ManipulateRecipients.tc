@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateRecipients</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38690384-cba8-410d-8630-6dbc1f940fbd</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>df97fd4d-dafe-4f82-ba64-f13d055a15ff</id>
+      <masked>false</masked>
+      <name>addedEmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>f49f1067-119d-4f56-abc7-f6be2d93795d</id>
+      <masked>false</masked>
+      <name>inputRecipient</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9f663b2f-de9b-486e-9c20-d2c2ef179926</id>
+      <masked>false</masked>
+      <name>addedEmailAddressCC</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>2bd95aa0-859f-4912-886f-a039cacb2cea</id>
+      <masked>false</masked>
+      <name>inputRecipientCC</name>
+   </variable>
+</TestCaseEntity>

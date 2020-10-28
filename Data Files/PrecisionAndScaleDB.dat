@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>PrecisionAndScaleDB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d65bd531-9db4-4f57-9c45-3c2284898623</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>This+field+is+required 6</data>
+   <data>%27is+not+a+valid+date+-+it+must+be+in+the+format+d%2Fm%2FY 2147483647</data>
+   <data>Start+time+must+be+less+than+end+time null</data>
+   <data>The+date+in+this+field+must+be+after null</data>
+   <data>The+value+in+this+field+is+invalid null</data>
+   <data>is+not+a+valid+number null</data>
+   <data>The+date+in+this+field+must+be+before null</data>
+   <data>The+maximum+value+for+this+field+is+2147483647 null</data>
+   <data>The+minimum+length+for+this+field+is+ null</data>
+   <data>The+value+cannot+be+negative null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>ErrorMessage</name>
+      <size>10</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>MaxValue</name>
+      <size>10</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

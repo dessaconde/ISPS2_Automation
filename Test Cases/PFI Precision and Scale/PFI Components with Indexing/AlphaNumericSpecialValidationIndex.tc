@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AlphaNumericSpecialValidationIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fa7cda8-4749-45af-a28e-431f4fff33a3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec7dc372-29d7-4736-a3a2-f52ab6c2f804</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>ef4fc8c7-06ad-400f-ab54-bbc21d2e6cbb</id>
+      <masked>false</masked>
+      <name>LenChar</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>386f653b-7762-4eff-a3dd-72219d60c069</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

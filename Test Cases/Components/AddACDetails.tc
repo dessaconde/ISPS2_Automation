@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To add an AC Record</description>
+   <name>AddACDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9dc97bf-3ec4-4e24-b7a1-4cd3df133eda</testCaseGuid>
+   <variable>
+      <defaultValue>'enterACNo'</defaultValue>
+      <description></description>
+      <id>1989bbdb-650d-4265-a493-a2c9b3527f89</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyOICinUniversalSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>858586b4-21ec-47cb-9b43-e188bd026da8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>eef1a21a-4b65-4ca9-a245-edaf93af4975</id>
+      <masked>false</masked>
+      <name>oic</name>
+   </variable>
+</TestCaseEntity>

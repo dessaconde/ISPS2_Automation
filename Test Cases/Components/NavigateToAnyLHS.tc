@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NavigateToAnyLHS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e288bbc2-f747-42e7-8392-3484ed3a4a2c</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>fe8f74ea-18d7-4cba-bac5-8b27d47da393</id>
+      <masked>false</masked>
+      <name>LHS</name>
+   </variable>
+</TestCaseEntity>

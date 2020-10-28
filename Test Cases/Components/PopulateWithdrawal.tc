@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateWithdrawal</name>
+   <tag></tag>
+   <comment>currentDate</comment>
+   <testCaseGuid>ed8d23e6-10c1-4ddc-9019-5355f649d906</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>b0aee6b9-7e38-48e6-9f6e-b7aec36ce6c3</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a678d5d3-b677-4a37-8a70-d6b17960b75a</id>
+      <masked>false</masked>
+      <name>withdrawalStatus</name>
+   </variable>
+</TestCaseEntity>

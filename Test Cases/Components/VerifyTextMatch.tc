@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyTextMatch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23e9ee4c-3b6f-4eb3-a834-9a9ef5d7f63d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8463595a-716d-45f2-8068-da1781e52a2a</id>
+      <masked>false</masked>
+      <name>actualText1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d60a35a-d96b-44bd-9a6a-5dde71e50bce</id>
+      <masked>false</masked>
+      <name>expectedText1</name>
+   </variable>
+</TestCaseEntity>

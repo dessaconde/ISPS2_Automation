@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyAddressInSummaryPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2a66eb8-44ea-4fd8-997c-c22962fa204f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>65c1c65a-8b58-47dc-8895-fbd31aa3db63</id>
+      <masked>false</masked>
+      <name>formattedAdd</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>874aea6d-1e64-4fb9-87fa-72f859f69393</id>
+      <masked>false</masked>
+      <name>unformattedAdd</name>
+   </variable>
+</TestCaseEntity>

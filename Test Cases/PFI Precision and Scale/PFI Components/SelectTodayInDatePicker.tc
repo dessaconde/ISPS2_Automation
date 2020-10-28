@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectTodayInDatePicker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>855af1b1-54da-4fdf-bb08-de1c56e0112f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ecf29d1c-1939-467a-abc0-c9a338dbbf04</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd3ea1e1-be19-4995-84af-2ed9a246e3db</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

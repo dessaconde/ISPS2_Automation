@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetTextAndStoreToAGlobalVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2656170-bb3a-490e-8857-5527d9d34d20</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce337234-ad84-4283-b009-6d013fd9442a</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d490374-dcfe-40e9-a365-860903c7300b</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+</TestCaseEntity>

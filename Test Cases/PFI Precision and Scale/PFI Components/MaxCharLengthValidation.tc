@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaxCharLengthValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ec6b6b7-a84e-47e3-93c2-3a6f2af3d113</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf7db06b-5f9a-4158-af40-8d397c774389</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a3f3bcc6-acfb-461c-b4f8-fceb0599963d</id>
+      <masked>false</masked>
+      <name>MaxCharLen</name>
+   </variable>
+</TestCaseEntity>

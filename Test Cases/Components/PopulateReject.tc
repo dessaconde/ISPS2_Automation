@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateReject</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b4c15a2-7908-4239-badf-cfe11bfd7886</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7024ab1f-9d8d-4e92-a6b0-c731228e8d0f</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7bbc87de-f8ec-436b-8a91-6d5a42bd13c1</id>
+      <masked>false</masked>
+      <name>ESSExpiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>b8922de5-4a31-4152-891b-7efececb7212</id>
+      <masked>false</masked>
+      <name>ESSComment</name>
+   </variable>
+</TestCaseEntity>

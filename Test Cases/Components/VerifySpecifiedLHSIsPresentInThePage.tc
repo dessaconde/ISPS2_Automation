@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifySpecifiedLHSIsPresentInThePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>414c051b-b0e9-447e-ac8b-39dd207cb428</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1e4e675e-1469-4832-903b-94c58f9e15b9</id>
+      <masked>false</masked>
+      <name>LHS</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ce5f706-307c-43d6-9978-79669caee081</id>
+      <masked>false</masked>
+      <name>extractedCaseTypeFromGV</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22fd87a3-08bc-4fd2-88ba-34343148e9f7</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18e4825e-c36d-44c5-9888-76b641490701</id>
+      <masked>false</masked>
+      <name>caseRefNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>168e5a4a-ba7e-4386-8bd3-6b1590472e7d</id>
+      <masked>false</masked>
+      <name>taskDescription</name>
+   </variable>
+</TestCaseEntity>

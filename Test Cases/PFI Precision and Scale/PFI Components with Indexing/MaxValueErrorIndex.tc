@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaxValueErrorIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84dfac3b-c3e9-4ac2-8c0e-ea85462f5a1e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80388856-4624-4169-a82a-ccd919cb84c3</id>
+      <masked>false</masked>
+      <name>InputName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9317b1f1-f79d-4586-aeda-9b329c91f960</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

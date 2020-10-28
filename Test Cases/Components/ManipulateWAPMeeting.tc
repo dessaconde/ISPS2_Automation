@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateWAPMeeting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39650a49-655d-4011-97e0-a4c8ddad4a3d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>f6e254f7-501e-40bc-acfb-70140a4ef380</id>
+      <masked>false</masked>
+      <name>WAPMeetingDate</name>
+   </variable>
+</TestCaseEntity>

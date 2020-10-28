@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectFromDropDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71117e61-b92d-4623-87c6-605e2dc9ff6d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff680f50-fc2f-4e96-99e0-39c1aa1b823a</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15960cfb-abca-4579-8110-4e6db39113aa</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a74c326-0811-4cad-961a-e30ac38fa517</id>
+      <masked>false</masked>
+      <name>idToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69584b84-3d41-4268-b24f-7f2eb883426e</id>
+      <masked>false</masked>
+      <name>ariaToBeUsed</name>
+   </variable>
+</TestCaseEntity>

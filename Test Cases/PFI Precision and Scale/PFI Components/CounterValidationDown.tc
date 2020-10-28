@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CounterValidationDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6938ee8d-c288-4eb4-a640-94aa33500f1e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83501b59-7954-42ce-8247-ac811c0f3992</id>
+      <masked>false</masked>
+      <name>indexDown</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a45d172e-bdac-4390-916f-3c7d862af8bf</id>
+      <masked>false</masked>
+      <name>secondsToHoldDown</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6bda8738-b327-42be-bc7e-84e56dfeb059</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+</TestCaseEntity>

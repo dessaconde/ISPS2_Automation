@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickCheckBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>461f1b59-1a47-4e88-87be-cafa79f77d25</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>0f56a2c6-b782-41c2-8995-df823cfb8d5c</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

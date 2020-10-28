@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a669a8aa-0bb9-4438-afd7-b32edbc609a6</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>ae09416a-aa42-4080-8889-486c1aafc74c</id>
+      <masked>false</masked>
+      <name>taskDescription</name>
+   </variable>
+</TestCaseEntity>

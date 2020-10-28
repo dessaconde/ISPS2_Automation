@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScrollDownToElementIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a4db8d2-1f45-4e61-96a8-bdc97732e12d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4e52fa5-d63e-4229-abe3-7fcf5417936e</id>
+      <masked>false</masked>
+      <name>labelNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>30218e97-680f-45c9-b29a-987b0a844337</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

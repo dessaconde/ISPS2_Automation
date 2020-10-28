@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateEMEAsBuiltMainForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83521c93-a71d-41ac-9990-cf69d5cb8fca</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>2660da0e-a110-4586-917c-89fb7b4ed548</id>
+      <masked>false</masked>
+      <name>projectTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9f54f426-1e45-4c6e-af7b-1a32bcf59a76</id>
+      <masked>false</masked>
+      <name>descriptionOfBuildingWorks</name>
+   </variable>
+</TestCaseEntity>

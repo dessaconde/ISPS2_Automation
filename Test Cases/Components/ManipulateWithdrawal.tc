@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateWithdrawal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3a07dd3-1942-4623-bf1d-9cdaa1992c84</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e478aa86-f5d6-47ff-8cc5-520557f7408c</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0092552-9b7b-4e84-a8ce-a00b193e49c8</id>
+      <masked>false</masked>
+      <name>withdrawalStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d617ff5f-a097-45f7-9fee-c2f5037d8c80</id>
+      <masked>false</masked>
+      <name>generatedLetterContains</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>695faf5c-b84f-4888-abb0-39e6d34c4656</id>
+      <masked>false</masked>
+      <name>letterToGenerateContains</name>
+   </variable>
+</TestCaseEntity>

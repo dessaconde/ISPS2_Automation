@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompareTwoDates</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4d9d6f0-35f6-4908-8e98-3799734340c8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.inputFieldText</defaultValue>
+      <description></description>
+      <id>3a606366-2dc2-4fa4-9357-90af0367d561</id>
+      <masked>false</masked>
+      <name>dateToCompare</name>
+   </variable>
+</TestCaseEntity>

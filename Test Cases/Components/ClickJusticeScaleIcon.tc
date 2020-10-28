@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickJusticeScaleIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e502307d-3124-4bd7-a125-e756213fedaa</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>04b64396-d679-430a-993f-76a027b91d2c</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

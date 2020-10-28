@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDefaultValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b53fb7e-41fc-45bd-8344-ab9671d3f0ea</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>406b5633-8c8a-4804-9f37-21af82a309c5</id>
+      <masked>false</masked>
+      <name>FieldNm</name>
+   </variable>
+</TestCaseEntity>

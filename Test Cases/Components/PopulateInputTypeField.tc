@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateInputTypeField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3259e1a-e74e-4532-8c13-27cc7bdd676b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79805384-1ebf-4b8e-9cac-5662749304ff</id>
+      <masked>false</masked>
+      <name>objectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f408b1bc-d8bc-4ed6-ad70-941c018991ee</id>
+      <masked>false</masked>
+      <name>textToBeInputted</name>
+   </variable>
+</TestCaseEntity>

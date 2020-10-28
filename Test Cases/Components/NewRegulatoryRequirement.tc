@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewRegulatoryRequirement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>567d8429-831f-4645-b976-0111a8c5b0ee</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>de6bf580-98cd-4581-8470-0974abfb3aa2</id>
+      <masked>false</masked>
+      <name>categoryOfProvision</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c55cd1dd-bccd-47f4-a191-2c3b4af36d68</id>
+      <masked>false</masked>
+      <name>provisionMadeOn</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>fa0fce5d-deb9-40e4-a7cf-5ca76493ac24</id>
+      <masked>false</masked>
+      <name>regulationClause</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>5fd163dd-6dec-4621-bc51-8133b36ac62c</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

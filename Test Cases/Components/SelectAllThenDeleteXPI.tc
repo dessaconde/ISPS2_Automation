@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectAllThenDeleteXPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>710c5881-41a5-4cf7-8b11-52da474e403f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b18db7c6-fe9b-4fc0-8d08-f66a4bbf31e8</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ae5a18e-8655-4744-887e-12f4936bb6b2</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

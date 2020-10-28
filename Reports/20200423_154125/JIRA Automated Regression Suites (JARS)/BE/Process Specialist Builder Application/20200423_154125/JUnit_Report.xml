@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Process Specialist Builder Application" time="77.86" tests="1" failures="0" errors="1">
+   <testsuite name="Process Specialist Builder Application" tests="1" failures="0" errors="1" time="77.86" timestamp="2020-04-23 15:41:37" hostname="19023-RAC - 192.168.16.39" id="Test Suites/JIRA Automated Regression Suites (JARS)/BE/Process Specialist Builder Application">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\19023-RAC\\Desktop\\ISPS2 Automation\\Reports\\20200423_154125\\JIRA Automated Regression Suites (JARS)\\BE\\Process Specialist Builder Application\\20200423_154125"/>
+         <property name="logFiles" value="C:\\Users\\19023-RAC\\Desktop\\ISPS2 Automation\\Reports\\20200423_154125\\JIRA Automated Regression Suites (JARS)\\BE\\Process Specialist Builder Application\\20200423_154125\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="19023-RAC - 192.168.16.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 81.0.4044.122"/>
+         <property name="hostAddress" value="192.168.16.39"/>
+         <property name="sessionId" value="0d69920189c0c4fce3b8c894ef2761f2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001" time="76.909" classname="Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001" status="ERROR">
+         <error type="ERROR" message="Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()=&quot;Process Specialist Builder Application&quot;])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()=&quot;Process Specialist Builder Application&quot;])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more
+"/>
+         <system-out><![CDATA[2020-04-23 15:41:37 - [TEST_CASE][ERROR] - Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001: Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more
+
+
+2020-04-23 15:41:37 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Login"), ["Username":findTestData("Datatable").getValue("Username", 1), "Password":findTestData("Datatable").getValue("Password", 1)], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Login' successfully
+
+2020-04-23 15:41:38 - [TEST_CASE][PASSED] - Test Cases/Components/Login: Test Cases/Components/Login
+
+2020-04-23 15:41:38 - [TEST_STEP][PASSED] - openBrowser(findTestData("Datatable").getValue("URL", 1)): Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-04-23 15:41:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-04-23 15:41:38 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-04-23 15:42:12 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-04-23 15:42:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-04-23 15:42:14 - [MESSAGE][PASSED] - Current window maximized
+
+2020-04-23 15:42:14 - [TEST_STEP][PASSED] - verifyTextPresent("Sign in to ISPS2-PROD-Verify", false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-23 15:42:15 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-23 15:42:15 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-04-23 15:42:15 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-04-23 15:42:15 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"))
+
+2020-04-23 15:42:15 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"))
+
+2020-04-23 15:42:15 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-04-23 15:42:15 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-04-23 15:42:15 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"))
+
+2020-04-23 15:42:15 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"))
+
+2020-04-23 15:42:15 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-04-23 15:42:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-04-23 15:42:16 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"))
+
+2020-04-23 15:42:16 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"))
+
+2020-04-23 15:42:16 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-04-23 15:42:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-04-23 15:42:16 - [TEST_STEP][NOT_RUN] - sendKeys(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Keys.chord(ENTER), OPTIONAL): NOT_RUN: sendKeys(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Keys.chord(ENTER), OPTIONAL)
+
+2020-04-23 15:42:16 - [MESSAGE][NOT_RUN] - NOT_RUN: sendKeys(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Keys.chord(ENTER), OPTIONAL)
+
+2020-04-23 15:42:16 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-04-23 15:42:16 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-23 15:42:16 - [TEST_STEP][NOT_RUN] - verifyElementVisible(findTestObject("Objects.Login/Dashboard/a_ISPS2-PROD-Verify"), OPTIONAL): NOT_RUN: verifyElementVisible(findTestObject("Objects.Login/Dashboard/a_ISPS2-PROD-Verify"), OPTIONAL)
+
+2020-04-23 15:42:16 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyElementVisible(findTestObject("Objects.Login/Dashboard/a_ISPS2-PROD-Verify"), OPTIONAL)
+
+2020-04-23 15:42:16 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-23 15:42:19 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Login' successfully
+
+2020-04-23 15:42:19 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Wait"), ["secondsToWait":5000], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Wait' successfully
+
+2020-04-23 15:42:19 - [TEST_CASE][PASSED] - Test Cases/Components/Wait: Test Cases/Components/Wait
+
+2020-04-23 15:42:19 - [TEST_STEP][PASSED] - Thread.sleep(secondsToWait): null
+
+2020-04-23 15:42:24 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Wait' successfully
+
+2020-04-23 15:42:24 - [TEST_STEP][FAILED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTagTextAndIndex"), ["tagToBeUsed":"a", "linkName":"Process Specialist Builder Application", "index":"3"], STOP_ON_FAILURE): Unable to call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more
+)
+
+2020-04-23 15:42:24 - [TEST_CASE][ERROR] - Test Cases/Components/ClickLinkDependingOnTagTextAndIndex: Test Cases/Components/ClickLinkDependingOnTagTextAndIndex FAILED.
+Reason:
+org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more
+
+
+2020-04-23 15:42:24 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-23 15:42:25 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//" + tagToBeUsed + "[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-04-23 15:42:25 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-23 15:42:26 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-23 15:42:31 - [TEST_STEP][FAILED] - com.reusableComponents.HighlightElement.run(modifiedLink): java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+
+2020-04-23 15:42:54 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2020-04-23 15:42:54 - [MESSAGE][FAILED] - java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+
+2020-04-23 15:42:54 - [MESSAGE][FAILED] - Unable to call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' (Root cause: com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more
+)]]></system-out>
+         <system-err><![CDATA[2020-04-23 15:41:37 - [TEST_CASE][ERROR] - Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001: Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-04-23 15:41:37 - [TEST_SUITE][ERROR] - Process Specialist Builder Application: Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more]]></system-out>
+      <system-err><![CDATA[2020-04-23 15:41:37 - [TEST_SUITE][ERROR] - Process Specialist Builder Application: Test Cases/Jira/BE/Process Specialist Builder Application/BCAISPS-14804.TCID001 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepErrorException: Call Test Case 'Test Cases/Components/ClickLinkDependingOnTagTextAndIndex' failed because of error(s)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:66)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14804.TCID001.run(BCAISPS-14804.TCID001:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587627690836.run(TempTestSuite1587627690836.groovy:36)
+Caused by: org.codehaus.groovy.runtime.InvokerInvocationException: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at com.reusableComponents.HighlightElement.invokeMethod(HighlightElement.groovy)
+	at com.kms.katalon.core.main.CustomKeywordDelegatingMetaClass.invokeStaticMethod(CustomKeywordDelegatingMetaClass.java:50)
+	at ClickLinkDependingOnTagTextAndIndex.run(ClickLinkDependingOnTagTextAndIndex:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	... 20 more
+Caused by: java.lang.AssertionError: Web element with id: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' located by 'By.xpath: (//a[text()="Process Specialist Builder Application"])[3]' not found
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert$fail.call(Unknown Source)
+	at com.reusableComponents.HighlightElement.run(HighlightElement.groovy:27)
+	... 32 more]]></system-err>
+   </testsuite>
+</testsuites>

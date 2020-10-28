@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDueOnDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fa9a100-dc29-46d1-8f34-20a1e864750f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.caseConfigDuration</defaultValue>
+      <description></description>
+      <id>18653082-de95-40e7-a78e-d76510697aec</id>
+      <masked>false</masked>
+      <name>months</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MinLengthErrorIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9aa77a4d-4174-4572-a6ab-a52d794f70b4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03376f4d-8e4e-4ae5-b909-a36c2ceaf488</id>
+      <masked>false</masked>
+      <name>InputName</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>d5af5f2c-6cc5-44ff-9c1a-70a3fd158a10</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

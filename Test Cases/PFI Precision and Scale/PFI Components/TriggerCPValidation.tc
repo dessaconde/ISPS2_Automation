@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TriggerCPValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e7daf6e-31fb-41a0-9b47-9cdf2180b31e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d02e778d-9f9a-4779-9fdc-8788e3b5229e</id>
+      <masked>false</masked>
+      <name>LblNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a46d1843-27c2-4f38-8fae-09f3d1b99cee</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d34e9bf-de46-459c-87d1-4a9f68185c5c</id>
+      <masked>false</masked>
+      <name>EnterAValue</name>
+   </variable>
+</TestCaseEntity>

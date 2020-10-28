@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SetTextOnFieldUsingIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7c580d6-eb99-4d76-b8f8-f36390659b16</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dace0051-cb31-4adf-842a-92f94a7e2229</id>
+      <masked>false</masked>
+      <name>NameToBeModified</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5771381d-5cef-4323-92b6-90fa40785e17</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1476c54c-6373-4f4f-ab9e-1530d47df482</id>
+      <masked>false</masked>
+      <name>EnterText</name>
+   </variable>
+</TestCaseEntity>

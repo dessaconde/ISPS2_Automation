@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLinkDependingOnTagTextAndIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edfe2ac2-0763-4a6f-a839-1287f3246d99</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3729ff0-faf7-4648-b403-236df37abf98</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>962c9896-afba-4ee5-8435-cea453a76ea0</id>
+      <masked>false</masked>
+      <name>linkName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee7897da-5f78-4d97-9173-0e33239ae845</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

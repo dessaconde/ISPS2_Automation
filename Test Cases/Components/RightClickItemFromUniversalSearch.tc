@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RightClickItemFromUniversalSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78cf523b-9570-4f53-a937-1ce51df59ae4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83886244-2908-4b32-8e0f-93b984e41b22</id>
+      <masked>false</masked>
+      <name>modifiedItem</name>
+   </variable>
+</TestCaseEntity>

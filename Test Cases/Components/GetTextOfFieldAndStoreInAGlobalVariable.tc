@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetTextOfFieldAndStoreInAGlobalVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a90b83dc-4080-4164-bc6e-c0ba777da422</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>3ef1aef6-8abe-4ffb-a2bd-60ebe3b5fdd2</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>4fda3f12-c1de-4b93-bb46-e19405d02ba9</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+</TestCaseEntity>

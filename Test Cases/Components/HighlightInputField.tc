@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightInputField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccb63ced-d529-4ae6-939b-072af946aa9c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b3501d8-4d0d-4494-827a-f38afd6afab4</id>
+      <masked>false</masked>
+      <name>InputFldName</name>
+   </variable>
+</TestCaseEntity>

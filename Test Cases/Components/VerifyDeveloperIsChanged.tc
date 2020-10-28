@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDeveloperIsChanged</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cda1c70e-f079-40de-80ce-e3d4a3d0e009</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>dfbbf18a-9d35-401b-ad44-2972562a9c3b</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+</TestCaseEntity>

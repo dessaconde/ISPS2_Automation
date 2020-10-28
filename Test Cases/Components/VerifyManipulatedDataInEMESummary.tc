@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyManipulatedDataInEMESummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>641e96bb-6ec7-4d94-98a2-de98633ae9b5</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.projectTitle</defaultValue>
+      <description></description>
+      <id>49f12f2d-ad11-44eb-8095-e18e91f72f81</id>
+      <masked>false</masked>
+      <name>projectTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.descriptionOfBuildingWorks</defaultValue>
+      <description></description>
+      <id>c94f39f5-697c-4add-910a-92269b3c237c</id>
+      <masked>false</masked>
+      <name>descriptionOfBuildingWorks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.submittedDocuments</defaultValue>
+      <description></description>
+      <id>72951866-00f2-4f79-b17b-e78cc2096e7a</id>
+      <masked>false</masked>
+      <name>submittedDocuments</name>
+   </variable>
+</TestCaseEntity>

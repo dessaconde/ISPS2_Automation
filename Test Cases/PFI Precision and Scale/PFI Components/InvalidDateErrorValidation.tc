@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvalidDateErrorValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23ce0eee-a2e8-42f6-9ca5-c5415a119362</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57bde554-b88b-4209-9e12-f8550536546e</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+</TestCaseEntity>

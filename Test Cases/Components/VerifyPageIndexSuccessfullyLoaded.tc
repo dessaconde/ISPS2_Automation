@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPageIndexSuccessfullyLoaded</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b14dad97-e8bc-4fd3-92cf-82c3ed39d057</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e940ec9b-851a-438f-9dc1-e32db2ed65a2</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>5484ce7c-f4ce-475b-8aff-eb5becc0770a</id>
+      <masked>false</masked>
+      <name>idx</name>
+   </variable>
+</TestCaseEntity>

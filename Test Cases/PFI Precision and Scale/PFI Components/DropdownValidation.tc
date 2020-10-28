@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DropdownValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5024df22-f444-4140-8e31-78487d0dde4f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad161223-ff50-45ce-9370-82fb8800b5d1</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfb257df-97c8-4c82-a5ce-df04eee154cb</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86be6cec-017e-455e-80c5-09c85ded80e3</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+</TestCaseEntity>

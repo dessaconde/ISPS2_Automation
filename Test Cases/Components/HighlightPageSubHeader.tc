@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightPageSubHeader</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f808cd-0903-4f2f-bdff-4b8321c8e8a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca0e9665-e4e1-4fcb-a1ef-07e0be5ae37a</id>
+      <masked>false</masked>
+      <name>PgSubHeader</name>
+   </variable>
+</TestCaseEntity>

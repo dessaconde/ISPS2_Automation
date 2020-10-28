@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLinkDependingOnTextAndIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e20dc38f-2dbf-4e47-a8d5-c4234ff4653e</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>b76cb53f-6fe6-409b-ac3c-c860971800ae</id>
+      <masked>false</masked>
+      <name>linkName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c6316604-0cf4-4385-bc09-3c35f876d9aa</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

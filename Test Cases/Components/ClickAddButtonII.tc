@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickAddButtonII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adaa0cff-198e-4ed3-ad88-2fd3a7e20132</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cb98c639-5cf6-4c3d-b467-2cf4f965ff70</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

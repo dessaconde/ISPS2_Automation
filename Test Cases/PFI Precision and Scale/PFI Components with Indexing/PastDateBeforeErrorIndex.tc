@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PastDateBeforeErrorIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de1c2155-4b0b-48ae-aa79-92f0ef28f2e7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e11170f-2c6e-45b2-b625-fe970fe20328</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>843593b1-7590-4ed3-84b7-8470115b26cd</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyDefaultValueIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4ebe9b4-c7eb-4cb7-881c-3dd1fc94c354</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eea2b013-aec0-4b8f-a702-5e143d53d8cd</id>
+      <masked>false</masked>
+      <name>FieldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9107390b-68a0-4fe0-842e-e29e9d292dbe</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80a63353-bb9e-407c-97c7-07ddce24b94b</id>
+      <masked>false</masked>
+      <name>labelNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>69d78452-1a08-4b37-a147-40756c7c1b1b</id>
+      <masked>false</masked>
+      <name>i</name>
+   </variable>
+</TestCaseEntity>

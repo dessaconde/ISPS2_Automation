@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AlphaNumericSpecialInputValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72c5be53-64eb-41a4-b9cc-61ddc83c4daa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7997b22-c868-4e18-8ba9-9bbef68d5282</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>2eadfa5c-183b-4a82-bdae-2c58067b6d5a</id>
+      <masked>false</masked>
+      <name>LenChar</name>
+   </variable>
+</TestCaseEntity>

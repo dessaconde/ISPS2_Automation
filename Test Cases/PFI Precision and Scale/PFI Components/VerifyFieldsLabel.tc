@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyFieldsLabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1222d41f-663a-42a2-b27e-ab36dbccf591</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7528128-39b3-467f-af36-ccfc088e5c99</id>
+      <masked>false</masked>
+      <name>HeaderLbl</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>9f060e07-f2b3-40cd-9d9d-9c157afca243</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2eb2aac5-5af3-4146-8a9d-41d3b4ebd1f3</id>
+      <masked>false</masked>
+      <name>PFIUtil</name>
+   </variable>
+</TestCaseEntity>

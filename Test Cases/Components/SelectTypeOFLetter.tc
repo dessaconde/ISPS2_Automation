@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectTypeOFLetter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dc07575-3297-471d-b484-a2f6e1b598a4</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>ca006703-45e4-40ec-bfb7-1cc512fff3c1</id>
+      <masked>false</masked>
+      <name>letterToGenerateContains</name>
+   </variable>
+</TestCaseEntity>

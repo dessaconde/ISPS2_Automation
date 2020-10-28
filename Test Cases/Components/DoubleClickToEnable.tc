@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DoubleClickToEnable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4847d490-e678-4f7a-a3be-1279ed94f84c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7ee84c0-8ce6-4806-8697-b920216aec8b</id>
+      <masked>false</masked>
+      <name>HeaderCellName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>ff18e527-1e0a-4800-96da-c76fdf3753bb</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

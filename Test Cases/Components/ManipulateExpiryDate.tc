@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateExpiryDate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd7feef5-091f-489c-87a4-e59d718fdc32</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>bfc8eda1-fb6c-4dc0-9449-f717c17bbf25</id>
+      <masked>false</masked>
+      <name>inOnOption</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>aef98168-1507-4dbe-97d9-7dfcc986b624</id>
+      <masked>false</masked>
+      <name>noOfDays</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>497980b0-4a77-457b-bb42-fe65fd738463</id>
+      <masked>false</masked>
+      <name>periodType</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>103b3f9c-64eb-4568-9937-a2c9b31a7041</id>
+      <masked>false</masked>
+      <name>expiryDate</name>
+   </variable>
+</TestCaseEntity>

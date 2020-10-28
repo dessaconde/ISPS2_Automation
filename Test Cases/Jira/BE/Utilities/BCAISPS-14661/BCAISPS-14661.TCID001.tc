@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Objective: Verify that the Correct dates are displaying in Registration and Suspension Dates upon adding and updating.</description>
+   <name>BCAISPS-14661.TCID001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32c83099-28f6-4559-932b-e6764b0451bd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateQualifiedPerson</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b52da95b-2741-4bcb-a696-3db4264f2185</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>52458df1-49f1-4aed-9089-bbcfbea08475</id>
+      <masked>false</masked>
+      <name>QPTypeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>8172286f-af02-4087-b52b-3f7f4dfb527f</id>
+      <masked>false</masked>
+      <name>Salutation</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>4c152229-40aa-49a3-8a85-516eece9dd6f</id>
+      <masked>false</masked>
+      <name>FirmName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c9183df8-bb3d-4e30-b6aa-7a4e07b58592</id>
+      <masked>false</masked>
+      <name>UEN</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7803de41-e02f-4686-a3e2-6a9b0c41de78</id>
+      <masked>false</masked>
+      <name>QPName</name>
+   </variable>
+</TestCaseEntity>

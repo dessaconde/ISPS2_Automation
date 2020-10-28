@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectOptionFromRadioButtons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1431c47-4bb7-4fc4-aa80-5f58684b3a35</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>0a14d943-acfe-4510-87bf-2f7ba325656d</id>
+      <masked>false</masked>
+      <name>radioButtonLabel</name>
+   </variable>
+</TestCaseEntity>

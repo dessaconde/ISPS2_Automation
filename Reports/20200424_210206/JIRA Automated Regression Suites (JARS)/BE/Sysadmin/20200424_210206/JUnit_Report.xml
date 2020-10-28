@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Sysadmin" time="119.959" tests="1" failures="0" errors="0">
+   <testsuite name="Sysadmin" tests="1" failures="0" errors="0" time="119.959" timestamp="2020-04-24 21:02:18" hostname="19023-RAC - 192.168.16.39" id="Test Suites/JIRA Automated Regression Suites (JARS)/BE/Sysadmin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\19023-RAC\\Desktop\\ISPS2 Automation\\Reports\\20200424_210206\\JIRA Automated Regression Suites (JARS)\\BE\\Sysadmin\\20200424_210206"/>
+         <property name="logFiles" value="C:\\Users\\19023-RAC\\Desktop\\ISPS2 Automation\\Reports\\20200424_210206\\JIRA Automated Regression Suites (JARS)\\BE\\Sysadmin\\20200424_210206\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="19023-RAC - 192.168.16.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 81.0.4044.122"/>
+         <property name="hostAddress" value="192.168.16.39"/>
+         <property name="sessionId" value="78ce35ec872c618028968b328b60a68e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Jira/BE/Sysadmin/BCAISPS-14700/BCAISPS-14700.TCID001" time="119.723" classname="Test Cases/Jira/BE/Sysadmin/BCAISPS-14700/BCAISPS-14700.TCID001" status="PASSED">
+         <system-out><![CDATA[2020-04-24 21:02:19 - [TEST_CASE][PASSED] - Test Cases/Jira/BE/Sysadmin/BCAISPS-14700/BCAISPS-14700.TCID001: Test Cases/Jira/BE/Sysadmin/BCAISPS-14700/BCAISPS-14700.TCID001
+
+2020-04-24 21:02:19 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":"http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do", "LoginPageTextToBeVerified":"Sign in to ISPS2-PROD-Verify", ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-04-24 21:02:19 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-04-24 21:02:20 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-04-24 21:02:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-04-24 21:02:20 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-04-24 21:02:32 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-04-24 21:02:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-04-24 21:02:34 - [MESSAGE][PASSED] - Current window maximized
+
+2020-04-24 21:02:34 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-24 21:02:34 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-24 21:02:34 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-04-24 21:02:34 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-04-24 21:02:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-04-24 21:02:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-04-24 21:02:35 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-04-24 21:02:35 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-04-24 21:02:35 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-04-24 21:02:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-04-24 21:02:35 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-04-24 21:02:35 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-24 21:02:35 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:02:38 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-04-24 21:02:38 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-04-24 21:02:38 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToHomepageHeaders: Test Cases/Components/NavigateToHomepageHeaders
+
+2020-04-24 21:02:38 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:02:39 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-04-24 21:02:40 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-24 21:02:40 - [TEST_STEP][PASSED] - modifiedHeader = modifyObjectProperty(findTestObject("Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header"), "text", "equals", headerText, true): Modify property of object successfully
+
+2020-04-24 21:02:40 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:02:40 - [TEST_STEP][PASSED] - verifyElementClickable(modifiedHeader): Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-04-24 21:02:42 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-04-24 21:02:42 - [TEST_STEP][PASSED] - click(modifiedHeader): Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-04-24 21:02:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-04-24 21:02:43 - [TEST_STEP][PASSED] - Thread.sleep(7000): null
+
+2020-04-24 21:02:50 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-04-24 21:02:50 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/OpenHomepageMenu"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/OpenHomepageMenu' successfully
+
+2020-04-24 21:02:50 - [TEST_CASE][PASSED] - Test Cases/Components/OpenHomepageMenu: Test Cases/Components/OpenHomepageMenu
+
+2020-04-24 21:02:50 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:02:51 - [TEST_STEP][PASSED] - verifyTextPresent("Loading search result. Please wait...", false, OPTIONAL): Text 'Loading search result. Please wait...' is not present on page  (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Loading search result. Please wait...' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at OpenHomepageMenu.run(OpenHomepageMenu:18)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:02:52 - [MESSAGE][WARNING] - Text 'Loading search result. Please wait...' is not present on page  (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Loading search result. Please wait...' is not present on page 
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at OpenHomepageMenu.run(OpenHomepageMenu:18)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:02:52 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.OpenHomepageMenu/XP_LoadingPopUp"), 120, OPTIONAL): Web element with id: 'Object Repository/Objects.OpenHomepageMenu/XP_LoadingPopUp' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '120' second(s)
+
+2020-04-24 21:02:52 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.OpenHomepageMenu/XP_LoadingPopUp' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '120' second(s)
+
+2020-04-24 21:02:52 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Objects.OpenHomepageMenu/div_ISPS2-PROD-Verify_component-1013")): Object 'Object Repository/Objects.OpenHomepageMenu/div_ISPS2-PROD-Verify_component-1013' is visible
+
+2020-04-24 21:02:53 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.OpenHomepageMenu/div_ISPS2-PROD-Verify_component-1013' is visible
+
+2020-04-24 21:02:53 - [TEST_STEP][PASSED] - click(findTestObject("Objects.OpenHomepageMenu/div_ISPS2-PROD-Verify_component-1013")): Object: 'Object Repository/Objects.OpenHomepageMenu/div_ISPS2-PROD-Verify_component-1013' is clicked on
+
+2020-04-24 21:02:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.OpenHomepageMenu/div_ISPS2-PROD-Verify_component-1013' is clicked on
+
+2020-04-24 21:02:53 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/OpenHomepageMenu' successfully
+
+2020-04-24 21:02:53 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HoverToAnyMenuSelection"), ["MenuSelection":"Sys Admin"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HoverToAnyMenuSelection' successfully
+
+2020-04-24 21:02:53 - [TEST_CASE][PASSED] - Test Cases/Components/HoverToAnyMenuSelection: Test Cases/Components/HoverToAnyMenuSelection
+
+2020-04-24 21:02:53 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:02:54 - [TEST_STEP][PASSED] - modifiedSelection = modifyObjectProperty(findTestObject("Objects.HoverToAnyMenuSelection/span_Common"), "text", "equals", MenuSelection, true): Modify property of object successfully
+
+2020-04-24 21:02:54 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:02:54 - [TEST_STEP][PASSED] - mouseOver(modifiedSelection): Object: 'Object Repository/Objects.HoverToAnyMenuSelection/span_Common' is hovered
+
+2020-04-24 21:02:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HoverToAnyMenuSelection/span_Common' is hovered
+
+2020-04-24 21:02:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HoverToAnyMenuSelection' successfully
+
+2020-04-24 21:02:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/SelectFromMenu"), ["menuToBeClicked":"Data Patch For BP/ST"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/SelectFromMenu' successfully
+
+2020-04-24 21:02:55 - [TEST_CASE][PASSED] - Test Cases/Components/SelectFromMenu: Test Cases/Components/SelectFromMenu
+
+2020-04-24 21:02:55 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:02:56 - [TEST_STEP][PASSED] - modifiedMenuToBeClicked = modifyObjectProperty(findTestObject("Objects.SelectFromMenu/span_Maintain QP"), "text", "equals", menuToBeClicked, true): Modify property of object successfully
+
+2020-04-24 21:02:56 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:02:56 - [TEST_STEP][PASSED] - mouseOver(modifiedMenuToBeClicked, STOP_ON_FAILURE): Object: 'Object Repository/Objects.SelectFromMenu/span_Maintain QP' is hovered
+
+2020-04-24 21:02:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.SelectFromMenu/span_Maintain QP' is hovered
+
+2020-04-24 21:02:56 - [TEST_STEP][PASSED] - click(modifiedMenuToBeClicked, STOP_ON_FAILURE): Object: 'Object Repository/Objects.SelectFromMenu/span_Maintain QP' is clicked on
+
+2020-04-24 21:02:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.SelectFromMenu/span_Maintain QP' is clicked on
+
+2020-04-24 21:02:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/SelectFromMenu' successfully
+
+2020-04-24 21:02:58 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/PopulateInputTypeField"), ["objectName":"planRefNo", "textToBeInputted":planRefNo], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/PopulateInputTypeField' successfully
+
+2020-04-24 21:02:59 - [TEST_CASE][PASSED] - Test Cases/Components/PopulateInputTypeField: Test Cases/Components/PopulateInputTypeField
+
+2020-04-24 21:02:59 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:00 - [TEST_STEP][PASSED] - modifiedObj = modifyObjectProperty(findTestObject("Objects.PopulateInputTypeField/inputField"), "name", "equals", objectName, true): Modify property of object successfully
+
+2020-04-24 21:03:00 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:00 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedObj): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:03 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:03 - [TEST_STEP][PASSED] - click(modifiedObj): Object: 'Object Repository/Objects.PopulateInputTypeField/inputField' is clicked on
+
+2020-04-24 21:03:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.PopulateInputTypeField/inputField' is clicked on
+
+2020-04-24 21:03:04 - [TEST_STEP][PASSED] - setText(modifiedObj, textToBeInputted): Text '40988-1978' is set on object 'Object Repository/Objects.PopulateInputTypeField/inputField'
+
+2020-04-24 21:03:04 - [MESSAGE][PASSED] - Text '40988-1978' is set on object 'Object Repository/Objects.PopulateInputTypeField/inputField'
+
+2020-04-24 21:03:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/PopulateInputTypeField' successfully
+
+2020-04-24 21:03:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/PopulateInputTypeField"), ["objectName":"planType", "textToBeInputted":"MVAM"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/PopulateInputTypeField' successfully
+
+2020-04-24 21:03:04 - [TEST_CASE][PASSED] - Test Cases/Components/PopulateInputTypeField: Test Cases/Components/PopulateInputTypeField
+
+2020-04-24 21:03:04 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:05 - [TEST_STEP][PASSED] - modifiedObj = modifyObjectProperty(findTestObject("Objects.PopulateInputTypeField/inputField"), "name", "equals", objectName, true): Modify property of object successfully
+
+2020-04-24 21:03:05 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:05 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedObj): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:06 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:06 - [TEST_STEP][PASSED] - click(modifiedObj): Object: 'Object Repository/Objects.PopulateInputTypeField/inputField' is clicked on
+
+2020-04-24 21:03:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.PopulateInputTypeField/inputField' is clicked on
+
+2020-04-24 21:03:06 - [TEST_STEP][PASSED] - setText(modifiedObj, textToBeInputted): Text 'MVAM' is set on object 'Object Repository/Objects.PopulateInputTypeField/inputField'
+
+2020-04-24 21:03:07 - [MESSAGE][PASSED] - Text 'MVAM' is set on object 'Object Repository/Objects.PopulateInputTypeField/inputField'
+
+2020-04-24 21:03:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/PopulateInputTypeField' successfully
+
+2020-04-24 21:03:07 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/PopulateInputTypeField"), ["objectName":"planNo", "textToBeInputted":"002"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/PopulateInputTypeField' successfully
+
+2020-04-24 21:03:07 - [TEST_CASE][PASSED] - Test Cases/Components/PopulateInputTypeField: Test Cases/Components/PopulateInputTypeField
+
+2020-04-24 21:03:07 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:08 - [TEST_STEP][PASSED] - modifiedObj = modifyObjectProperty(findTestObject("Objects.PopulateInputTypeField/inputField"), "name", "equals", objectName, true): Modify property of object successfully
+
+2020-04-24 21:03:08 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:08 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedObj): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:09 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:09 - [TEST_STEP][PASSED] - click(modifiedObj): Object: 'Object Repository/Objects.PopulateInputTypeField/inputField' is clicked on
+
+2020-04-24 21:03:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.PopulateInputTypeField/inputField' is clicked on
+
+2020-04-24 21:03:11 - [TEST_STEP][PASSED] - setText(modifiedObj, textToBeInputted): Text '002' is set on object 'Object Repository/Objects.PopulateInputTypeField/inputField'
+
+2020-04-24 21:03:12 - [MESSAGE][PASSED] - Text '002' is set on object 'Object Repository/Objects.PopulateInputTypeField/inputField'
+
+2020-04-24 21:03:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/PopulateInputTypeField' successfully
+
+2020-04-24 21:03:12 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickBlueButtonsWithXPI"), ["Button":"Search", "Index":3], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickBlueButtonsWithXPI' successfully
+
+2020-04-24 21:03:12 - [TEST_CASE][PASSED] - Test Cases/Components/ClickBlueButtonsWithXPI: Test Cases/Components/ClickBlueButtonsWithXPI
+
+2020-04-24 21:03:12 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:13 - [TEST_STEP][PASSED] - complexlyModifiedButtonGG = modifyObjectProperty(findTestObject("Objects.ClickBlueButtonsWithXPI/span_Reset"), "xPath", "equals", "(//span[text()="" + Button + ""])[" + Index + "]", true): Modify property of object successfully
+
+2020-04-24 21:03:14 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:14 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:03:19 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:03:24 - [TEST_STEP][PASSED] - click(complexlyModifiedButtonGG): Object: 'Object Repository/Objects.ClickBlueButtonsWithXPI/span_Reset' is clicked on
+
+2020-04-24 21:03:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickBlueButtonsWithXPI/span_Reset' is clicked on
+
+2020-04-24 21:03:24 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:03:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickBlueButtonsWithXPI' successfully
+
+2020-04-24 21:03:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyErrorMessageIsDisplayed"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyErrorMessageIsDisplayed' successfully
+
+2020-04-24 21:03:29 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyErrorMessageIsDisplayed: Test Cases/Components/VerifyErrorMessageIsDisplayed
+
+2020-04-24 21:03:29 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:30 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject(errorMess)): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject(errorMess))
+
+2020-04-24 21:03:30 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject(errorMess))
+
+2020-04-24 21:03:30 - [TEST_STEP][PASSED] - assert verifyTextPresent("Road name is mandatory.", true, OPTIONAL) || verifyTextPresent("Please Fill Mandatory Fields!", true, OPTIONAL) || verifyTextPresent("Please fill up the mandatory fields.", true, OPTIONAL) || verifyTextPresent("Please fill up mandatory fields.", true, OPTIONAL) || verifyTextPresent("Please select at least one project member from the recipient list.", true, OPTIONAL) || verifyTextPresent("Plan Reference Not Found", true, OPTIONAL) || verifyTextPresent("Please generate a document before dispatching.", true, OPTIONAL): Text 'Plan Reference Not Found' is present on page  using regular expression
+
+2020-04-24 21:03:31 - [MESSAGE][WARNING] - Text 'Road name is mandatory.' is not present on page  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Road name is mandatory.' is not present on page  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at VerifyErrorMessageIsDisplayed.run(VerifyErrorMessageIsDisplayed:31)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:52)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:03:31 - [MESSAGE][WARNING] - Text 'Please Fill Mandatory Fields!' is not present on page  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Please Fill Mandatory Fields!' is not present on page  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at VerifyErrorMessageIsDisplayed.run(VerifyErrorMessageIsDisplayed:31)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:52)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:03:32 - [MESSAGE][WARNING] - Text 'Please fill up the mandatory fields.' is not present on page  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Please fill up the mandatory fields.' is not present on page  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at VerifyErrorMessageIsDisplayed.run(VerifyErrorMessageIsDisplayed:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:52)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:03:32 - [MESSAGE][WARNING] - Text 'Please fill up mandatory fields.' is not present on page  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Please fill up mandatory fields.' is not present on page  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at VerifyErrorMessageIsDisplayed.run(VerifyErrorMessageIsDisplayed:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:52)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:03:32 - [MESSAGE][WARNING] - Text 'Please select at least one project member from the recipient list.' is not present on page  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Text 'Please select at least one project member from the recipient list.' is not present on page  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.doCall(VerifyTextPresentKeyword.groovy:79)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword$_verifyTextPresent_closure1.call(VerifyTextPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.verifyTextPresent(VerifyTextPresentKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyTextPresentKeyword.execute(VerifyTextPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyTextPresent(WebUiBuiltInKeywords.groovy:1677)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyTextPresent$9.call(Unknown Source)
+	at VerifyErrorMessageIsDisplayed.run(VerifyErrorMessageIsDisplayed:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestCaseMain.runTestCase(TestCaseMain.java:114)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.doCall(CallTestCaseKeyword.groovy:59)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword$_callTestCase_closure1.call(CallTestCaseKeyword.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.runKeyword(KeywordMain.groovy:68)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.callTestCase(CallTestCaseKeyword.groovy:81)
+	at com.kms.katalon.core.keyword.builtin.CallTestCaseKeyword.execute(CallTestCaseKeyword.groovy:44)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)
+	at com.kms.katalon.core.keyword.BuiltinKeywords.callTestCase(BuiltinKeywords.groovy:334)
+	at BCAISPS-14700.TCID001.run(BCAISPS-14700.TCID001:52)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1587733330885.run(TempTestSuite1587733330885.groovy:36)
+)
+
+2020-04-24 21:03:33 - [MESSAGE][PASSED] - Text 'Plan Reference Not Found' is present on page  using regular expression
+
+2020-04-24 21:03:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyErrorMessageIsDisplayed' successfully
+
+2020-04-24 21:03:33 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickBlueButtonsWithXPI"), ["Button":"Add Record", "Index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickBlueButtonsWithXPI' successfully
+
+2020-04-24 21:03:33 - [TEST_CASE][PASSED] - Test Cases/Components/ClickBlueButtonsWithXPI: Test Cases/Components/ClickBlueButtonsWithXPI
+
+2020-04-24 21:03:33 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:34 - [TEST_STEP][PASSED] - complexlyModifiedButtonGG = modifyObjectProperty(findTestObject("Objects.ClickBlueButtonsWithXPI/span_Reset"), "xPath", "equals", "(//span[text()="" + Button + ""])[" + Index + "]", true): Modify property of object successfully
+
+2020-04-24 21:03:34 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:34 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:03:39 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:03:44 - [TEST_STEP][PASSED] - click(complexlyModifiedButtonGG): Object: 'Object Repository/Objects.ClickBlueButtonsWithXPI/span_Reset' is clicked on
+
+2020-04-24 21:03:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickBlueButtonsWithXPI/span_Reset' is clicked on
+
+2020-04-24 21:03:44 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-04-24 21:03:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickBlueButtonsWithXPI' successfully
+
+2020-04-24 21:03:49 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyTextPresentInPage"), ["tagToModify":"div", "textToModify":"Project Information"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyTextPresentInPage' successfully
+
+2020-04-24 21:03:50 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyTextPresentInPage: Test Cases/Components/VerifyTextPresentInPage
+
+2020-04-24 21:03:50 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:03:53 - [TEST_STEP][NOT_RUN] - verifyTextPresent(textToLocate, false): NOT_RUN: verifyTextPresent(textToLocate, false)
+
+2020-04-24 21:03:53 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent(textToLocate, false)
+
+2020-04-24 21:03:53 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(textToLocate): NOT_RUN: com.reusableComponents.HighlightElement.run(textToLocate)
+
+2020-04-24 21:03:53 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(textToLocate)
+
+2020-04-24 21:03:53 - [TEST_STEP][PASSED] - modifiedTag = modifyObjectProperty(findTestObject("Objects.VerifyTextPresent/Page_ISPS2/objectToModify"), "tag", "equals", tagToModify, true): Modify property of object successfully
+
+2020-04-24 21:03:53 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:53 - [TEST_STEP][PASSED] - modified = modifyObjectProperty(modifiedTag, "text", "equals", textToModify, true): Modify property of object successfully
+
+2020-04-24 21:03:53 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:53 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modified): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:54 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:54 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:03:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyTextPresentInPage' successfully
+
+2020-04-24 21:03:57 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/GetTextOfFieldAndStoreInAGlobalVariable"), ["tagToBeUsed":"input", "nameToBeUsed":"projectRefNo"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable' successfully
+
+2020-04-24 21:03:57 - [TEST_CASE][PASSED] - Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable: Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable
+
+2020-04-24 21:03:57 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-04-24 21:03:58 - [TEST_STEP][PASSED] - modifiedTagOfField = modifyObjectProperty(findTestObject("Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified"), "tag", "equals", tagToBeUsed, false): Modify property of object successfully
+
+2020-04-24 21:03:58 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:58 - [TEST_STEP][PASSED] - modifiedNameOfField = modifyObjectProperty(modifiedTagOfField, "name", "equals", nameToBeUsed, true): Modify property of object successfully
+
+2020-04-24 21:03:58 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-04-24 21:03:58 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedNameOfField): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:59 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-04-24 21:03:59 - [TEST_STEP][PASSED] - click(modifiedNameOfField): Object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified' is clicked on
+
+2020-04-24 21:03:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified' is clicked on
+
+2020-04-24 21:03:59 - [TEST_STEP][PASSED] - sendKeys(modifiedNameOfField, Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:04:00 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:04:00 - [TEST_STEP][PASSED] - sendKeys(modifiedNameOfField, Keys.chord(LEFT_CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:04:00 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Objects.GetTextOfFieldAndStoreInAGlobalVariable/objectToBeModified'
+
+2020-04-24 21:04:00 - [TEST_STEP][PASSED] - clipboardValue = getContents(null).getTransferData(stringFlavor): null
+
+2020-04-24 21:04:01 - [TEST_STEP][PASSED] - inputFieldText = clipboardValue: null
+
+2020-04-24 21:04:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/GetTextOfFieldAndStoreInAGlobalVariable' successfully
+
+2020-04-24 21:04:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyTextMatch"), ["actualText1":planRefNo, "expectedText1":inputFieldText], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyTextMatch' successfully
+
+2020-04-24 21:04:02 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyTextMatch: Test Cases/Components/VerifyTextMatch
+
+2020-04-24 21:04:02 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:04:05 - [TEST_STEP][PASSED] - verifyMatch(actualText1, expectedText1, false): Actual text '40988-1978' and expected text '40988-1978' are matched 
+
+2020-04-24 21:04:05 - [MESSAGE][PASSED] - Actual text '40988-1978' and expected text '40988-1978' are matched 
+
+2020-04-24 21:04:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyTextMatch' successfully
+
+2020-04-24 21:04:05 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Logout"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Logout' successfully
+
+2020-04-24 21:04:05 - [TEST_CASE][PASSED] - Test Cases/Components/Logout: Test Cases/Components/Logout
+
+2020-04-24 21:04:06 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:04:09 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-04-24 21:04:09 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-04-24 21:04:09 - [TEST_STEP][NOT_RUN] - click(findTestObject("Objects.Logout/accountDropdown")): NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-04-24 21:04:09 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Objects.Logout/accountDropdown"))
+
+2020-04-24 21:04:09 - [TEST_STEP][NOT_RUN] - com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0): NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-04-24 21:04:09 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.clickUsingJS.clickUsingJS(findTestObject("Objects.Logout/accountDropdown"), 0)
+
+2020-04-24 21:04:09 - [TEST_STEP][PASSED] - element = findWebElement(findTestObject("Objects.Logout/accountDropdown"), 30): null
+
+2020-04-24 21:04:09 - [TEST_STEP][PASSED] - executeJavaScript("arguments[0].click()", Arrays.asList(element)): Execute JavaScript 'arguments[0].click()' successfully
+
+2020-04-24 21:04:09 - [MESSAGE][PASSED] - Execute JavaScript 'arguments[0].click()' successfully
+
+2020-04-24 21:04:09 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-04-24 21:04:09 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/span_Logout"))
+
+2020-04-24 21:04:09 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Logout/span_Logout"), STOP_ON_FAILURE): Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-04-24 21:04:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Logout/span_Logout' is clicked on
+
+2020-04-24 21:04:14 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-04-24 21:04:14 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-04-24 21:04:14 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-04-24 21:04:17 - [TEST_STEP][PASSED] - verifyTextPresent("Sign in to ISPS2-PROD-Verify", false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-24 21:04:18 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-04-24 21:04:18 - [TEST_STEP][NOT_RUN] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify")): NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-04-24 21:04:18 - [MESSAGE][NOT_RUN] - NOT_RUN: com.reusableComponents.HighlightElement.run(findTestObject("Objects.Logout/div_Sign in to ISPS2-PROD-Verify"))
+
+2020-04-24 21:04:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-04-24 21:04:18 - [MESSAGE][PASSED] - Browser is closed
+
+2020-04-24 21:04:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Logout' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-04-24 21:02:18 - [TEST_SUITE][PASSED] - Sysadmin: Test Cases/Jira/BE/Sysadmin/BCAISPS-14700/BCAISPS-14700.TCID001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

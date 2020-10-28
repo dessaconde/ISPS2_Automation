@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateCloseCaseForEME</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc81dfb6-2036-42ba-99f6-720597e17794</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>b76a9a0a-a103-4616-9560-66cc3e0704ae</id>
+      <masked>false</masked>
+      <name>actionForCloseCase</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>33ea5319-0551-48b1-a35c-de9600437550</id>
+      <masked>false</masked>
+      <name>remarksForCloseCase</name>
+   </variable>
+</TestCaseEntity>

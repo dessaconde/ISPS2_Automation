@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectItemFromFilteredTasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a5e6e59-79b7-4bc5-b3c5-c05ea17c53f6</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>74e5cbc0-4111-463c-af3b-61f657412fb5</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>36b6b87c-78bc-40e5-8c4e-a038b362c95b</id>
+      <masked>false</masked>
+      <name>extractedCaseTypeFromGV</name>
+   </variable>
+</TestCaseEntity>

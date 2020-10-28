@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateIssueWD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>936e3db5-fc1e-4a01-bb96-c5f72b2824e3</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>796a3ef6-5f46-4706-bc3d-81e49793cdcd</id>
+      <masked>false</masked>
+      <name>ESSExpiryDate</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c0c9da9f-11b7-4c55-9a60-30b5f96467a8</id>
+      <masked>false</masked>
+      <name>ESSComment</name>
+   </variable>
+</TestCaseEntity>

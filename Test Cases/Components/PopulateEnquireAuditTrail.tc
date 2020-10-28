@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateEnquireAuditTrail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8118103-29b8-4b67-9a53-8effea495e55</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd4af85e-54e5-425f-961c-c96db2f6f00b</id>
+      <masked>false</masked>
+      <name>formattedDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1d6cf2d-c325-46ff-8568-9814a4e20978</id>
+      <masked>false</masked>
+      <name>module</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d3018a4-75c2-4dd9-94ff-905537eb55af</id>
+      <masked>false</masked>
+      <name>functionid</name>
+   </variable>
+</TestCaseEntity>

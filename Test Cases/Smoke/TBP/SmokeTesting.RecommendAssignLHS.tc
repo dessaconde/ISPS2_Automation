@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SmokeTesting.RecommendAssignLHS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bc4f887-e674-4d39-b594-d2da751ae011</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a65fa09c-66d2-42f7-b056-453bc2cb8b28</id>
+      <masked>false</masked>
+      <name>recoToStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>189da8ea-35a9-4243-aefe-84034910ea89</id>
+      <masked>false</masked>
+      <name>recoToOfficer</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>0e5a8504-743b-4b58-aa9b-e52c8de08ac5</id>
+      <masked>false</masked>
+      <name>recoRemarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>9849bbaf-0126-4181-b7ce-754b7d571615</id>
+      <masked>false</masked>
+      <name>recoToModule</name>
+   </variable>
+</TestCaseEntity>

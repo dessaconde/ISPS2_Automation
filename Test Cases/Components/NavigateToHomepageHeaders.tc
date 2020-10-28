@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NavigateToHomepageHeaders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2f7bc54-31f0-4b8a-ba63-11eb9aba4ad9</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>60bbbfa1-7192-4da1-9d73-78ceaee937eb</id>
+      <masked>false</masked>
+      <name>headerText</name>
+   </variable>
+</TestCaseEntity>

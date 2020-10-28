@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectAllThenSetText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7b8e33b-bd2c-45b5-9a7b-5c023f2a12ed</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e5a7b56-6b56-4af9-bdef-3aa668ddc73d</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ebc57ee-e558-434f-b563-206f9f63cca0</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c99b2fce-a0e7-49d9-8902-3e9a6be3477d</id>
+      <masked>false</masked>
+      <name>textToBeInputted</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PastDateAfterError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a321f962-1c29-4961-873e-353b27cd75e1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>235f2284-efce-4959-a3ad-d816f1c672a2</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+</TestCaseEntity>

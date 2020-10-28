@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyNameValues</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40ff831a-2a51-4f6f-8548-688db84f7ad3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffba1ca0-ff39-4656-8bb4-ee14931c56ad</id>
+      <masked>false</masked>
+      <name>tagToModify</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2894b7f2-2490-4058-beb4-d19562722b44</id>
+      <masked>false</masked>
+      <name>textToModify</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b33cdb75-e13e-406e-b0e4-f40d1c00da6e</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bc84145-41b8-4e1e-96bc-46a234506074</id>
+      <masked>false</masked>
+      <name>CallTCName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateRemarksAndTickNoActionRequired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abbb13e4-b9a9-4d80-b2c5-3dd39b3f418b</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a3004ff6-9ef6-4eeb-bef6-0c8b93e967a9</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+</TestCaseEntity>

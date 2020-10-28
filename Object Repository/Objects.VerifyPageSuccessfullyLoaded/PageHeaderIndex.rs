@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PageHeaderIndex</name>
+   <tag></tag>
+   <elementGuidId>eef82ea6-fdc9-49ff-ba6a-33dd18b5aac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[contains(@class,'isps-page-title-1')])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(@class,'isps-page-title-1')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(@class,'isps-page-title-1')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

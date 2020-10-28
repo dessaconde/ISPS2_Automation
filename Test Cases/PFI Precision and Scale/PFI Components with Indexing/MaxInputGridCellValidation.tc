@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaxInputGridCellValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcd48e7b-3c50-443d-ac84-5584846ed2d7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e79b82c-91fd-41b7-a318-243350ea4a9e</id>
+      <masked>false</masked>
+      <name>FieldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8ee00af-9c69-4a4e-92b9-943cb222681b</id>
+      <masked>false</masked>
+      <name>MaxCharLen</name>
+   </variable>
+</TestCaseEntity>

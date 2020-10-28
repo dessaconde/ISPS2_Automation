@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectDayInDatePickerWithIndexII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae579f88-6ac7-4a07-8993-47abc49704f1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>181eb5bb-c2fe-4a46-a3cb-908aca24c0a2</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d92763b9-3a1e-4500-97d8-6a578619889e</id>
+      <masked>false</masked>
+      <name>SelectCurrentDay</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e8fa0a96-c1d4-4e0f-a428-fae2a1d852a6</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>deb8c388-dfbe-4eec-83df-924509c4a44a</id>
+      <masked>false</masked>
+      <name>idx</name>
+   </variable>
+</TestCaseEntity>

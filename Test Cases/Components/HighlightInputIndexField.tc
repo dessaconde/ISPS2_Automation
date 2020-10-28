@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightInputIndexField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02b34c62-4b55-4483-8de9-6eea4d83cb8d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20ad8cc0-c93a-48ad-ba29-5b55d06b7dc2</id>
+      <masked>false</masked>
+      <name>InputName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e5759da3-1be7-454b-9335-f1d6d590f748</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

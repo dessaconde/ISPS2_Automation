@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PELists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>337b91af-b103-4376-8aa7-f348ffc149a9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f37fc61-ef75-45fb-8fe1-756f09baa123</id>
+      <masked>false</masked>
+      <name>DropdownNm</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectItemFromAuditTrailTable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c31881ad-9b88-4085-b374-fcaf8ec83809</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a03ca58a-cb5f-4d10-80e2-2e3e9dff52b8</id>
+      <masked>false</masked>
+      <name>LinkToModify</name>
+   </variable>
+</TestCaseEntity>

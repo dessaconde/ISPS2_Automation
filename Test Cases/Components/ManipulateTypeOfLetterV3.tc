@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateTypeOfLetterV3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81f41c46-f6c0-46d2-86eb-4d1620e84072</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>4881f79f-5a18-4766-bdbd-55abab7e76cd</id>
+      <masked>false</masked>
+      <name>generatedletterContains</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>487c06f9-d5fa-481d-843c-1849d0ac4ec9</id>
+      <masked>false</masked>
+      <name>letterToGenerateContains</name>
+   </variable>
+</TestCaseEntity>

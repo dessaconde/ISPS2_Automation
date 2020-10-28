@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyContractorInSummaryPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9b534c9-ab19-47a3-a14d-b6f2caae3895</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d1672217-e1cb-4276-81a5-138579b87ec6</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>015fe234-5308-4311-8ff7-ec674cd13da4</id>
+      <masked>false</masked>
+      <name>firmName</name>
+   </variable>
+</TestCaseEntity>

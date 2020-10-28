@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequiredFieldValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ee8c08e-7a10-4dbe-accc-afd9c8ce2a7d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef711e08-daaf-46d2-8fe2-a701ac992c4a</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+</TestCaseEntity>

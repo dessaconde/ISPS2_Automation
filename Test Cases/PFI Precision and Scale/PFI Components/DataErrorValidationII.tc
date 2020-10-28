@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataErrorValidationII</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf8f5817-fb06-4991-974c-6cd698f7299d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>350483e0-cfa7-4278-9407-7a7c0a549a60</id>
+      <masked>false</masked>
+      <name>textToBeVerified</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Decision" time="2.231" tests="4" failures="0" errors="4">
+   <testsuite name="Decision" tests="4" failures="0" errors="4" time="2.231" timestamp="2020-06-03 10:02:43" hostname="20008-KMLM - 192.168.16.44" id="Test Suites/PFI Precision and Scale Automated Regression Suite/PFIA/Decision">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\20008-KMLM\\Desktop\\ISPS Automation\\Reports\\20200603_100225\\PFI Precision and Scale Automated Regression Suite\\PFIA\\Decision\\20200603_100225"/>
+         <property name="logFiles" value="C:\\Users\\20008-KMLM\\Desktop\\ISPS Automation\\Reports\\20200603_100225\\PFI Precision and Scale Automated Regression Suite\\PFIA\\Decision\\20200603_100225\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="20008-KMLM - 192.168.16.44"/>
+         <property name="hostAddress" value="192.168.16.44"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+      </properties>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS" time="0.195" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS" status="ERROR">
+         <error type="ERROR" message="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2020-06-03 10:02:44 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2020-06-03 10:02:44 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS" time="0.085" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS" status="ERROR">
+         <error type="ERROR" message="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2020-06-03 10:02:44 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2020-06-03 10:02:44 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.ReminderLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS" time="0.01" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS" status="ERROR">
+         <error type="ERROR" message="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2020-06-03 10:02:45 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2020-06-03 10:02:45 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.IssueStatusLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS" time="0.01" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS" status="ERROR">
+         <error type="ERROR" message="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2020-06-03 10:02:45 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2020-06-03 10:02:45 - [TEST_CASE][ERROR] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.CloseCaseLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-06-03 10:02:43 - [TEST_SUITE][ERROR] - Decision: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+      <system-err><![CDATA[2020-06-03 10:02:43 - [TEST_SUITE][ERROR] - Decision: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFIA)/PFIA.RecommendLHS has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+   </testsuite>
+</testsuites>

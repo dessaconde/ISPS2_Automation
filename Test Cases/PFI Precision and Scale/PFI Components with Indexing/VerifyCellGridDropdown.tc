@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCellGridDropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f940c1c7-6ecf-4e4d-ba0b-4f4b6594b76c</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a4e6fa65-256e-478b-9b55-f8682e9df347</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

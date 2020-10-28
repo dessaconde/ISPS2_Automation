@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DecimalValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d221777d-617b-400a-9d6e-e30da6d4c875</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0fd16a31-ab8c-42ac-8f94-22c838a7bd7a</id>
+      <masked>false</masked>
+      <name>tagToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ec2de4e-fb86-4b43-a957-2be114846c30</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+</TestCaseEntity>

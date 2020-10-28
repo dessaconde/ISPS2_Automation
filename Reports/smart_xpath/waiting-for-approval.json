@@ -1,0 +1,18 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status:\u0027])[2]/following::span[4]",
+      "testObjectId": "Object Repository/Objects.AddACRecord/Page_ISPS2/Addbtn",
+      "brokenXPath": "(//span[@id\u003d\u0027button-1760-btnInnerEl\u0027])[1]",
+      "pathToScreenshot": "C:/Users/19023-RAC/Desktop/Automation Project Back-Up/LiveData/Automation/ISPS Automation/Reports/smart_xpath/Object Repository/Objects.AddACRecord/Page_ISPS2/Addbtn_neighbor_0.png"
+    },
+    {
+      "approved": false,
+      "proposedXPath": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status:\u0027])[2]/following::span[4]",
+      "testObjectId": "Object Repository/Objects.AddACRecord/Page_ISPS2/Addbtn",
+      "brokenXPath": "(//span[@id\u003d\u0027button-1760-btnInnerEl\u0027])[1]",
+      "pathToScreenshot": "C:/Users/19023-RAC/Desktop/Automation Project Back-Up/LiveData/Automation/ISPS Automation/Reports/smart_xpath/Object Repository/Objects.AddACRecord/Page_ISPS2/Addbtn_neighbor_1.png"
+    }
+  ]
+}

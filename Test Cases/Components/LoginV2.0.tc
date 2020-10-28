@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginV2.0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b8cf113-7762-451a-b607-255d4245f35a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ef40c3c-6d5f-4587-b0fa-245847c68143</id>
+      <masked>false</masked>
+      <name>LinkToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>efb7b85c-5216-4c74-9978-1f2a1ee8907e</id>
+      <masked>false</masked>
+      <name>LoginPageTextToBeVerified</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ba5cc5d-b126-4610-a638-211779ca3a9d</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6368db77-d042-40ef-b9c0-2696789ebe4a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

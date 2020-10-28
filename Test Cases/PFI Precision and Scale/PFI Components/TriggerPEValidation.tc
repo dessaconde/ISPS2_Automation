@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TriggerPEValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40049937-acd4-411e-8c33-9335512c8ad3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c62afe8-79e1-4c3e-9207-a881fb1826cb</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdc3b7a2-1151-485a-9dfd-696f8ae62258</id>
+      <masked>false</masked>
+      <name>NoOfOpt</name>
+   </variable>
+</TestCaseEntity>

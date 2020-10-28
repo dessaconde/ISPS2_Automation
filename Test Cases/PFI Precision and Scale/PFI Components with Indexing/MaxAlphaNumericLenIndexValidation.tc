@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MaxAlphaNumericLenIndexValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c93cd8c1-7299-4a5d-a23d-286fe0c86bb7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6c7fcdfa-8dd7-4c3f-9379-fd9a8e7dcca4</id>
+      <masked>false</masked>
+      <name>FieldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a1d1aea8-5a9b-4f6c-85e6-8afdc212c869</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8e9f37ed-be28-48f7-882e-bec05699d9d0</id>
+      <masked>false</masked>
+      <name>MaxCharLen</name>
+   </variable>
+</TestCaseEntity>

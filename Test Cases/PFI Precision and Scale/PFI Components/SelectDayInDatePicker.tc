@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectDayInDatePicker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61d80874-7d99-430d-9cad-b40c5be817ad</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc6f8f82-a95d-4f07-b37f-219cedb9285c</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d9c912c-8d6c-4645-9aaa-f0b0a63b3873</id>
+      <masked>false</masked>
+      <name>SelectDay</name>
+   </variable>
+</TestCaseEntity>

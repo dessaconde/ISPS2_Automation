@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ConvertToAuditValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b883c065-82ae-45d4-aed9-dba8c868ad08</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e0963c2-c0c2-4be0-8cd4-ecee33ff14c5</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e88cdd3-f4f2-4c1d-b3fb-5d6cd05d3fed</id>
+      <masked>false</masked>
+      <name>NoOfOpt</name>
+   </variable>
+</TestCaseEntity>

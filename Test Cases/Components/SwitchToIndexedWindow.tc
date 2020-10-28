@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SwitchToIndexedWindow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7bc3659-0c19-44a1-8a39-d44dafa2bebc</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>710a525e-0e50-4f8b-86e5-216b428ef35b</id>
+      <masked>false</masked>
+      <name>windowIndex</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PFI-Decision" time="141.575" tests="3" failures="0" errors="0">
+   <testsuite name="PFI-Decision" tests="3" failures="0" errors="0" time="141.575" timestamp="2020-06-08 12:14:58" hostname="19023-RAC - 192.168.16.39" id="Test Suites/PFI Precision and Scale Automated Regression Suite/PFI/PFI-Decision">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\19023-RAC\\Desktop\\New Automation Copy\\Reports\\20200608_121451\\PFI Precision and Scale Automated Regression Suite\\PFI\\PFI-Decision\\20200608_121451"/>
+         <property name="logFiles" value="C:\\Users\\19023-RAC\\Desktop\\New Automation Copy\\Reports\\20200608_121451\\PFI Precision and Scale Automated Regression Suite\\PFI\\PFI-Decision\\20200608_121451\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="19023-RAC - 192.168.16.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Chrome 83.0.4103.97"/>
+         <property name="hostAddress" value="192.168.16.39"/>
+         <property name="sessionId" value="c35a3d8d5c4aec0fea0a6d47a60f9b98"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.NoticeLHS" time="77.273" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.NoticeLHS" status="PASSED">
+         <system-out><![CDATA[2020-06-08 12:14:58 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.NoticeLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.NoticeLHS
+
+2020-06-08 12:14:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("ISPS2 Test Data").getValue("URL", 1), "LoginPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1), ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-06-08 12:14:59 - [TEST_CASE][PASSED] - Test Cases/Components/LoginV2.0: Test Cases/Components/LoginV2.0
+
+2020-06-08 12:15:00 - [TEST_STEP][PASSED] - openBrowser(LinkToBeUsed): Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-06-08 12:15:00 - [MESSAGE][INFO] - Starting 'Edge' driver
+
+2020-06-08 12:15:00 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-06-08 12:15:14 - [MESSAGE][PASSED] - Browser is opened with url: 'http://10.0.2.41:3012/isps2-prod-verify/authnz/login.do'
+
+2020-06-08 12:15:14 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-06-08 12:15:16 - [MESSAGE][PASSED] - Current window maximized
+
+2020-06-08 12:15:16 - [TEST_STEP][PASSED] - verifyTextPresent(LoginPageTextToBeVerified, false): Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-06-08 12:15:16 - [MESSAGE][PASSED] - Text 'Sign in to ISPS2-PROD-Verify' is present on page 
+
+2020-06-08 12:15:16 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username"), Username): Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-06-08 12:15:16 - [MESSAGE][PASSED] - Text 'sysadmin' is set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_Sign in to ISPS2-PROD-Verify_username'
+
+2020-06-08 12:15:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Objects.LoginV2.0/Login Page/input_This field is required_password"), Password): Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-06-08 12:15:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Objects.LoginV2.0/Login Page/input_This field is required_password'
+
+2020-06-08 12:15:16 - [TEST_STEP][NOT_RUN] - setEncryptedText(findTestObject(null), Password): NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-06-08 12:15:16 - [MESSAGE][NOT_RUN] - NOT_RUN: setEncryptedText(findTestObject(null), Password)
+
+2020-06-08 12:15:16 - [TEST_STEP][PASSED] - click(findTestObject("Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021"), OPTIONAL): Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-06-08 12:15:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.LoginV2.0/Login Page/div_Sign in to ISPS2-PROD-Verify_NovaGoButton-1021' is clicked on
+
+2020-06-08 12:15:16 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-06-08 12:15:17 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-08 12:15:17 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-06-08 12:15:20 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/LoginV2.0' successfully
+
+2020-06-08 12:15:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-06-08 12:15:20 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToHomepageHeaders: Test Cases/Components/NavigateToHomepageHeaders
+
+2020-06-08 12:15:20 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:15:21 - [TEST_STEP][PASSED] - waitForPageLoad(30): Wait for page load successfully
+
+2020-06-08 12:15:21 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-08 12:15:21 - [TEST_STEP][PASSED] - modifiedHeader = modifyObjectProperty(findTestObject("Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header"), "text", "equals", headerText, true): Modify property of object successfully
+
+2020-06-08 12:15:21 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:15:21 - [TEST_STEP][PASSED] - verifyElementClickable(modifiedHeader): Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-06-08 12:15:21 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clickable
+
+2020-06-08 12:15:21 - [TEST_STEP][PASSED] - click(modifiedHeader): Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-06-08 12:15:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToHomepageHeaders/Page_ISPS2/div_Header' is clicked on
+
+2020-06-08 12:15:21 - [TEST_STEP][PASSED] - Thread.sleep(7000): null
+
+2020-06-08 12:15:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToHomepageHeaders' successfully
+
+2020-06-08 12:15:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Case (SM)"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-06-08 12:15:28 - [TEST_CASE][PASSED] - Test Cases/Components/Filter: Test Cases/Components/Filter
+
+2020-06-08 12:15:28 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-08 12:15:33 - [TEST_STEP][PASSED] - waitForPageLoad(180): Wait for page load successfully
+
+2020-06-08 12:15:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-08 12:15:33 - [TEST_STEP][PASSED] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 180): Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-06-08 12:15:33 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Objects.Filter/Page_ISPS2/div_Loading search result Please wait' located by 'By.xpath: //div[@class = 'x-mask-msg-text' and (text() = 'Loading search result. Please wait...' or . = 'Loading search result. Please wait...')]' is not present after '180' second(s)
+
+2020-06-08 12:15:33 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/XP.Embutidooo")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-06-08 12:15:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/XP.Embutidooo' is clicked on
+
+2020-06-08 12:15:33 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:34 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:34 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Reset")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-06-08 12:15:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Reset' is clicked on
+
+2020-06-08 12:15:34 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:35 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:35 - [TEST_STEP][PASSED] - setText(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), taskDescription): Text 'Process Case (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-08 12:15:35 - [MESSAGE][PASSED] - Text 'Process Case (SM)' is set on object 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-08 12:15:35 - [TEST_STEP][PASSED] - caseType = taskDescription: null
+
+2020-06-08 12:15:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Objects.Filter/Page_ISPS2/TextBoxTaskDescription"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-08 12:15:36 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.Filter/Page_ISPS2/TextBoxTaskDescription'
+
+2020-06-08 12:15:36 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:37 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:37 - [TEST_STEP][PASSED] - click(findTestObject("Objects.Filter/Page_ISPS2/span_Search")): Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-06-08 12:15:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.Filter/Page_ISPS2/span_Search' is clicked on
+
+2020-06-08 12:15:37 - [TEST_STEP][NOT_RUN] - verifyTextPresent("Loading search result. Please wait...", false): NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-06-08 12:15:37 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyTextPresent("Loading search result. Please wait...", false)
+
+2020-06-08 12:15:37 - [TEST_STEP][NOT_RUN] - waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120): NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-06-08 12:15:37 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementNotPresent(findTestObject("Objects.Filter/Page_ISPS2/div_Loading search result Please wait"), 120)
+
+2020-06-08 12:15:37 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-08 12:15:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/Filter' successfully
+
+2020-06-08 12:15:42 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Process Case (SM)", "index":"4"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-06-08 12:15:42 - [TEST_CASE][PASSED] - Test Cases/Components/ClickLinkDependingOnTextAndIndex: Test Cases/Components/ClickLinkDependingOnTextAndIndex
+
+2020-06-08 12:15:42 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:15:43 - [TEST_STEP][PASSED] - println(linkName): null
+
+2020-06-08 12:15:43 - [TEST_STEP][PASSED] - println(index): null
+
+2020-06-08 12:15:43 - [TEST_STEP][PASSED] - modifiedLink = modifyObjectProperty(findTestObject("Objects.ClickLinkDependingOnTextAndIndex/linkToModify"), "xpath", "equals", "(//a[text()="" + linkName + ""])[" + index + "]", true): Modify property of object successfully
+
+2020-06-08 12:15:43 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:15:43 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-08 12:15:48 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLink): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:49 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:49 - [TEST_STEP][PASSED] - click(modifiedLink): Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-06-08 12:15:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.ClickLinkDependingOnTextAndIndex/linkToModify' is clicked on
+
+2020-06-08 12:15:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/ClickLinkDependingOnTextAndIndex' successfully
+
+2020-06-08 12:15:49 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Summary"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-06-08 12:15:49 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoaded: Test Cases/Components/VerifyPageSuccessfullyLoaded
+
+2020-06-08 12:15:49 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-06-08 12:15:52 - [TEST_STEP][PASSED] - ModifiedHeaderName = modifyObjectProperty(findTestObject("Objects.VerifyPageSuccessfullyLoaded/PageHeader"), "text", "equals", HeaderName, true): Modify property of object successfully
+
+2020-06-08 12:15:52 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:15:52 - [TEST_STEP][PASSED] - verifyElementPresent(ModifiedHeaderName, 30): Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-06-08 12:15:54 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-06-08 12:15:54 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedHeaderName): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:55 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:15:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-06-08 12:15:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Notice"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-06-08 12:15:56 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-06-08 12:15:56 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:15:57 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-06-08 12:15:57 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:15:57 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-06-08 12:15:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-06-08 12:15:57 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Notice'
+
+2020-06-08 12:15:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Notice'
+
+2020-06-08 12:15:57 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-08 12:16:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-06-08 12:16:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoadedII"), ["PageNm":"Notice"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoadedII' successfully
+
+2020-06-08 12:16:02 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoadedII: Test Cases/Components/VerifyPageSuccessfullyLoadedII
+
+2020-06-08 12:16:02 - [TEST_STEP][PASSED] - waitForPageLoad(5): Wait for page load successfully
+
+2020-06-08 12:16:02 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2020-06-08 12:16:02 - [TEST_STEP][PASSED] - modifiedInputFld = modifyObjectProperty(findTestObject("Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeaderIndex"), "xpath", "equals", "//*[contains(@class,'isps-page-title') and contains(text(),'" + PageNm + "')]", true): Modify property of object successfully
+
+2020-06-08 12:16:02 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:02 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedInputFld): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:03 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:03 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoadedII' successfully
+
+2020-06-08 12:16:03 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightLabelField"), ["LblName":"Generate Notice *:"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightLabelField' successfully
+
+2020-06-08 12:16:03 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightLabelField: Test Cases/Components/HighlightLabelField
+
+2020-06-08 12:16:03 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:04 - [TEST_STEP][PASSED] - modifiedLblNm = modifyObjectProperty(findTestObject("Objects.HighlightElements/lblField"), "text", "equals", LblName, true): Modify property of object successfully
+
+2020-06-08 12:16:04 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:04 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:04 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightLabelField' successfully
+
+2020-06-08 12:16:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightInputField"), ["InputFldName":"structPlans"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightInputField' successfully
+
+2020-06-08 12:16:04 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightInputField: Test Cases/Components/HighlightInputField
+
+2020-06-08 12:16:04 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:05 - [TEST_STEP][PASSED] - modifiedLblNm = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field"), "name", "equals", InputFldName, true): Modify property of object successfully
+
+2020-06-08 12:16:06 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:06 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:06 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:06 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightInputField' successfully
+
+2020-06-08 12:16:06 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/VerifyDefaultValue"), ["FieldNm":"structPlans"], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValue' successfully
+
+2020-06-08 12:16:06 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValue: Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValue
+
+2020-06-08 12:16:06 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - NewFieldNm = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field"), "name", "equals", FieldNm, true): Modify property of object successfully
+
+2020-06-08 12:16:07 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - focus(NewFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field' is focused
+
+2020-06-08 12:16:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field' is focused
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - DefVal = getAttribute(NewFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: ''
+
+2020-06-08 12:16:07 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: ''
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - switch (FieldNm): null
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - Default: null
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-06-08 12:16:07 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDefaultValue' successfully
+
+2020-06-08 12:16:07 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components/VerifyDropdownValues"), ["FldNm":"structPlans", "CallTCName":"PFI Precision and Scale/HashMap Tables/PFILetterTemplate", "cmbNm":"GenerateNotice", ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDropdownValues' successfully
+
+2020-06-08 12:16:08 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components/VerifyDropdownValues: Test Cases/PFI Precision and Scale/PFI Components/VerifyDropdownValues
+
+2020-06-08 12:16:08 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field"), "name", "equals", FldNm, true): Modify property of object successfully
+
+2020-06-08 12:16:09 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - comboNm = cmbNm: null
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - focus(NewInputNmField): Object: 'Object Repository/Objects.HighlightElements/input_field' is focused
+
+2020-06-08 12:16:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field' is focused
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - setText(NewInputNmField, EnterValue): Text '' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:09 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - for ([i = 1, i <= NoOfVal, (i++)]): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:09 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:09 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 3 second(s)
+
+2020-06-08 12:16:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:12 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: 'with structural plans'
+
+2020-06-08 12:16:12 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: 'with structural plans'
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:12 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - case "GenerateNotice":: null
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:12 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:12 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:12 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 3 second(s)
+
+2020-06-08 12:16:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2020-06-08 12:16:15 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:15 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:15 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: 'without structral plans'
+
+2020-06-08 12:16:15 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field' is: 'without structral plans'
+
+2020-06-08 12:16:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:16 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - case "GenerateNotice":: null
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:16 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:16 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:16 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field'
+
+2020-06-08 12:16:16 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components/VerifyDropdownValues' successfully
+
+2020-06-08 12:16:16 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1)], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1)], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1)], STOP_ON_FAILURE)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.ReminderLHS" time="64.108" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.ReminderLHS" status="PASSED">
+         <system-out><![CDATA[2020-06-08 12:16:16 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.ReminderLHS: Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.ReminderLHS
+
+2020-06-08 12:16:16 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("ISPS2 Test Data").getValue("URL", 1), "LoginPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1), ... ], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("ISPS2 Test Data").getValue("URL", 1), "LoginPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1), ... ], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/LoginV2.0"), ["LinkToBeUsed":findTestData("ISPS2 Test Data").getValue("URL", 1), "LoginPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1), ... ], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/NavigateToHomepageHeaders"), ["headerText":"My Tasks"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Case (SM)"], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Case (SM)"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/Filter"), ["taskDescription":"Process Case (SM)"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Process Case (SM)", "index":"3"], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Process Case (SM)", "index":"3"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/ClickLinkDependingOnTextAndIndex"), ["linkName":"Process Case (SM)", "index":"3"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Summary"], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Summary"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Summary"], STOP_ON_FAILURE)
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/NavigateToAnyLHS"), ["LHS":"Reminder"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-06-08 12:16:16 - [TEST_CASE][PASSED] - Test Cases/Components/NavigateToAnyLHS: Test Cases/Components/NavigateToAnyLHS
+
+2020-06-08 12:16:16 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:17 - [TEST_STEP][PASSED] - modifiedLHS = modifyObjectProperty(findTestObject("Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify"), "text", "equals", LHS, true): Modify property of object successfully
+
+2020-06-08 12:16:17 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:17 - [TEST_STEP][PASSED] - click(modifiedLHS): Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-06-08 12:16:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is clicked on
+
+2020-06-08 12:16:17 - [TEST_STEP][PASSED] - currentLHS = getText(modifiedLHS): Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Reminder'
+
+2020-06-08 12:16:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/Objects.NavigateToAnyLHS/Page_ISPS2/LHSToModify' is: 'Reminder'
+
+2020-06-08 12:16:17 - [TEST_STEP][PASSED] - Thread.sleep(5000): null
+
+2020-06-08 12:16:22 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/NavigateToAnyLHS' successfully
+
+2020-06-08 12:16:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/VerifyPageSuccessfullyLoaded"), ["HeaderName":"Reminder"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-06-08 12:16:22 - [TEST_CASE][PASSED] - Test Cases/Components/VerifyPageSuccessfullyLoaded: Test Cases/Components/VerifyPageSuccessfullyLoaded
+
+2020-06-08 12:16:22 - [TEST_STEP][PASSED] - Thread.sleep(3000): null
+
+2020-06-08 12:16:25 - [TEST_STEP][PASSED] - ModifiedHeaderName = modifyObjectProperty(findTestObject("Objects.VerifyPageSuccessfullyLoaded/PageHeader"), "text", "equals", HeaderName, true): Modify property of object successfully
+
+2020-06-08 12:16:25 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:25 - [TEST_STEP][PASSED] - verifyElementPresent(ModifiedHeaderName, 30): Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-06-08 12:16:25 - [MESSAGE][PASSED] - Object 'Object Repository/Objects.VerifyPageSuccessfullyLoaded/PageHeader' is present
+
+2020-06-08 12:16:25 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(ModifiedHeaderName): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:26 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/VerifyPageSuccessfullyLoaded' successfully
+
+2020-06-08 12:16:26 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightLabelIndexField"), ["LblName":"Reminder Type:", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightLabelIndexField' successfully
+
+2020-06-08 12:16:26 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightLabelIndexField: Test Cases/Components/HighlightLabelIndexField
+
+2020-06-08 12:16:26 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:27 - [TEST_STEP][PASSED] - modifiedLblNm = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/lblField_index"), "xpath", "equals", "(//*[contains(@class,'x-form-item-label-inner') and (text()='" + LblName + "')])[" + index + "]", true): Modify property of object successfully
+
+2020-06-08 12:16:27 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:27 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedLblNm): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:27 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:27 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightLabelIndexField' successfully
+
+2020-06-08 12:16:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Components/HighlightInputIndexField"), ["InputName":"reminderType", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-06-08 12:16:27 - [TEST_CASE][PASSED] - Test Cases/Components/HighlightInputIndexField: Test Cases/Components/HighlightInputIndexField
+
+2020-06-08 12:16:28 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:29 - [TEST_STEP][PASSED] - modifiedInputFld = modifyObjectProperty(findTestObject("Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[contains(@class,'x-form-text') and (@name='" + InputName + "')])[" + index + "]", true): Modify property of object successfully
+
+2020-06-08 12:16:29 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:29 - [TEST_STEP][PASSED] - com.reusableComponents.HighlightElement.run(modifiedInputFld): com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:29 - [MESSAGE][PASSED] - com.reusableComponents.HighlightElement.run is PASSED
+
+2020-06-08 12:16:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Components/HighlightInputIndexField' successfully
+
+2020-06-08 12:16:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components with Indexing/VerifyDefaultValueIndex"), ["FieldNm":"reminderType", "index":1], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDefaultValueIndex' successfully
+
+2020-06-08 12:16:29 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDefaultValueIndex: Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDefaultValueIndex
+
+2020-06-08 12:16:29 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:30 - [TEST_STEP][PASSED] - DefaultValueHM = ["periodType":"Working Day(s)", "noOfDays":"14", "inspWeight":"1", "inspModule":"PSI", "inspCaseType":"PSI Processing (SM)"]: null
+
+2020-06-08 12:16:30 - [TEST_STEP][PASSED] - NewFieldNm = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[contains(@name,'" + FieldNm + "')])[" + index + "]", true): Modify property of object successfully
+
+2020-06-08 12:16:30 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:30 - [TEST_STEP][PASSED] - focus(NewFieldNm): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-06-08 12:16:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - DefVal = getAttribute(NewFieldNm, "value", STOP_ON_FAILURE): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-06-08 12:16:31 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: ''
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - switch (FieldNm): null
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - Default: null
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - ExpectedDefVal = DefaultValueHM.get(FieldNm): null
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - if (ExpectedDefVal != null): null
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - else: Actual text '' and expected text '' are matched  using regular expression
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - verifyMatch(DefVal, "", true): Actual text '' and expected text '' are matched  using regular expression
+
+2020-06-08 12:16:31 - [MESSAGE][PASSED] - Actual text '' and expected text '' are matched  using regular expression
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:31 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDefaultValueIndex' successfully
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("PFI Precision and Scale/PFI Components with Indexing/VerifyDropdownValuesIndex"), ["FldNm":"reminderType", "CallTCName":"PFI Precision and Scale/HashMap Tables/PFILetterTemplate", "cmbNm":"Reminder", "NoOfVal":9, ... ], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDropdownValuesIndex' successfully
+
+2020-06-08 12:16:31 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDropdownValuesIndex: Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDropdownValuesIndex
+
+2020-06-08 12:16:31 - [TEST_STEP][PASSED] - Thread.sleep(1000): null
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - NewInputNmField = modifyObjectProperty(findTestObject("Object Repository/Objects.HighlightElements/input_field_index"), "xpath", "equals", "(//*[contains(@class,'x-form-text') and (@name='" + FldNm + "')])[" + index + "]", true): Modify property of object successfully
+
+2020-06-08 12:16:32 - [MESSAGE][PASSED] - Modify property of object successfully
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - comboNm = cmbNm: null
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - focus(NewInputNmField): Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-06-08 12:16:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects.HighlightElements/input_field_index' is focused
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - setText(NewInputNmField, EnterValue): Text '' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:32 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - for ([i = 1, i <= NoOfVal, (i++)]): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:32 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:32 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:16:37 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:37 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Ministry of Health'
+
+2020-06-08 12:16:37 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Ministry of Health'
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:37 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:37 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:37 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:37 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:16:42 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:42 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder Free Format Letter'
+
+2020-06-08 12:16:42 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder Free Format Letter'
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:42 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:42 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:43 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:43 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:43 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:43 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:16:48 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:48 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1 (SF_ESID_SIS/SL-REM1)'
+
+2020-06-08 12:16:48 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1 (SF_ESID_SIS/SL-REM1)'
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:48 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:48 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:48 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:48 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:16:53 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:53 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1-G (SF_ESID_SIS/SL-REM1-G)'
+
+2020-06-08 12:16:53 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1-G (SF_ESID_SIS/SL-REM1-G)'
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:53 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:53 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:53 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:53 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:53 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:16:58 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:58 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1A (SF_ESID_SIS/SL-REM1A)'
+
+2020-06-08 12:16:58 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1A (SF_ESID_SIS/SL-REM1A)'
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:58 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:16:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:58 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:58 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:16:58 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:17:03 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:17:03 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:04 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1-M (SF_ESID_SIS/SL-REM1-M)'
+
+2020-06-08 12:17:04 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1-M (SF_ESID_SIS/SL-REM1-M)'
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:04 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:17:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:04 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:04 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:04 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:17:09 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:09 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1A-M (SF_ESID_SIS/SL-REM1A-M)'
+
+2020-06-08 12:17:09 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 1A-M (SF_ESID_SIS/SL-REM1A-M)'
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:09 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:17:09 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:09 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:09 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:09 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:17:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:14 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 2 (SF_ESID_SIS/SL-REM2)'
+
+2020-06-08 12:17:14 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 2 (SF_ESID_SIS/SL-REM2)'
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:14 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:17:14 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:14 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:14 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:14 - [TEST_STEP][PASSED] - delay(DelayTime): Delayed 5 second(s)
+
+2020-06-08 12:17:19 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2020-06-08 12:17:19 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:20 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - ComboBoxValue = getAttribute(NewInputNmField, "value"): Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 2-G (SF_ESID_SIS/SL-REM2-G)'
+
+2020-06-08 12:17:20 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/Objects.HighlightElements/input_field_index' is: 'Reminder 2-G (SF_ESID_SIS/SL-REM2-G)'
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase(CallTCName), ["FindValue":ComboBoxValue, "DropdownNm":comboNm], STOP_ON_FAILURE): Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:20 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate: Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - PFILetterTemplateTBL = [1:["Reminder":"Ministry Of Health"], 2:["Reminder":"Reminder Free Format Letter"], 3:["Reminder":"Reminder 1 (SF_ESID_SIS/SL-REM1)"], ... ]: null
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - switch (DropdownNm): null
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - case "Reminder":: null
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - ValueFound = PFILetterTemplateTBL.find({ -> ... }): null
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - break: null
+
+2020-06-08 12:17:20 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/HashMap Tables/PFILetterTemplate' successfully
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - println(ValueFound): null
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ARROW_DOWN)): Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:20 - [MESSAGE][PASSED] - Keys 'DOWN + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:20 - [TEST_STEP][PASSED] - sendKeys(NewInputNmField, Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:20 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Objects.HighlightElements/input_field_index'
+
+2020-06-08 12:17:20 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PFI Precision and Scale/PFI Components with Indexing/VerifyDropdownValuesIndex' successfully
+
+2020-06-08 12:17:20 - [TEST_STEP][NOT_RUN] - callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1)], STOP_ON_FAILURE): NOT_RUN: callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1)], STOP_ON_FAILURE)
+
+2020-06-08 12:17:20 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase(findTestCase("Components/Logout"), ["LogoutPageTextToBeVerified":findTestData("ISPS2 Test Data").getValue("HomeBanner", 1)], STOP_ON_FAILURE)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.RecommendLHS" time="0.004" classname="Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.RecommendLHS" status="PASSED">
+         <system-out><![CDATA[2020-06-08 12:17:20 - [TEST_CASE][PASSED] - Test Cases/PFI Precision and Scale/PFI Test Cases/Process Case (PFI)/PFI.RecommendLHS: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-06-08 12:14:58 - [TEST_SUITE][INCOMPLETE] - PFI-Decision: null]]></system-out>
+      <system-err><![CDATA[2020-06-08 12:14:58 - [TEST_SUITE][INCOMPLETE] - PFI-Decision: null]]></system-err>
+   </testsuite>
+</testsuites>

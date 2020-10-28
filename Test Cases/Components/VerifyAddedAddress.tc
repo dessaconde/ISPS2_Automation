@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyAddedAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8d8974b-fdc3-47f4-803a-1b208679eebf</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a153c8be-87b2-484f-a87a-9c4f222fb323</id>
+      <masked>false</masked>
+      <name>HouseBlockNo</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1b27e388-8993-4658-ba18-0554fcea55bf</id>
+      <masked>false</masked>
+      <name>BuildingName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>ee0b4d69-e052-495b-b4b1-cc05c819c346</id>
+      <masked>false</masked>
+      <name>Level</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>01b56842-3d8e-4cfb-908a-0a4fdef4aa1d</id>
+      <masked>false</masked>
+      <name>Unit</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>99dc556e-14ce-4e23-a295-7754fb1db375</id>
+      <masked>false</masked>
+      <name>PostalCode</name>
+   </variable>
+</TestCaseEntity>

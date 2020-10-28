@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectFromMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f032c738-2028-4e93-bd2e-5c2848b3e5ea</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>f08629a6-6292-440f-8b47-58a6326f718b</id>
+      <masked>false</masked>
+      <name>menuToBeClicked</name>
+   </variable>
+</TestCaseEntity>

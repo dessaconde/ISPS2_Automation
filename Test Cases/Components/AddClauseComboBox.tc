@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddClauseComboBox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28fecf86-e427-4586-ae92-aa0ac0cb14a0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3898c465-d382-433f-8dc5-6afc546df58f</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+</TestCaseEntity>

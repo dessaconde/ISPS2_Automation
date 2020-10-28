@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightInputFieldXPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65aa5dfe-70ee-49bc-a172-1c6ce431e583</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>220a3529-28bc-423e-b698-653473688d35</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>b84267f9-b1d6-4c00-a3eb-2ef39c3428ed</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

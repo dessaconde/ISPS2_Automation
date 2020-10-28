@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateCloseCaseLHS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47a568a0-1e40-43c3-8cf7-86dbb78c536d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>3f8646ab-63f0-4aaf-a2c5-c75bc0fc3d25</id>
+      <masked>false</masked>
+      <name>ProjectEnded</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a63213db-5206-4a22-baa3-161b7ce3f0c6</id>
+      <masked>false</masked>
+      <name>TempBldgStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>2cc29423-bdcd-4a20-8d46-f0c36366ad42</id>
+      <masked>false</masked>
+      <name>Remarks</name>
+   </variable>
+</TestCaseEntity>

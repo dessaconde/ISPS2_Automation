@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CopyCaseRefNoFromMyTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f007ea4-4522-4fa1-87ed-5b4a6e35bad4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5fd98c9-9d09-4ea3-8f73-e573029eaf88</id>
+      <masked>false</masked>
+      <name>extractedCaseRefNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ab2afb6-d372-44b8-a946-8c8ae0da3c02</id>
+      <masked>false</masked>
+      <name>extractedSubmNo</name>
+   </variable>
+</TestCaseEntity>

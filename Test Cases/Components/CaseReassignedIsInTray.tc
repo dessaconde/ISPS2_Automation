@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CaseReassignedIsInTray</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6225c3b-af8e-4a11-aff1-0b78ce66beed</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>1e6e9b4a-cac4-42de-aa10-78d0e7355d39</id>
+      <masked>false</masked>
+      <name>taskDescription</name>
+   </variable>
+</TestCaseEntity>

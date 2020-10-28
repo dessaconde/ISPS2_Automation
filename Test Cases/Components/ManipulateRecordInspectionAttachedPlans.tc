@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManipulateRecordInspectionAttachedPlans</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f6b5a36-b780-4202-8626-b8006fc1cb9e</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7d9d1432-0801-4ec2-8d84-19180ead6860</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>ecf27349-87cc-41c6-a1fc-60ddaf8a2ba1</id>
+      <masked>false</masked>
+      <name>remarks2</name>
+   </variable>
+</TestCaseEntity>

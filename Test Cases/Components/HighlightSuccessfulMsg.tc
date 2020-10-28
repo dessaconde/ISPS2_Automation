@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HighlightSuccessfulMsg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62e109c2-2543-46c8-a948-7754adef7622</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f3ce01a5-b88c-414e-9fcc-9ad99cd4f389</id>
+      <masked>false</masked>
+      <name>tagname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c335723-cbde-41ea-999a-926740cea54a</id>
+      <masked>false</masked>
+      <name>SuccessfulMsg</name>
+   </variable>
+</TestCaseEntity>

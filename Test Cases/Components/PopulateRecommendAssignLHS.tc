@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PopulateRecommendAssignLHS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2815b779-f9a4-460f-a3a4-eda4b345e6d8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a7250237-2ab4-4671-80d5-02482e1f3074</id>
+      <masked>false</masked>
+      <name>recommendStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>01bcdd4e-926a-4adb-8378-1959ade98470</id>
+      <masked>false</masked>
+      <name>recommendToModule</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>23d84b78-3a20-4afb-a61b-5ee6fb30c192</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>0e1c5013-71c6-4929-a618-f588c10890b7</id>
+      <masked>false</masked>
+      <name>recommendToOfficer</name>
+   </variable>
+</TestCaseEntity>

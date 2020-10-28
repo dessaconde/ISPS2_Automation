@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetTextOfInputFieldAndStoreInAGlobalVariable</name>
+   <tag></tag>
+   <comment>clipboardValue
+GlobalVariable.inputFieldText</comment>
+   <testCaseGuid>aa03fe19-1467-4add-9cfb-383db82c590a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20145121-52fb-4d01-9f72-e2ecbdad0691</id>
+      <masked>false</masked>
+      <name>clipboardValue</name>
+   </variable>
+</TestCaseEntity>

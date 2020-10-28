@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteFormattedAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d120415d-9d3f-4527-8b6d-7a1bc8b185a8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>15f7bbd0-4bde-47b1-a1fc-f3de78c344e2</id>
+      <masked>false</masked>
+      <name>BuildingName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>70fc750a-e41c-4274-8cae-fe6548396163</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

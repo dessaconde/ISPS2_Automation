@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectTodayInDatePickerIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe70737d-04eb-41d3-a1da-f2ed062e1b29</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3633bab3-1f22-4526-af9e-ebf537864765</id>
+      <masked>false</masked>
+      <name>FldNm</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>1a5439df-f1a3-4953-9792-207225c68765</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>73958049-71c3-4817-ba0e-13fccf2a6e68</id>
+      <masked>false</masked>
+      <name>idx</name>
+   </variable>
+</TestCaseEntity>

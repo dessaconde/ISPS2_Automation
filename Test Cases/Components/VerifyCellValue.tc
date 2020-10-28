@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCellValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf102c23-e84b-451c-b615-e6fe95a222eb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b7651c2-a22b-42ef-af84-98dc1e51e8f0</id>
+      <masked>false</masked>
+      <name>SPL_BldgValue1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10e2b19f-a0fc-483e-ab8b-f7e4e2068a11</id>
+      <masked>false</masked>
+      <name>SPL_BldgValue2</name>
+   </variable>
+</TestCaseEntity>

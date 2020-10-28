@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectCaseToReassign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0f9266f-d1ef-4d83-bbc8-0ab3924baf48</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>70ecbdcd-cb70-44b8-bb38-30a56f20c335</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.CRN</defaultValue>
+      <description></description>
+      <id>3c2ca492-2c55-47e8-92a4-17fc3fcb4e34</id>
+      <masked>false</masked>
+      <name>extractedCaseRefNo</name>
+   </variable>
+</TestCaseEntity>

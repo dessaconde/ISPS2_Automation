@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBlueButtonsWithXPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9722e488-d395-4af7-8baf-a39c953669f2</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>c61793d9-732d-4d42-bd61-0925af534c09</id>
+      <masked>false</masked>
+      <name>Button</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>be596bcf-d7e6-40da-8f24-9336d84dbb3f</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

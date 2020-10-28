@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequiredFieldValidationXPI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa8c2509-b487-4b71-9028-6f991b952e28</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c741d6e8-6047-4ac2-9592-4598bab2a2bb</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>fe2436aa-50b7-4806-bdd2-01bac9932b0c</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

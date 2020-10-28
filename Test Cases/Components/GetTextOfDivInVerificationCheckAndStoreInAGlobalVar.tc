@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetTextOfDivInVerificationCheckAndStoreInAGlobalVar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8037c38-20d0-4d14-98e1-43308a64c861</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>2a989510-d42a-40a3-8fb1-40349d4f888c</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

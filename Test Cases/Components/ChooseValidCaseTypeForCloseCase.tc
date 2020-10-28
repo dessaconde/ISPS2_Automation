@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ChooseValidCaseTypeForCloseCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd67533e-3477-4dce-be16-33e0e6068a4d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.caseType</defaultValue>
+      <description></description>
+      <id>8a06cde9-003a-4c3a-801c-5e59c495749f</id>
+      <masked>false</masked>
+      <name>extractedCaseTypeFromGV</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>ac5e2eca-9185-4f9c-ba71-0b61da75d1e4</id>
+      <masked>false</masked>
+      <name>taskDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>456c8550-093d-419c-9bd2-c4adef569080</id>
+      <masked>false</masked>
+      <name>LHS</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>bd4ce972-23c9-438c-9319-bd8840820249</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.CRN</defaultValue>
+      <description></description>
+      <id>22824504-0f94-40c3-b6f9-a93ae06b2ef9</id>
+      <masked>false</masked>
+      <name>caseRefNo</name>
+   </variable>
+</TestCaseEntity>

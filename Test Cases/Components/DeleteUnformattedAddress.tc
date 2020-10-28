@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteUnformattedAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>653348b8-0cc1-46a1-8c32-7554a10f8a60</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>b17c0764-433c-47af-92d7-ba6918ff267a</id>
+      <masked>false</masked>
+      <name>roadName</name>
+   </variable>
+</TestCaseEntity>

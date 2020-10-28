@@ -1,0 +1,117 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke Testing Automated Regression Suite (STARS),Chrome 76.0.3809.132,,,2019-09-06 17:37:51,2019-09-06 17:54:33,16m - 41.885s,INCOMPLETE
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.SummaryLHS,Chrome 76.0.3809.132,,,2019-09-06 17:37:51,2019-09-06 17:39:15,1m - 23.730s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:37:51,2019-09-06 17:38:00,8.477s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:38:00,2019-09-06 17:38:10,10.617s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:38:10,2019-09-06 17:38:29,18.794s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToSummaryLHS""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:38:29,2019-09-06 17:38:38,8.811s,PASSED
+"callTestCase(findTestCase(""Components/VerifySummarySections""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:38:38,2019-09-06 17:39:15,36.842s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.LibMgmtLHS,Chrome 76.0.3809.132,,,2019-09-06 17:39:15,2019-09-06 17:40:18,1m - 3.349s,PASSED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:39:15,2019-09-06 17:39:22,7.497s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:39:22,2019-09-06 17:39:34,11.553s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:39:34,2019-09-06 17:39:52,18.462s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToLibMgmtLHS""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:39:52,2019-09-06 17:40:00,7.518s,PASSED
+"callTestCase(findTestCase(""Components/ClosePopUpWindow""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:00,2019-09-06 17:40:01,1.205s,PASSED
+"callTestCase(findTestCase(""Components/SwitchToMainISPS2Window""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:01,2019-09-06 17:40:01,0.195s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:01,2019-09-06 17:40:10,8.431s,PASSED
+"callTestCase(findTestCase(""Components/Logout""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:10,2019-09-06 17:40:18,8.381s,PASSED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.MainFormLHS,Chrome 76.0.3809.132,,,2019-09-06 17:40:18,2019-09-06 17:41:20,1m - 1.877s,ERROR
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:18,2019-09-06 17:40:25,6.868s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:25,2019-09-06 17:40:35,10.204s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:35,2019-09-06 17:40:54,18.957s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToMainFormLHS""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:54,2019-09-06 17:40:58,3.264s,PASSED
+"callTestCase(findTestCase(""Components/SelectTypeOfApplication""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:40:58,2019-09-06 17:41:20,22.484s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.AddressLHS,Chrome 76.0.3809.132,,,2019-09-06 17:41:20,2019-09-06 17:43:30,2m - 10.068s,ERROR
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:41:20,2019-09-06 17:41:28,8.017s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:41:28,2019-09-06 17:41:55,26.819s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:41:55,2019-09-06 17:42:15,19.654s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAddressLHS""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:15,2019-09-06 17:42:18,3.747s,PASSED
+"callTestCase(findTestCase(""Components/ClickAddButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:18,2019-09-06 17:42:25,6.874s,PASSED
+"callTestCase(findTestCase(""Components/ClickCancelButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:25,2019-09-06 17:42:28,2.800s,PASSED
+"callTestCase(findTestCase(""Components/ClickAddButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:28,2019-09-06 17:42:35,6.710s,PASSED
+"callTestCase(findTestCase(""Components/PopulateAddress""), [""HouseBlockNo"":findTestData(""Datatable"").getValue(""HouseBlockNo"", 1), ""BuildingName"":findTestData(""Datatable"").getValue(""BuildingName"", 1), ... ], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:35,2019-09-06 17:42:47,12.307s,PASSED
+"callTestCase(findTestCase(""Components/ClickResetButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:47,2019-09-06 17:42:51,3.762s,PASSED
+"callTestCase(findTestCase(""Components/PopulateAddress""), [""HouseBlockNo"":findTestData(""Datatable"").getValue(""HouseBlockNo"", 1), ""BuildingName"":findTestData(""Datatable"").getValue(""BuildingName"", 1), ... ], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:42:51,2019-09-06 17:43:03,11.837s,PASSED
+"callTestCase(findTestCase(""Components/ClickSaveButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:43:03,2019-09-06 17:43:09,5.852s,PASSED
+"callTestCase(findTestCase(""Components/VerifyAddedAddress""), [""HouseBlockNo"":findTestData(""Datatable"").getValue(""HouseBlockNo"", 1), ""BuildingName"":findTestData(""Datatable"").getValue(""BuildingName"", 1), ... ], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:43:09,2019-09-06 17:43:30,21.595s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.LotLHS,Chrome 76.0.3809.132,,,2019-09-06 17:43:30,2019-09-06 17:44:43,1m - 13.178s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Login using dynamic credentials that sources from Datatable. ,,2019-09-06 17:43:30,2019-09-06 17:43:38,7.649s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Navigate to landing page before proceeding to further automated components. ,,2019-09-06 17:43:38,2019-09-06 17:43:51,13.186s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Clicks the filter button and key-in 'Process Temporary Building Permit' then clicks on 'Search' button. ,,2019-09-06 17:43:51,2019-09-06 17:44:10,19.242s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToLotLHS""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Clicks 'Lot' from left-hand side.,,2019-09-06 17:44:10,2019-09-06 17:44:15,4.753s,PASSED
+"callTestCase(findTestCase(""Components/ClickAddButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Clicks the 'Add' button to add another lot record. ,,2019-09-06 17:44:15,2019-09-06 17:44:22,6.709s,PASSED
+"callTestCase(findTestCase(""Components/ClickCancelButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Clicks cancel button to check if the 'Cancel' button is working. ,,2019-09-06 17:44:22,2019-09-06 17:44:25,2.764s,PASSED
+"callTestCase(findTestCase(""Components/ClickAddButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Clicks 'Add' button to populate the Lot field. ,,2019-09-06 17:44:25,2019-09-06 17:44:31,6.738s,PASSED
+"callTestCase(findTestCase(""Components/PopulateLot""), [""MkTs"":findTestData(""Datatable"").getValue(""MkTs"", 1), ""LotNo"":findTestData(""Datatable"").getValue(""LotNo"", 1), ""IsPartialLot"":findTestData(""Datatable"").getValue(""IsPartialLot"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,"Populates MkTs, LotNo and IsPartialLot field, all dynamically from Datatable. ",,2019-09-06 17:44:31,2019-09-06 17:44:38,6.755s,PASSED
+"callTestCase(findTestCase(""Components/ClickResetButton""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Clicks the 'Reset' button to check that button is working. ,,2019-09-06 17:44:38,2019-09-06 17:44:42,3.722s,PASSED
+"callTestCase(findTestCase(""Components/PopulateLot""), [""MkTs"":findTestData(""Datatable"").getValue(""MkTs"", 1), ""LotNo"":findTestData(""Datatable"").getValue(""LotNo"", 1), ""IsPartialLot"":findTestData(""Datatable"").getValue(""IsPartialLot"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,Repeats to populate the Lot fields after being reset. ,,2019-09-06 17:44:42,2019-09-06 17:44:43,1.565s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.QualifiedPerson,Chrome 76.0.3809.132,,,2019-09-06 17:44:43,2019-09-06 17:45:51,1m - 7.848s,ERROR
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:44:43,2019-09-06 17:44:52,8.550s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:44:52,2019-09-06 17:45:05,12.787s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:45:05,2019-09-06 17:45:23,18.554s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Qualified Person""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:45:23,2019-09-06 17:45:30,6.285s,PASSED
+"callTestCase(findTestCase(""Components/ClickLink""), [""LinkToModify"":""CHUA TECK HONG""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:45:30,2019-09-06 17:45:51,21.563s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.BuilderLHS,Chrome 76.0.3809.132,,,2019-09-06 17:45:51,2019-09-06 17:47:01,1m - 9.666s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:45:51,2019-09-06 17:45:59,7.660s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:45:59,2019-09-06 17:46:10,11.223s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:46:10,2019-09-06 17:46:29,18.674s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Builder""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:46:29,2019-09-06 17:47:01,32.009s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.RecordInspection,Chrome 76.0.3809.132,,,2019-09-06 17:47:01,2019-09-06 17:48:11,1m - 10.064s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:47:01,2019-09-06 17:47:09,7.745s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:47:09,2019-09-06 17:47:20,11.663s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:47:20,2019-09-06 17:47:39,18.595s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Record Inspection""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:47:39,2019-09-06 17:48:11,31.984s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.OwnerOfThePremises,Chrome 76.0.3809.132,,,2019-09-06 17:48:11,2019-09-06 17:49:22,1m - 11.507s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:48:11,2019-09-06 17:48:19,7.870s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:48:19,2019-09-06 17:48:31,12.346s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:48:31,2019-09-06 17:48:50,19.174s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Owner of the Premises""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:48:50,2019-09-06 17:49:22,32.023s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.CaseStagesLHS,Chrome 76.0.3809.132,,,2019-09-06 17:49:22,2019-09-06 17:50:31,1m - 8.425s,PASSED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:49:22,2019-09-06 17:49:32,9.557s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:49:32,2019-09-06 17:49:45,12.518s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:49:45,2019-09-06 17:50:03,18.583s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Case Stages""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:03,2019-09-06 17:50:09,6.256s,PASSED
+"callTestCase(findTestCase(""Components/ClosePopUpWindow""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:09,2019-09-06 17:50:12,2.166s,PASSED
+"callTestCase(findTestCase(""Components/SwitchToMainISPS2Window""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:12,2019-09-06 17:50:12,0.069s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:12,2019-09-06 17:50:21,9.860s,PASSED
+"callTestCase(findTestCase(""Components/Logout""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:21,2019-09-06 17:50:31,9.330s,PASSED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.OwnerOfTemporaryBuilding,Chrome 76.0.3809.132,,,2019-09-06 17:50:31,2019-09-06 17:51:41,1m - 10.318s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:31,2019-09-06 17:50:39,8.404s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:39,2019-09-06 17:50:51,11.182s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:50:51,2019-09-06 17:51:09,18.605s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Owner of Temporary Building""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:51:09,2019-09-06 17:51:41,32.004s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.IssuePreliminaryApprovalPTULHS,Chrome 76.0.3809.132,,,2019-09-06 17:51:41,2019-09-06 17:52:54,1m - 13.124s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:51:41,2019-09-06 17:51:51,9.372s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:51:51,2019-09-06 17:52:03,12.295s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:52:03,2019-09-06 17:52:22,19.365s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Issue Preliminary Approval/PTU""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:52:22,2019-09-06 17:52:54,32.024s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.ReminderLetterLHS,Chrome 76.0.3809.132,,,2019-09-06 17:52:54,2019-09-06 17:52:54,0.081s,PASSED
+return null,Chrome 76.0.3809.132,,,2019-09-06 17:52:54,2019-09-06 17:52:54,0.000s,PASSED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.KIVLHS,Chrome 76.0.3809.132,,,2019-09-06 17:52:54,2019-09-06 17:53:42,47.661s,FAILED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:52:54,2019-09-06 17:53:03,8.223s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:53:03,2019-09-06 17:53:14,11.408s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:53:14,2019-09-06 17:53:33,18.985s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""KIV""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:53:33,2019-09-06 17:53:39,6.190s,PASSED
+"callTestCase(findTestCase(""Components/PopulateKIVLHS""), [""expiryDate"":""on""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:53:39,2019-09-06 17:53:42,2.737s,FAILED
+,,,,,,,
+Test Cases/Smoke/TBP/SmokeTesting.CloseCaseLHS,Chrome 76.0.3809.132,,,2019-09-06 17:53:42,2019-09-06 17:54:33,50.762s,PASSED
+"callTestCase(findTestCase(""Components/Login""), [""Username"":findTestData(""Datatable"").getValue(""Username"", 1), ""Password"":findTestData(""Datatable"").getValue(""Password"", 1)], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:53:42,2019-09-06 17:53:50,8.314s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToDashboard""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:53:50,2019-09-06 17:54:04,13.209s,PASSED
+"callTestCase(findTestCase(""Components/SearchTask""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:54:04,2019-09-06 17:54:25,21.101s,PASSED
+"callTestCase(findTestCase(""Components/NavigateToAnyLHS""), [""LHS"":""Close Case""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:54:25,2019-09-06 17:54:31,6.183s,PASSED
+"callTestCase(findTestCase(""Components/PopulateCloseCaseLHS""), [:], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:54:31,2019-09-06 17:54:31,0.000s,NOT_RUN
+"callTestCase(findTestCase(""Components/ClickBlueButtons""), [""buttonText"":""Close Case""], STOP_ON_FAILURE)",Chrome 76.0.3809.132,,,2019-09-06 17:54:31,2019-09-06 17:54:33,1.831s,PASSED

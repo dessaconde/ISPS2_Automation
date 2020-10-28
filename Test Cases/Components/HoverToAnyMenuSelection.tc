@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HoverToAnyMenuSelection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e4e3246-9916-4f71-85ae-23ad1166eb2f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>a4fd9ed3-c6c7-443c-9894-54b0783f09da</id>
+      <masked>false</masked>
+      <name>MenuSelection</name>
+   </variable>
+</TestCaseEntity>

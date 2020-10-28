@@ -1,0 +1,987 @@
+Search Value: CAT1 Found Value: CAT1 Mon Oct 19 19:14:08 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 19 19:14:24 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 19 19:14:29 SGT 2020
+Search Value: CAT1 Found Value: CAT1 null Tue Oct 20 10:28:11 SGT 2020
+Search Value: CAT2 Found Value: CAT2 null Tue Oct 20 10:28:28 SGT 2020
+Search Value: CAT3 Found Value: CAT3 null Tue Oct 20 10:28:33 SGT 2020
+Search Value: CAT1 Found Value: CAT1 null Tue Oct 20 10:32:08 SGT 2020
+Search Value: CAT2 Found Value: CAT2 null Tue Oct 20 10:32:25 SGT 2020
+Search Value: CAT3 Found Value: CAT3 null Tue Oct 20 10:32:31 SGT 2020
+Search Value: CAT1 Found Value: CAT1 null Tue Oct 20 10:34:05 SGT 2020
+Search Value: CAT2 Found Value: CAT2 null Tue Oct 20 10:34:18 SGT 2020
+Search Value: CAT3 Found Value: CAT3 null Tue Oct 20 10:34:24 SGT 2020
+Search Value: CAT1 Found Value: CAT1 null Tue Oct 20 10:42:20 SGT 2020
+Search Value: CAT2 Found Value: CAT2 null Tue Oct 20 10:42:36 SGT 2020
+Search Value: CAT3 Found Value: CAT3 null Tue Oct 20 10:42:42 SGT 2020
+Search Value: CAT1 Found Value: CAT1 null Tue Oct 20 10:45:24 SGT 2020
+Search Value: CAT2 Found Value: CAT2 null Tue Oct 20 10:45:43 SGT 2020
+Search Value: CAT3 Found Value: CAT3 null Tue Oct 20 10:45:49 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Tue Oct 20 10:54:51 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Tue Oct 20 10:55:09 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Tue Oct 20 10:55:16 SGT 2020
+Search Value: A Found Value: A Tue Oct 20 13:31:58 SGT 2020
+Search Value: B Found Value: B Tue Oct 20 13:32:15 SGT 2020
+Search Value: C Found Value: C Tue Oct 20 13:32:21 SGT 2020
+Search Value: D Found Value: D Tue Oct 20 13:32:26 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Tue Oct 20 13:32:32 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Tue Oct 20 13:32:38 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Tue Oct 20 13:32:43 SGT 2020
+Search Value: A Found Value: A Tue Oct 20 14:05:05 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Tue Oct 20 14:06:36 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Tue Oct 20 14:06:50 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Tue Oct 20 14:06:56 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Tue Oct 20 14:07:01 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Tue Oct 20 14:07:07 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Tue Oct 20 14:07:13 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Tue Oct 20 14:07:18 SGT 2020
+Search Value: Others Found Value: Others Tue Oct 20 14:07:25 SGT 2020
+Search Value: A Found Value: A Tue Oct 20 14:07:30 SGT 2020
+Search Value: B Found Value: B Tue Oct 20 14:07:35 SGT 2020
+Search Value: C Found Value: C Tue Oct 20 14:07:41 SGT 2020
+Search Value: D Found Value: D Tue Oct 20 14:07:46 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Tue Oct 20 14:07:51 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Tue Oct 20 14:07:57 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Tue Oct 20 14:08:02 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Tue Oct 20 14:57:26 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Tue Oct 20 14:57:42 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Tue Oct 20 14:57:48 SGT 2020
+Search Value: Government Found Value: Government Tue Oct 20 14:57:54 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Tue Oct 20 17:24:56 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Tue Oct 20 17:25:11 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Tue Oct 20 17:25:17 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Tue Oct 20 17:26:24 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Tue Oct 20 17:26:41 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Tue Oct 20 17:30:37 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Tue Oct 20 17:30:50 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Tue Oct 20 17:30:55 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Tue Oct 20 17:31:00 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Tue Oct 20 17:31:06 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Tue Oct 20 17:31:11 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Tue Oct 20 17:31:16 SGT 2020
+Search Value: Others Found Value: Others Tue Oct 20 17:31:21 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Tue Oct 20 18:51:36 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Tue Oct 20 18:51:48 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Tue Oct 20 18:51:53 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Tue Oct 20 18:51:59 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Tue Oct 20 18:52:04 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Tue Oct 20 18:52:09 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Tue Oct 20 18:52:14 SGT 2020
+Search Value: Others Found Value: Others Tue Oct 20 18:52:19 SGT 2020
+Search Value: A Found Value: A Tue Oct 20 18:52:25 SGT 2020
+Search Value: B Found Value: B Tue Oct 20 18:52:30 SGT 2020
+Search Value: C Found Value: C Tue Oct 20 18:52:35 SGT 2020
+Search Value: D Found Value: D Tue Oct 20 18:52:40 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Tue Oct 20 18:52:45 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Tue Oct 20 18:52:50 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Tue Oct 20 18:52:56 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Tue Oct 20 18:59:11 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Tue Oct 20 18:59:25 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Tue Oct 20 18:59:31 SGT 2020
+Search Value: Government Found Value: Government Tue Oct 20 18:59:37 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Tue Oct 20 19:06:38 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Tue Oct 20 19:06:50 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Tue Oct 20 19:06:56 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Tue Oct 20 19:07:01 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Tue Oct 20 19:07:07 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Tue Oct 20 19:07:12 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Tue Oct 20 19:07:17 SGT 2020
+Search Value: Others Found Value: Others Tue Oct 20 19:07:23 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Wed Oct 21 11:18:00 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Wed Oct 21 11:18:14 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Wed Oct 21 11:19:56 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Wed Oct 21 11:20:14 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Wed Oct 21 11:25:39 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Wed Oct 21 11:26:01 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Wed Oct 21 11:26:07 SGT 2020
+Search Value: Others Found Value: Others Wed Oct 21 11:26:13 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Wed Oct 21 17:14:18 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Wed Oct 21 17:14:32 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Wed Oct 21 17:14:37 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Wed Oct 21 17:14:43 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Wed Oct 21 17:14:49 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Wed Oct 21 17:14:55 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Wed Oct 21 17:15:00 SGT 2020
+Search Value: Others Found Value: Others Wed Oct 21 17:15:06 SGT 2020
+Search Value: A Found Value: A Wed Oct 21 17:15:11 SGT 2020
+Search Value: B Found Value: B Wed Oct 21 17:15:17 SGT 2020
+Search Value: C Found Value: C Wed Oct 21 17:15:22 SGT 2020
+Search Value: D Found Value: D Wed Oct 21 17:15:28 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Wed Oct 21 17:15:33 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Wed Oct 21 17:15:39 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Wed Oct 21 17:15:45 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Wed Oct 21 17:16:35 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Wed Oct 21 17:16:41 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Wed Oct 21 17:16:47 SGT 2020
+Search Value: Government Found Value: Government Wed Oct 21 17:16:54 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Wed Oct 21 17:18:59 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Wed Oct 21 17:19:05 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Wed Oct 21 17:19:10 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Wed Oct 21 17:19:16 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Wed Oct 21 17:19:21 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Wed Oct 21 17:19:27 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Wed Oct 21 17:19:33 SGT 2020
+Search Value: Others Found Value: Others Wed Oct 21 17:19:38 SGT 2020
+Search Value: Building Demolished Found Value: Building Demolished Wed Oct 21 17:52:19 SGT 2020
+Search Value: Building Does Not Existed Found Value: Building Does Not Existed Wed Oct 21 17:52:32 SGT 2020
+Search Value: Building Rebuilt Found Value: Building Rebuilt Wed Oct 21 17:52:37 SGT 2020
+Search Value: Others Found Value: Others Wed Oct 21 17:52:43 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Wed Oct 21 22:02:21 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Wed Oct 21 22:02:37 SGT 2020
+Search Value: ABBOTSINGH ROAD (ABB00H) Found Value: ABBOTSINGH ROAD (ABB00H) Wed Oct 21 22:02:43 SGT 2020
+Search Value: ABINGDON ROAD (ABI00L) Found Value: ABINGDON ROAD (ABI00L) Wed Oct 21 22:02:48 SGT 2020
+Search Value: ACCESS ROAD (ACC00Y) Found Value: ACCESS ROAD (ACC00Y) Wed Oct 21 22:02:54 SGT 2020
+Search Value: ADAM DRIVE (ADD00H) Found Value: ADAM DRIVE (ADD00H) Wed Oct 21 22:02:59 SGT 2020
+Search Value: ADAM PARK (ADP00K) Found Value: ADAM PARK (ADP00K) Wed Oct 21 22:03:04 SGT 2020
+Search Value: ADAM PLACE (ADP01G) Found Value: ADAM PLACE (ADP01G) Wed Oct 21 22:03:09 SGT 2020
+Search Value: ADAM ROAD (ADA00H) Found Value: ADAM ROAD (ADA00H) Wed Oct 21 22:03:14 SGT 2020
+Search Value: ADELPHI PARK ESTATE (ADE00Y) Found Value: ADELPHI PARK ESTATE (ADE00Y) Wed Oct 21 22:03:20 SGT 2020
+Search Value: ADEN COURT, WESSEX ESTATE (ADE01E) Found Value: ADEN COURT, WESSEX ESTATE (ADE01E) Wed Oct 21 22:03:25 SGT 2020
+Search Value: ADIS ROAD (ADI00Y) Found Value: ADIS ROAD (ADI00Y) Wed Oct 21 22:03:30 SGT 2020
+Search Value: ADMIRALTY DRIVE (ADD01P) Found Value: ADMIRALTY DRIVE (ADD01P) Wed Oct 21 22:03:35 SGT 2020
+Search Value: ADMIRALTY LANE (ADL00K) Found Value: ADMIRALTY LANE (ADL00K) Wed Oct 21 22:03:41 SGT 2020
+Search Value: ADMIRALTY LINK (ADL01U) Found Value: ADMIRALTY LINK (ADL01U) Wed Oct 21 22:03:46 SGT 2020
+Search Value: ADMIRALTY ROAD (ADM00K) Found Value: ADMIRALTY ROAD (ADM00K) Wed Oct 21 22:03:51 SGT 2020
+Search Value: ADMIRALTY ROAD EAST (ADE02U) Found Value: ADMIRALTY ROAD EAST (ADE02U) Wed Oct 21 22:03:56 SGT 2020
+Search Value: ADMIRALTY ROAD WEST (ADW00K) Found Value: ADMIRALTY ROAD WEST (ADW00K) Wed Oct 21 22:04:01 SGT 2020
+Search Value: ADMIRALTY STREET (ADS00N) Found Value: ADMIRALTY STREET (ADS00N) Wed Oct 21 22:04:06 SGT 2020
+Search Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Found Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Wed Oct 21 22:06:31 SGT 2020
+Search Value: ADUR ROAD - PULAU BRANI (ADB01L) Found Value: ADUR ROAD - PULAU BRANI (ADB01L) Wed Oct 21 22:06:45 SGT 2020
+Search Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Found Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Wed Oct 21 22:06:50 SGT 2020
+Search Value: AH HOOD ROAD (AHH00K) Found Value: AH HOOD ROAD (AHH00K) Wed Oct 21 22:06:56 SGT 2020
+Search Value: AH SOO GARDEN (AHG00Y) Found Value: AH SOO GARDEN (AHG00Y) Wed Oct 21 22:07:02 SGT 2020
+Search Value: AH SOO WALK (AHW00Y) Found Value: AH SOO WALK (AHW00Y) Wed Oct 21 22:07:07 SGT 2020
+Search Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Found Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Wed Oct 21 22:07:12 SGT 2020
+Search Value: AIDA STREET (AIS00U) Found Value: AIDA STREET (AIS00U) Wed Oct 21 22:07:17 SGT 2020
+Search Value: AIK HOE ROAD (AIH00U) Found Value: AIK HOE ROAD (AIH00U) Wed Oct 21 22:07:22 SGT 2020
+Search Value: AIR BASE ROAD (ZZZ99G) Found Value: AIR BASE ROAD (ZZZ99G) Wed Oct 21 22:07:27 SGT 2020
+Search Value: AIRLINE ROAD (AIR00U) Found Value: AIRLINE ROAD (AIR00U) Wed Oct 21 22:07:32 SGT 2020
+Search Value: AIRPORT BOULEVARD (AIB00L) Found Value: AIRPORT BOULEVARD (AIB00L) Wed Oct 21 22:07:37 SGT 2020
+Search Value: AIRPORT CARGO ROAD (AIC00K) Found Value: AIRPORT CARGO ROAD (AIC00K) Wed Oct 21 22:13:04 SGT 2020
+Search Value: AIRPORT LINK (ZZZ87F) Found Value: AIRPORT LINK (ZZZ87F) Wed Oct 21 22:13:17 SGT 2020
+Search Value: AIRPORT ROAD (AIR01Y) Found Value: AIRPORT ROAD (AIR01Y) Wed Oct 21 22:13:22 SGT 2020
+Search Value: AIRPORT SERVICE ROAD (ZZZ89X) Found Value: AIRPORT SERVICE ROAD (ZZZ89X) Wed Oct 21 22:13:28 SGT 2020
+Search Value: AKYAB ROAD (AKY00H) Found Value: AKYAB ROAD (AKY00H) Wed Oct 21 22:13:33 SGT 2020
+Search Value: ALBERT DOCK (ALD00K) Found Value: ALBERT DOCK (ALD00K) Wed Oct 21 22:13:39 SGT 2020
+Search Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Found Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Wed Oct 21 22:13:44 SGT 2020
+Search Value: ALBERT STREET (ALS01K) Found Value: ALBERT STREET (ALS01K) Wed Oct 21 22:13:49 SGT 2020
+Search Value: ALBERT WINSEMIUS LANE (ALL02Y) Found Value: ALBERT WINSEMIUS LANE (ALL02Y) Wed Oct 21 22:13:54 SGT 2020
+Search Value: ALDE ROAD - PULAU BRANI (ALB00U) Found Value: ALDE ROAD - PULAU BRANI (ALB00U) Wed Oct 21 22:13:59 SGT 2020
+Search Value: ALDERGROVE (ALD01U) Found Value: ALDERGROVE (ALD01U) Wed Oct 21 22:16:29 SGT 2020
+Search Value: ALEXANDRA AVENUE (ALA00U) Found Value: ALEXANDRA AVENUE (ALA00U) Wed Oct 21 22:16:46 SGT 2020
+Search Value: ALEXANDRA CLOSE (ALC00Y) Found Value: ALEXANDRA CLOSE (ALC00Y) Wed Oct 21 22:16:51 SGT 2020
+Search Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Found Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Wed Oct 21 22:16:57 SGT 2020
+Search Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Found Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Wed Oct 21 22:17:03 SGT 2020
+Search Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Found Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Wed Oct 21 22:17:08 SGT 2020
+Search Value: ALEXANDRA LANE (ALL00U) Found Value: ALEXANDRA LANE (ALL00U) Wed Oct 21 22:17:13 SGT 2020
+Search Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Found Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Wed Oct 21 22:17:18 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Wed Oct 21 22:22:48 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Wed Oct 21 22:30:43 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Wed Oct 21 22:40:55 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Wed Oct 21 22:43:25 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Wed Oct 21 22:43:38 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 10:27:13 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 10:27:26 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 10:27:31 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 10:27:37 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 10:27:42 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 10:27:47 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 10:27:52 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 10:27:57 SGT 2020
+Search Value: A Found Value: A Thu Oct 22 10:28:02 SGT 2020
+Search Value: B Found Value: B Thu Oct 22 10:28:07 SGT 2020
+Search Value: C Found Value: C Thu Oct 22 10:28:12 SGT 2020
+Search Value: D Found Value: D Thu Oct 22 10:28:17 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Thu Oct 22 10:28:22 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Thu Oct 22 10:28:27 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Thu Oct 22 10:28:32 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Thu Oct 22 10:29:26 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Thu Oct 22 10:29:33 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Thu Oct 22 10:29:39 SGT 2020
+Search Value: Government Found Value: Government Thu Oct 22 10:29:45 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 10:33:30 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 10:33:45 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 10:33:50 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 10:33:56 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 10:34:02 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 10:34:07 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 10:34:12 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 10:34:17 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Thu Oct 22 10:45:58 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Thu Oct 22 10:46:13 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Thu Oct 22 10:46:19 SGT 2020
+Search Value: ABBOTSINGH ROAD (ABB00H) Found Value: ABBOTSINGH ROAD (ABB00H) Thu Oct 22 10:46:24 SGT 2020
+Search Value: ABINGDON ROAD (ABI00L) Found Value: ABINGDON ROAD (ABI00L) Thu Oct 22 10:46:30 SGT 2020
+Search Value: ACCESS ROAD (ACC00Y) Found Value: ACCESS ROAD (ACC00Y) Thu Oct 22 10:46:35 SGT 2020
+Search Value: ADAM DRIVE (ADD00H) Found Value: ADAM DRIVE (ADD00H) Thu Oct 22 10:46:40 SGT 2020
+Search Value: ADAM PARK (ADP00K) Found Value: ADAM PARK (ADP00K) Thu Oct 22 10:46:46 SGT 2020
+Search Value: ADAM PLACE (ADP01G) Found Value: ADAM PLACE (ADP01G) Thu Oct 22 10:46:51 SGT 2020
+Search Value: ADAM ROAD (ADA00H) Found Value: ADAM ROAD (ADA00H) Thu Oct 22 10:46:56 SGT 2020
+Search Value: ADELPHI PARK ESTATE (ADE00Y) Found Value: ADELPHI PARK ESTATE (ADE00Y) Thu Oct 22 10:47:02 SGT 2020
+Search Value: ADEN COURT, WESSEX ESTATE (ADE01E) Found Value: ADEN COURT, WESSEX ESTATE (ADE01E) Thu Oct 22 10:47:07 SGT 2020
+Search Value: ADIS ROAD (ADI00Y) Found Value: ADIS ROAD (ADI00Y) Thu Oct 22 10:47:12 SGT 2020
+Search Value: ADMIRALTY DRIVE (ADD01P) Found Value: ADMIRALTY DRIVE (ADD01P) Thu Oct 22 10:47:17 SGT 2020
+Search Value: ADMIRALTY LANE (ADL00K) Found Value: ADMIRALTY LANE (ADL00K) Thu Oct 22 10:47:22 SGT 2020
+Search Value: ADMIRALTY LINK (ADL01U) Found Value: ADMIRALTY LINK (ADL01U) Thu Oct 22 10:47:28 SGT 2020
+Search Value: ADMIRALTY ROAD (ADM00K) Found Value: ADMIRALTY ROAD (ADM00K) Thu Oct 22 10:47:33 SGT 2020
+Search Value: ADMIRALTY ROAD EAST (ADE02U) Found Value: ADMIRALTY ROAD EAST (ADE02U) Thu Oct 22 10:47:38 SGT 2020
+Search Value: ADMIRALTY ROAD WEST (ADW00K) Found Value: ADMIRALTY ROAD WEST (ADW00K) Thu Oct 22 10:47:43 SGT 2020
+Search Value: ADMIRALTY STREET (ADS00N) Found Value: ADMIRALTY STREET (ADS00N) Thu Oct 22 10:47:48 SGT 2020
+Search Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Found Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Thu Oct 22 10:47:53 SGT 2020
+Search Value: ADUR ROAD - PULAU BRANI (ADB01L) Found Value: ADUR ROAD - PULAU BRANI (ADB01L) Thu Oct 22 10:47:58 SGT 2020
+Search Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Found Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Thu Oct 22 10:48:03 SGT 2020
+Search Value: AH HOOD ROAD (AHH00K) Found Value: AH HOOD ROAD (AHH00K) Thu Oct 22 10:48:08 SGT 2020
+Search Value: AH SOO GARDEN (AHG00Y) Found Value: AH SOO GARDEN (AHG00Y) Thu Oct 22 10:48:13 SGT 2020
+Search Value: AH SOO WALK (AHW00Y) Found Value: AH SOO WALK (AHW00Y) Thu Oct 22 10:48:18 SGT 2020
+Search Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Found Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Thu Oct 22 10:48:24 SGT 2020
+Search Value: AIDA STREET (AIS00U) Found Value: AIDA STREET (AIS00U) Thu Oct 22 10:48:29 SGT 2020
+Search Value: AIK HOE ROAD (AIH00U) Found Value: AIK HOE ROAD (AIH00U) Thu Oct 22 10:48:34 SGT 2020
+Search Value: AIR BASE ROAD (ZZZ99G) Found Value: AIR BASE ROAD (ZZZ99G) Thu Oct 22 10:48:39 SGT 2020
+Search Value: AIRLINE ROAD (AIR00U) Found Value: AIRLINE ROAD (AIR00U) Thu Oct 22 10:48:44 SGT 2020
+Search Value: AIRPORT BOULEVARD (AIB00L) Found Value: AIRPORT BOULEVARD (AIB00L) Thu Oct 22 10:48:49 SGT 2020
+Search Value: AIRPORT CARGO ROAD (AIC00K) Found Value: AIRPORT CARGO ROAD (AIC00K) Thu Oct 22 10:48:54 SGT 2020
+Search Value: AIRPORT LINK (ZZZ87F) Found Value: AIRPORT LINK (ZZZ87F) Thu Oct 22 10:48:59 SGT 2020
+Search Value: AIRPORT ROAD (AIR01Y) Found Value: AIRPORT ROAD (AIR01Y) Thu Oct 22 10:49:04 SGT 2020
+Search Value: AIRPORT SERVICE ROAD (ZZZ89X) Found Value: AIRPORT SERVICE ROAD (ZZZ89X) Thu Oct 22 10:49:09 SGT 2020
+Search Value: AKYAB ROAD (AKY00H) Found Value: AKYAB ROAD (AKY00H) Thu Oct 22 10:49:14 SGT 2020
+Search Value: ALBERT DOCK (ALD00K) Found Value: ALBERT DOCK (ALD00K) Thu Oct 22 10:49:19 SGT 2020
+Search Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Found Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Thu Oct 22 10:49:24 SGT 2020
+Search Value: ALBERT STREET (ALS01K) Found Value: ALBERT STREET (ALS01K) Thu Oct 22 10:49:29 SGT 2020
+Search Value: ALBERT WINSEMIUS LANE (ALL02Y) Found Value: ALBERT WINSEMIUS LANE (ALL02Y) Thu Oct 22 10:49:34 SGT 2020
+Search Value: ALDE ROAD - PULAU BRANI (ALB00U) Found Value: ALDE ROAD - PULAU BRANI (ALB00U) Thu Oct 22 10:49:39 SGT 2020
+Search Value: ALDERGROVE (ALD01U) Found Value: ALDERGROVE (ALD01U) Thu Oct 22 10:49:44 SGT 2020
+Search Value: ALEXANDRA AVENUE (ALA00U) Found Value: ALEXANDRA AVENUE (ALA00U) Thu Oct 22 10:49:49 SGT 2020
+Search Value: ALEXANDRA CLOSE (ALC00Y) Found Value: ALEXANDRA CLOSE (ALC00Y) Thu Oct 22 10:49:54 SGT 2020
+Search Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Found Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Thu Oct 22 10:49:59 SGT 2020
+Search Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Found Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Thu Oct 22 10:50:04 SGT 2020
+Search Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Found Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Thu Oct 22 10:50:09 SGT 2020
+Search Value: ALEXANDRA LANE (ALL00U) Found Value: ALEXANDRA LANE (ALL00U) Thu Oct 22 10:50:14 SGT 2020
+Search Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Found Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Thu Oct 22 10:50:19 SGT 2020
+Search Value: Building Demolished Found Value: Building Demolished Thu Oct 22 10:57:58 SGT 2020
+Search Value: Building Does Not Existed Found Value: Building Does Not Existed Thu Oct 22 10:58:11 SGT 2020
+Search Value: Building Rebuilt Found Value: Building Rebuilt Thu Oct 22 10:58:17 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 10:58:22 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 11:36:27 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 11:36:40 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 11:36:45 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 11:36:50 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 11:36:55 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 11:37:00 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 11:37:05 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 11:37:10 SGT 2020
+Search Value: A Found Value: A Thu Oct 22 11:37:15 SGT 2020
+Search Value: B Found Value: B Thu Oct 22 11:37:20 SGT 2020
+Search Value: C Found Value: C Thu Oct 22 11:37:25 SGT 2020
+Search Value: D Found Value: D Thu Oct 22 11:37:30 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Thu Oct 22 11:37:35 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Thu Oct 22 11:37:40 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Thu Oct 22 11:37:45 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Thu Oct 22 11:40:02 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Thu Oct 22 11:40:19 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Thu Oct 22 11:40:25 SGT 2020
+Search Value: Government Found Value: Government Thu Oct 22 11:40:31 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 11:44:57 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 11:45:14 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 11:45:20 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 11:45:26 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 11:45:31 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 11:45:36 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 11:45:41 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 11:45:46 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Thu Oct 22 11:47:54 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Thu Oct 22 12:23:14 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Thu Oct 22 12:23:28 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Thu Oct 22 12:23:33 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 12:26:57 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 12:27:11 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 12:27:16 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 12:27:21 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 12:27:26 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 12:27:31 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 12:27:36 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 12:27:41 SGT 2020
+Search Value: A Found Value: A Thu Oct 22 12:27:46 SGT 2020
+Search Value: B Found Value: B Thu Oct 22 12:27:51 SGT 2020
+Search Value: C Found Value: C Thu Oct 22 12:27:56 SGT 2020
+Search Value: D Found Value: D Thu Oct 22 12:28:01 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Thu Oct 22 12:28:06 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Thu Oct 22 12:28:11 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Thu Oct 22 12:28:16 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Thu Oct 22 12:31:34 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Thu Oct 22 12:31:48 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Thu Oct 22 12:31:54 SGT 2020
+Search Value: Government Found Value: Government Thu Oct 22 12:31:59 SGT 2020
+Search Value:  Found Value:  Thu Oct 22 12:45:10 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 12:45:22 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 12:45:28 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 12:53:58 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 12:54:10 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 12:54:15 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 12:54:19 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 12:54:24 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 12:54:29 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 12:54:33 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 12:54:38 SGT 2020
+Search Value: A Found Value: A Thu Oct 22 12:54:43 SGT 2020
+Search Value: B Found Value: B Thu Oct 22 12:54:48 SGT 2020
+Search Value: C Found Value: C Thu Oct 22 12:54:52 SGT 2020
+Search Value: D Found Value: D Thu Oct 22 12:54:57 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 12:58:20 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 12:58:32 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 12:58:37 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 12:58:42 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 12:58:46 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 12:58:51 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 12:58:55 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 12:59:00 SGT 2020
+Search Value: A Found Value: A Thu Oct 22 12:59:05 SGT 2020
+Search Value: B Found Value: B Thu Oct 22 12:59:09 SGT 2020
+Search Value: C Found Value: C Thu Oct 22 12:59:14 SGT 2020
+Search Value: D Found Value: D Thu Oct 22 12:59:18 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Thu Oct 22 12:59:23 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Thu Oct 22 12:59:28 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Thu Oct 22 12:59:32 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 13:33:50 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 13:34:02 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 13:34:07 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 13:34:12 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 13:34:17 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 13:34:22 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 13:34:26 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 13:34:31 SGT 2020
+Search Value: A Found Value: A Thu Oct 22 13:34:36 SGT 2020
+Search Value: B Found Value: B Thu Oct 22 13:34:40 SGT 2020
+Search Value: C Found Value: C Thu Oct 22 13:34:45 SGT 2020
+Search Value: D Found Value: D Thu Oct 22 13:34:50 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Thu Oct 22 13:34:55 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Thu Oct 22 13:34:59 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Thu Oct 22 13:35:04 SGT 2020
+Search Value: MC / MCST Found Value: MC / MCST Thu Oct 22 13:35:59 SGT 2020
+Search Value: SINGLE Found Value: SINGLE Thu Oct 22 13:36:05 SGT 2020
+Search Value: MULTIPLE Found Value: MULTIPLE Thu Oct 22 13:36:10 SGT 2020
+Search Value: Government Found Value: Government Thu Oct 22 13:36:15 SGT 2020
+Search Value:  Found Value:  Thu Oct 22 13:38:31 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 13:41:47 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 13:42:01 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 13:42:06 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 13:42:10 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 13:42:16 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 13:42:20 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 13:42:25 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 13:42:30 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Thu Oct 22 13:43:53 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Thu Oct 22 13:44:07 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Thu Oct 22 13:44:12 SGT 2020
+Search Value: ABBOTSINGH ROAD (ABB00H) Found Value: ABBOTSINGH ROAD (ABB00H) Thu Oct 22 13:44:18 SGT 2020
+Search Value: ABINGDON ROAD (ABI00L) Found Value: ABINGDON ROAD (ABI00L) Thu Oct 22 13:44:22 SGT 2020
+Search Value: ACCESS ROAD (ACC00Y) Found Value: ACCESS ROAD (ACC00Y) Thu Oct 22 13:44:27 SGT 2020
+Search Value: ADAM DRIVE (ADD00H) Found Value: ADAM DRIVE (ADD00H) Thu Oct 22 13:44:32 SGT 2020
+Search Value: ADAM PARK (ADP00K) Found Value: ADAM PARK (ADP00K) Thu Oct 22 13:44:37 SGT 2020
+Search Value: ADAM PLACE (ADP01G) Found Value: ADAM PLACE (ADP01G) Thu Oct 22 13:44:42 SGT 2020
+Search Value: ADAM ROAD (ADA00H) Found Value: ADAM ROAD (ADA00H) Thu Oct 22 13:44:47 SGT 2020
+Search Value: ADELPHI PARK ESTATE (ADE00Y) Found Value: ADELPHI PARK ESTATE (ADE00Y) Thu Oct 22 13:44:51 SGT 2020
+Search Value: ADEN COURT, WESSEX ESTATE (ADE01E) Found Value: ADEN COURT, WESSEX ESTATE (ADE01E) Thu Oct 22 13:44:56 SGT 2020
+Search Value: ADIS ROAD (ADI00Y) Found Value: ADIS ROAD (ADI00Y) Thu Oct 22 13:45:02 SGT 2020
+Search Value: ADMIRALTY DRIVE (ADD01P) Found Value: ADMIRALTY DRIVE (ADD01P) Thu Oct 22 13:45:07 SGT 2020
+Search Value: ADMIRALTY LANE (ADL00K) Found Value: ADMIRALTY LANE (ADL00K) Thu Oct 22 13:45:12 SGT 2020
+Search Value: ADMIRALTY LINK (ADL01U) Found Value: ADMIRALTY LINK (ADL01U) Thu Oct 22 13:45:16 SGT 2020
+Search Value: ADMIRALTY ROAD (ADM00K) Found Value: ADMIRALTY ROAD (ADM00K) Thu Oct 22 13:45:21 SGT 2020
+Search Value: ADMIRALTY ROAD EAST (ADE02U) Found Value: ADMIRALTY ROAD EAST (ADE02U) Thu Oct 22 13:45:26 SGT 2020
+Search Value: ADMIRALTY ROAD WEST (ADW00K) Found Value: ADMIRALTY ROAD WEST (ADW00K) Thu Oct 22 13:45:30 SGT 2020
+Search Value: ADMIRALTY STREET (ADS00N) Found Value: ADMIRALTY STREET (ADS00N) Thu Oct 22 13:45:35 SGT 2020
+Search Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Found Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Thu Oct 22 13:45:40 SGT 2020
+Search Value: ADUR ROAD - PULAU BRANI (ADB01L) Found Value: ADUR ROAD - PULAU BRANI (ADB01L) Thu Oct 22 13:45:44 SGT 2020
+Search Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Found Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Thu Oct 22 13:45:49 SGT 2020
+Search Value: AH HOOD ROAD (AHH00K) Found Value: AH HOOD ROAD (AHH00K) Thu Oct 22 13:45:54 SGT 2020
+Search Value: AH SOO GARDEN (AHG00Y) Found Value: AH SOO GARDEN (AHG00Y) Thu Oct 22 13:45:58 SGT 2020
+Search Value: AH SOO WALK (AHW00Y) Found Value: AH SOO WALK (AHW00Y) Thu Oct 22 13:46:03 SGT 2020
+Search Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Found Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Thu Oct 22 13:46:08 SGT 2020
+Search Value: AIDA STREET (AIS00U) Found Value: AIDA STREET (AIS00U) Thu Oct 22 13:46:12 SGT 2020
+Search Value: AIK HOE ROAD (AIH00U) Found Value: AIK HOE ROAD (AIH00U) Thu Oct 22 13:46:17 SGT 2020
+Search Value: AIR BASE ROAD (ZZZ99G) Found Value: AIR BASE ROAD (ZZZ99G) Thu Oct 22 13:46:21 SGT 2020
+Search Value: AIRLINE ROAD (AIR00U) Found Value: AIRLINE ROAD (AIR00U) Thu Oct 22 13:46:26 SGT 2020
+Search Value: AIRPORT BOULEVARD (AIB00L) Found Value: AIRPORT BOULEVARD (AIB00L) Thu Oct 22 13:46:31 SGT 2020
+Search Value: AIRPORT CARGO ROAD (AIC00K) Found Value: AIRPORT CARGO ROAD (AIC00K) Thu Oct 22 13:46:35 SGT 2020
+Search Value: AIRPORT LINK (ZZZ87F) Found Value: AIRPORT LINK (ZZZ87F) Thu Oct 22 13:46:40 SGT 2020
+Search Value: AIRPORT ROAD (AIR01Y) Found Value: AIRPORT ROAD (AIR01Y) Thu Oct 22 13:46:45 SGT 2020
+Search Value: AIRPORT SERVICE ROAD (ZZZ89X) Found Value: AIRPORT SERVICE ROAD (ZZZ89X) Thu Oct 22 13:46:50 SGT 2020
+Search Value: AKYAB ROAD (AKY00H) Found Value: AKYAB ROAD (AKY00H) Thu Oct 22 13:46:55 SGT 2020
+Search Value: ALBERT DOCK (ALD00K) Found Value: ALBERT DOCK (ALD00K) Thu Oct 22 13:47:00 SGT 2020
+Search Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Found Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Thu Oct 22 13:47:04 SGT 2020
+Search Value: ALBERT STREET (ALS01K) Found Value: ALBERT STREET (ALS01K) Thu Oct 22 13:47:09 SGT 2020
+Search Value: ALBERT WINSEMIUS LANE (ALL02Y) Found Value: ALBERT WINSEMIUS LANE (ALL02Y) Thu Oct 22 13:47:14 SGT 2020
+Search Value: ALDE ROAD - PULAU BRANI (ALB00U) Found Value: ALDE ROAD - PULAU BRANI (ALB00U) Thu Oct 22 13:47:18 SGT 2020
+Search Value: ALDERGROVE (ALD01U) Found Value: ALDERGROVE (ALD01U) Thu Oct 22 13:47:23 SGT 2020
+Search Value: ALEXANDRA AVENUE (ALA00U) Found Value: ALEXANDRA AVENUE (ALA00U) Thu Oct 22 13:47:27 SGT 2020
+Search Value: ALEXANDRA CLOSE (ALC00Y) Found Value: ALEXANDRA CLOSE (ALC00Y) Thu Oct 22 13:47:32 SGT 2020
+Search Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Found Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Thu Oct 22 13:47:36 SGT 2020
+Search Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Found Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Thu Oct 22 13:47:41 SGT 2020
+Search Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Found Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Thu Oct 22 13:47:46 SGT 2020
+Search Value: ALEXANDRA LANE (ALL00U) Found Value: ALEXANDRA LANE (ALL00U) Thu Oct 22 13:47:50 SGT 2020
+Search Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Found Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Thu Oct 22 13:47:55 SGT 2020
+Search Value: Building Demolished Found Value: Building Demolished Thu Oct 22 13:51:40 SGT 2020
+Search Value: Building Does Not Existed Found Value: Building Does Not Existed Thu Oct 22 13:51:45 SGT 2020
+Search Value: Building Rebuilt Found Value: Building Rebuilt Thu Oct 22 13:51:50 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 13:51:55 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 15:11:40 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 15:11:53 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 15:11:58 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 15:19:23 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 15:19:36 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 15:19:40 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 15:19:46 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 15:19:51 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 15:19:56 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 15:20:02 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 15:20:06 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Thu Oct 22 15:24:56 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Thu Oct 22 15:25:09 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Thu Oct 22 15:25:15 SGT 2020
+Search Value: ABBOTSINGH ROAD (ABB00H) Found Value: ABBOTSINGH ROAD (ABB00H) Thu Oct 22 15:25:22 SGT 2020
+Search Value: ABINGDON ROAD (ABI00L) Found Value: ABINGDON ROAD (ABI00L) Thu Oct 22 15:25:28 SGT 2020
+Search Value: ACCESS ROAD (ACC00Y) Found Value: ACCESS ROAD (ACC00Y) Thu Oct 22 15:25:34 SGT 2020
+Search Value: ADAM DRIVE (ADD00H) Found Value: ADAM DRIVE (ADD00H) Thu Oct 22 15:25:40 SGT 2020
+Search Value: ADAM PARK (ADP00K) Found Value: ADAM PARK (ADP00K) Thu Oct 22 15:25:45 SGT 2020
+Search Value: ADAM PLACE (ADP01G) Found Value: ADAM PLACE (ADP01G) Thu Oct 22 15:25:51 SGT 2020
+Search Value: ADAM ROAD (ADA00H) Found Value: ADAM ROAD (ADA00H) Thu Oct 22 15:25:57 SGT 2020
+Search Value: ADELPHI PARK ESTATE (ADE00Y) Found Value: ADELPHI PARK ESTATE (ADE00Y) Thu Oct 22 15:26:02 SGT 2020
+Search Value: ADEN COURT, WESSEX ESTATE (ADE01E) Found Value: ADEN COURT, WESSEX ESTATE (ADE01E) Thu Oct 22 15:26:08 SGT 2020
+Search Value: ADIS ROAD (ADI00Y) Found Value: ADIS ROAD (ADI00Y) Thu Oct 22 15:26:14 SGT 2020
+Search Value: ADMIRALTY DRIVE (ADD01P) Found Value: ADMIRALTY DRIVE (ADD01P) Thu Oct 22 15:26:19 SGT 2020
+Search Value: ADMIRALTY LANE (ADL00K) Found Value: ADMIRALTY LANE (ADL00K) Thu Oct 22 15:26:25 SGT 2020
+Search Value: ADMIRALTY LINK (ADL01U) Found Value: ADMIRALTY LINK (ADL01U) Thu Oct 22 15:26:30 SGT 2020
+Search Value: ADMIRALTY ROAD (ADM00K) Found Value: ADMIRALTY ROAD (ADM00K) Thu Oct 22 15:26:36 SGT 2020
+Search Value: ADMIRALTY ROAD EAST (ADE02U) Found Value: ADMIRALTY ROAD EAST (ADE02U) Thu Oct 22 15:26:41 SGT 2020
+Search Value: ADMIRALTY ROAD WEST (ADW00K) Found Value: ADMIRALTY ROAD WEST (ADW00K) Thu Oct 22 15:26:46 SGT 2020
+Search Value: ADMIRALTY STREET (ADS00N) Found Value: ADMIRALTY STREET (ADS00N) Thu Oct 22 15:26:52 SGT 2020
+Search Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Found Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Thu Oct 22 15:26:57 SGT 2020
+Search Value: ADUR ROAD - PULAU BRANI (ADB01L) Found Value: ADUR ROAD - PULAU BRANI (ADB01L) Thu Oct 22 15:27:03 SGT 2020
+Search Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Found Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Thu Oct 22 15:27:08 SGT 2020
+Search Value: AH HOOD ROAD (AHH00K) Found Value: AH HOOD ROAD (AHH00K) Thu Oct 22 15:27:14 SGT 2020
+Search Value: AH SOO GARDEN (AHG00Y) Found Value: AH SOO GARDEN (AHG00Y) Thu Oct 22 15:27:19 SGT 2020
+Search Value: AH SOO WALK (AHW00Y) Found Value: AH SOO WALK (AHW00Y) Thu Oct 22 15:27:24 SGT 2020
+Search Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Found Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Thu Oct 22 15:27:30 SGT 2020
+Search Value: AIDA STREET (AIS00U) Found Value: AIDA STREET (AIS00U) Thu Oct 22 15:27:35 SGT 2020
+Search Value: AIK HOE ROAD (AIH00U) Found Value: AIK HOE ROAD (AIH00U) Thu Oct 22 15:27:41 SGT 2020
+Search Value: AIR BASE ROAD (ZZZ99G) Found Value: AIR BASE ROAD (ZZZ99G) Thu Oct 22 15:27:46 SGT 2020
+Search Value: AIRLINE ROAD (AIR00U) Found Value: AIRLINE ROAD (AIR00U) Thu Oct 22 15:27:51 SGT 2020
+Search Value: AIRPORT BOULEVARD (AIB00L) Found Value: AIRPORT BOULEVARD (AIB00L) Thu Oct 22 15:27:56 SGT 2020
+Search Value: AIRPORT CARGO ROAD (AIC00K) Found Value: AIRPORT CARGO ROAD (AIC00K) Thu Oct 22 15:28:01 SGT 2020
+Search Value: AIRPORT LINK (ZZZ87F) Found Value: AIRPORT LINK (ZZZ87F) Thu Oct 22 15:28:06 SGT 2020
+Search Value: AIRPORT ROAD (AIR01Y) Found Value: AIRPORT ROAD (AIR01Y) Thu Oct 22 15:28:12 SGT 2020
+Search Value: AIRPORT SERVICE ROAD (ZZZ89X) Found Value: AIRPORT SERVICE ROAD (ZZZ89X) Thu Oct 22 15:28:17 SGT 2020
+Search Value: AKYAB ROAD (AKY00H) Found Value: AKYAB ROAD (AKY00H) Thu Oct 22 15:28:22 SGT 2020
+Search Value: ALBERT DOCK (ALD00K) Found Value: ALBERT DOCK (ALD00K) Thu Oct 22 15:28:27 SGT 2020
+Search Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Found Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Thu Oct 22 15:28:32 SGT 2020
+Search Value: ALBERT STREET (ALS01K) Found Value: ALBERT STREET (ALS01K) Thu Oct 22 15:28:37 SGT 2020
+Search Value: ALBERT WINSEMIUS LANE (ALL02Y) Found Value: ALBERT WINSEMIUS LANE (ALL02Y) Thu Oct 22 15:28:42 SGT 2020
+Search Value: ALDE ROAD - PULAU BRANI (ALB00U) Found Value: ALDE ROAD - PULAU BRANI (ALB00U) Thu Oct 22 15:28:47 SGT 2020
+Search Value: ALDERGROVE (ALD01U) Found Value: ALDERGROVE (ALD01U) Thu Oct 22 15:28:51 SGT 2020
+Search Value: ALEXANDRA AVENUE (ALA00U) Found Value: ALEXANDRA AVENUE (ALA00U) Thu Oct 22 15:28:56 SGT 2020
+Search Value: ALEXANDRA CLOSE (ALC00Y) Found Value: ALEXANDRA CLOSE (ALC00Y) Thu Oct 22 15:29:01 SGT 2020
+Search Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Found Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Thu Oct 22 15:29:06 SGT 2020
+Search Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Found Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Thu Oct 22 15:29:10 SGT 2020
+Search Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Found Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Thu Oct 22 15:29:16 SGT 2020
+Search Value: ALEXANDRA LANE (ALL00U) Found Value: ALEXANDRA LANE (ALL00U) Thu Oct 22 15:29:21 SGT 2020
+Search Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Found Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Thu Oct 22 15:29:26 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 17:14:30 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 17:14:43 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 17:14:48 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 17:14:53 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 17:14:57 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 17:15:02 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 17:15:07 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 17:15:11 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Thu Oct 22 17:28:46 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Thu Oct 22 17:29:00 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Thu Oct 22 17:29:05 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Thu Oct 22 17:29:10 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Thu Oct 22 17:29:14 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Thu Oct 22 17:29:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Thu Oct 22 17:29:23 SGT 2020
+Search Value: Others Found Value: Others Thu Oct 22 17:29:28 SGT 2020
+Search Value: 12121212121212 (121212) Found Value: 12121212121212 (121212) Thu Oct 22 17:29:55 SGT 2020
+Search Value: 2322434234 (32323) Found Value: 2322434234 (32323) Thu Oct 22 17:29:58 SGT 2020
+Search Value: 234234234234 (232424) Found Value: 234234234234 (232424) Thu Oct 22 17:30:03 SGT 2020
+Search Value: ABBOTSINGH ROAD (ABB00H) Found Value: ABBOTSINGH ROAD (ABB00H) Thu Oct 22 17:30:07 SGT 2020
+Search Value: ABINGDON ROAD (ABI00L) Found Value: ABINGDON ROAD (ABI00L) Thu Oct 22 17:30:11 SGT 2020
+Search Value: ACCESS ROAD (ACC00Y) Found Value: ACCESS ROAD (ACC00Y) Thu Oct 22 17:30:16 SGT 2020
+Search Value: ADAM DRIVE (ADD00H) Found Value: ADAM DRIVE (ADD00H) Thu Oct 22 17:30:21 SGT 2020
+Search Value: ADAM PARK (ADP00K) Found Value: ADAM PARK (ADP00K) Thu Oct 22 17:30:25 SGT 2020
+Search Value: ADAM PLACE (ADP01G) Found Value: ADAM PLACE (ADP01G) Thu Oct 22 17:30:30 SGT 2020
+Search Value: ADAM ROAD (ADA00H) Found Value: ADAM ROAD (ADA00H) Thu Oct 22 17:30:34 SGT 2020
+Search Value: ADELPHI PARK ESTATE (ADE00Y) Found Value: ADELPHI PARK ESTATE (ADE00Y) Thu Oct 22 17:30:39 SGT 2020
+Search Value: ADEN COURT, WESSEX ESTATE (ADE01E) Found Value: ADEN COURT, WESSEX ESTATE (ADE01E) Thu Oct 22 17:30:43 SGT 2020
+Search Value: ADIS ROAD (ADI00Y) Found Value: ADIS ROAD (ADI00Y) Thu Oct 22 17:30:48 SGT 2020
+Search Value: ADMIRALTY DRIVE (ADD01P) Found Value: ADMIRALTY DRIVE (ADD01P) Thu Oct 22 17:30:52 SGT 2020
+Search Value: ADMIRALTY LANE (ADL00K) Found Value: ADMIRALTY LANE (ADL00K) Thu Oct 22 17:30:57 SGT 2020
+Search Value: ADMIRALTY LINK (ADL01U) Found Value: ADMIRALTY LINK (ADL01U) Thu Oct 22 17:31:01 SGT 2020
+Search Value: ADMIRALTY ROAD (ADM00K) Found Value: ADMIRALTY ROAD (ADM00K) Thu Oct 22 17:31:06 SGT 2020
+Search Value: ADMIRALTY ROAD EAST (ADE02U) Found Value: ADMIRALTY ROAD EAST (ADE02U) Thu Oct 22 17:31:10 SGT 2020
+Search Value: ADMIRALTY ROAD WEST (ADW00K) Found Value: ADMIRALTY ROAD WEST (ADW00K) Thu Oct 22 17:31:15 SGT 2020
+Search Value: ADMIRALTY STREET (ADS00N) Found Value: ADMIRALTY STREET (ADS00N) Thu Oct 22 17:31:19 SGT 2020
+Search Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Found Value: ADUR AVENUE - PULAU BRANI (ADB00Y) Thu Oct 22 17:31:24 SGT 2020
+Search Value: ADUR ROAD - PULAU BRANI (ADB01L) Found Value: ADUR ROAD - PULAU BRANI (ADB01L) Thu Oct 22 17:31:29 SGT 2020
+Search Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Found Value: ADVENTIST HOME FOR THE ELDERS, KIM KEAT AVENUE (ADA01S) Thu Oct 22 17:31:33 SGT 2020
+Search Value: AH HOOD ROAD (AHH00K) Found Value: AH HOOD ROAD (AHH00K) Thu Oct 22 17:31:38 SGT 2020
+Search Value: AH SOO GARDEN (AHG00Y) Found Value: AH SOO GARDEN (AHG00Y) Thu Oct 22 17:31:42 SGT 2020
+Search Value: AH SOO WALK (AHW00Y) Found Value: AH SOO WALK (AHW00Y) Thu Oct 22 17:31:46 SGT 2020
+Search Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Found Value: AHMADIYYA CEMETERY PATH 1 (AHP00D) Thu Oct 22 17:31:51 SGT 2020
+Search Value: AIDA STREET (AIS00U) Found Value: AIDA STREET (AIS00U) Thu Oct 22 17:31:55 SGT 2020
+Search Value: AIK HOE ROAD (AIH00U) Found Value: AIK HOE ROAD (AIH00U) Thu Oct 22 17:32:00 SGT 2020
+Search Value: AIR BASE ROAD (ZZZ99G) Found Value: AIR BASE ROAD (ZZZ99G) Thu Oct 22 17:32:04 SGT 2020
+Search Value: AIRLINE ROAD (AIR00U) Found Value: AIRLINE ROAD (AIR00U) Thu Oct 22 17:32:09 SGT 2020
+Search Value: AIRPORT BOULEVARD (AIB00L) Found Value: AIRPORT BOULEVARD (AIB00L) Thu Oct 22 17:32:13 SGT 2020
+Search Value: AIRPORT CARGO ROAD (AIC00K) Found Value: AIRPORT CARGO ROAD (AIC00K) Thu Oct 22 17:32:18 SGT 2020
+Search Value: AIRPORT LINK (ZZZ87F) Found Value: AIRPORT LINK (ZZZ87F) Thu Oct 22 17:32:22 SGT 2020
+Search Value: AIRPORT ROAD (AIR01Y) Found Value: AIRPORT ROAD (AIR01Y) Thu Oct 22 17:32:27 SGT 2020
+Search Value: AIRPORT SERVICE ROAD (ZZZ89X) Found Value: AIRPORT SERVICE ROAD (ZZZ89X) Thu Oct 22 17:32:31 SGT 2020
+Search Value: AKYAB ROAD (AKY00H) Found Value: AKYAB ROAD (AKY00H) Thu Oct 22 17:32:36 SGT 2020
+Search Value: ALBERT DOCK (ALD00K) Found Value: ALBERT DOCK (ALD00K) Thu Oct 22 17:32:40 SGT 2020
+Search Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Found Value: ALBERT HOUSE, ALBERT STREET (ALS00D) Thu Oct 22 17:32:45 SGT 2020
+Search Value: ALBERT STREET (ALS01K) Found Value: ALBERT STREET (ALS01K) Thu Oct 22 17:32:49 SGT 2020
+Search Value: ALBERT WINSEMIUS LANE (ALL02Y) Found Value: ALBERT WINSEMIUS LANE (ALL02Y) Thu Oct 22 17:32:54 SGT 2020
+Search Value: ALDE ROAD - PULAU BRANI (ALB00U) Found Value: ALDE ROAD - PULAU BRANI (ALB00U) Thu Oct 22 17:32:58 SGT 2020
+Search Value: ALDERGROVE (ALD01U) Found Value: ALDERGROVE (ALD01U) Thu Oct 22 17:33:03 SGT 2020
+Search Value: ALEXANDRA AVENUE (ALA00U) Found Value: ALEXANDRA AVENUE (ALA00U) Thu Oct 22 17:33:07 SGT 2020
+Search Value: ALEXANDRA CLOSE (ALC00Y) Found Value: ALEXANDRA CLOSE (ALC00Y) Thu Oct 22 17:33:12 SGT 2020
+Search Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Found Value: ALEXANDRA ESTATE PRIMARY SCHOOL, PRINCE CHARLES CRESCENT (ALC01Y) Thu Oct 22 17:33:16 SGT 2020
+Search Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Found Value: ALEXANDRA FIRE STATION QUARTERS, ALEXANDRA ROAD (ALA01Y) Thu Oct 22 17:33:21 SGT 2020
+Search Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Found Value: ALEXANDRA HOSPITAL, ALEXANDRA ROAD (ALA02U) Thu Oct 22 17:33:25 SGT 2020
+Search Value: ALEXANDRA LANE (ALL00U) Found Value: ALEXANDRA LANE (ALL00U) Thu Oct 22 17:33:30 SGT 2020
+Search Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Found Value: ALEXANDRA POST OFFICE QUARTERS, ALEXANDRA ROAD (ALA03N) Thu Oct 22 17:33:35 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Fri Oct 23 15:02:59 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Fri Oct 23 15:02:59 SGT 2020
+Search Value:  Found Value:  Fri Oct 23 15:05:06 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Fri Oct 23 15:05:06 SGT 2020
+Search Value: Others Found Value: Others Fri Oct 23 15:05:06 SGT 2020
+Search Value:  Found Value:  Fri Oct 23 15:11:55 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Fri Oct 23 15:11:55 SGT 2020
+Search Value: Others Found Value: Others Fri Oct 23 15:11:55 SGT 2020
+Search Value:  Found Value:  Fri Oct 23 18:17:50 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Fri Oct 23 18:17:50 SGT 2020
+Search Value: Dr Found Value: Dr Fri Oct 23 18:17:50 SGT 2020
+Search Value: Er Found Value: Er Fri Oct 23 18:17:50 SGT 2020
+Search Value: Mdm Found Value: Mdm Fri Oct 23 18:17:50 SGT 2020
+Search Value: Mr Found Value: Mr Fri Oct 23 18:17:50 SGT 2020
+Search Value: Mrs Found Value: Mrs Fri Oct 23 18:17:50 SGT 2020
+Search Value: Ms Found Value: Ms Fri Oct 23 18:17:50 SGT 2020
+Search Value: Prof Found Value: Prof Fri Oct 23 18:17:50 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 15:04:13 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 15:04:13 SGT 2020
+Search Value: Others Found Value: Others Mon Oct 26 15:04:13 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 15:15:04 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 15:15:04 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 15:15:04 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 15:15:04 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 15:15:04 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 16:50:15 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 16:50:15 SGT 2020
+Search Value: Others Found Value: Others Mon Oct 26 16:50:15 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 16:53:28 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 16:55:48 SGT 2020
+Search Value: A Found Value: A Mon Oct 26 16:55:48 SGT 2020
+Search Value: B Found Value: B Mon Oct 26 16:55:48 SGT 2020
+Search Value: C Found Value: C Mon Oct 26 16:55:48 SGT 2020
+Search Value: D Found Value: D Mon Oct 26 16:55:48 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 16:56:30 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Mon Oct 26 16:56:30 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 26 16:56:30 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 26 16:56:30 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 16:56:30 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 16:56:56 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 16:56:56 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 16:56:56 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 16:56:56 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 16:56:56 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 16:56:56 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 16:56:56 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 16:56:56 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 16:56:56 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 16:56:56 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 16:56:56 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 16:56:56 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 16:56:56 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 16:59:55 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 16:59:55 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 16:59:55 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 16:59:55 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 16:59:55 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 16:59:55 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 16:59:55 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 16:59:55 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 16:59:55 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 16:59:55 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 16:59:55 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 16:59:55 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 16:59:55 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 17:05:33 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 17:05:33 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 17:05:33 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 17:05:33 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 17:05:33 SGT 2020
+Search Value: plc Found Value: plc Mon Oct 26 17:05:33 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 17:05:33 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 17:05:33 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 17:05:33 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 17:05:33 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 17:05:33 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 17:05:33 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 17:05:33 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 17:05:33 SGT 2020
+Search Value: wq Found Value: wq Mon Oct 26 17:05:33 SGT 2020
+Search Value: XYZ Agency Found Value: XYZ Agency Mon Oct 26 17:05:33 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:07:39 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 17:39:47 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Non-Residential Commercial (NRC) Found Value: Non-Residential Commercial (NRC) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Non-Residential Industrial (NRID) Found Value: Non-Residential Industrial (NRID) Mon Oct 26 17:39:47 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 17:39:47 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 17:40:28 SGT 2020
+Search Value: A Found Value: A Mon Oct 26 17:40:28 SGT 2020
+Search Value: B Found Value: B Mon Oct 26 17:40:28 SGT 2020
+Search Value: C Found Value: C Mon Oct 26 17:40:28 SGT 2020
+Search Value: D Found Value: D Mon Oct 26 17:40:28 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 17:40:53 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Mon Oct 26 17:40:53 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 26 17:40:53 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 26 17:40:53 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 17:40:53 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 17:41:17 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 17:41:17 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 17:41:17 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 17:41:17 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 17:41:17 SGT 2020
+Search Value: plc Found Value: plc Mon Oct 26 17:41:17 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 17:41:17 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 17:41:17 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 17:41:17 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 17:41:17 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 17:41:17 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 17:41:17 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 17:41:17 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 17:41:17 SGT 2020
+Search Value: wq Found Value: wq Mon Oct 26 17:41:17 SGT 2020
+Search Value: XYZ Agency Found Value: XYZ Agency Mon Oct 26 17:41:17 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 17:43:05 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:06:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:06:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:06:44 SGT 2020
+Search Value: Others Found Value: Others Mon Oct 26 18:06:44 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:06:44 SGT 2020
+Search Value: Government-Industrial (GID) Found Value: Government-Industrial (GID) Mon Oct 26 18:06:44 SGT 2020
+Search Value: Government-Institution (GIS) Found Value: Government-Institution (GIS) Mon Oct 26 18:06:44 SGT 2020
+Search Value: Government Non-Residential (GNR) Found Value: Government Non-Residential (GNR) Mon Oct 26 18:06:44 SGT 2020
+Search Value: Government-Residential (GR) Found Value: Government-Residential (GR) Mon Oct 26 18:06:44 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:07:24 SGT 2020
+Search Value: A Found Value: A Mon Oct 26 18:07:24 SGT 2020
+Search Value: B Found Value: B Mon Oct 26 18:07:24 SGT 2020
+Search Value: C Found Value: C Mon Oct 26 18:07:24 SGT 2020
+Search Value: D Found Value: D Mon Oct 26 18:07:24 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:07:48 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Mon Oct 26 18:07:48 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 26 18:07:48 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 26 18:07:48 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:07:48 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 18:08:12 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 18:08:12 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 18:08:12 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 18:08:12 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 18:08:12 SGT 2020
+Search Value: plc Found Value: plc Mon Oct 26 18:08:12 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 18:08:12 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 18:08:12 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 18:08:12 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 18:08:12 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 18:08:12 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 18:08:12 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 18:08:12 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 18:08:12 SGT 2020
+Search Value: wq Found Value: wq Mon Oct 26 18:08:12 SGT 2020
+Search Value: XYZ Agency Found Value: XYZ Agency Mon Oct 26 18:08:12 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:10:00 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:19:44 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:20:24 SGT 2020
+Search Value: A Found Value: A Mon Oct 26 18:20:24 SGT 2020
+Search Value: B Found Value: B Mon Oct 26 18:20:24 SGT 2020
+Search Value: C Found Value: C Mon Oct 26 18:20:24 SGT 2020
+Search Value: D Found Value: D Mon Oct 26 18:20:24 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:20:49 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Mon Oct 26 18:20:49 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 26 18:20:49 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 26 18:20:49 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:20:49 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 18:21:13 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 18:21:13 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 18:21:13 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 18:21:13 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 18:21:13 SGT 2020
+Search Value: plc Found Value: plc Mon Oct 26 18:21:13 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 18:21:13 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 18:21:13 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 18:21:13 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 18:21:13 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 18:21:13 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 18:21:13 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 18:21:13 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 18:21:13 SGT 2020
+Search Value: wq Found Value: wq Mon Oct 26 18:21:13 SGT 2020
+Search Value: XYZ Agency Found Value: XYZ Agency Mon Oct 26 18:21:13 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:23:01 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 18:40:28 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:41:07 SGT 2020
+Search Value: A Found Value: A Mon Oct 26 18:41:07 SGT 2020
+Search Value: B Found Value: B Mon Oct 26 18:41:07 SGT 2020
+Search Value: C Found Value: C Mon Oct 26 18:41:07 SGT 2020
+Search Value: D Found Value: D Mon Oct 26 18:41:07 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:41:31 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Mon Oct 26 18:41:31 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 26 18:41:31 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 26 18:41:31 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:41:31 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 18:41:55 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 18:41:55 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 18:41:55 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 18:41:55 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 18:41:55 SGT 2020
+Search Value: plc Found Value: plc Mon Oct 26 18:41:55 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 18:41:55 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 18:41:55 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 18:41:55 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 18:41:55 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 18:41:55 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 18:41:55 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 18:41:55 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 18:41:55 SGT 2020
+Search Value: wq Found Value: wq Mon Oct 26 18:41:55 SGT 2020
+Search Value: XYZ Agency Found Value: XYZ Agency Mon Oct 26 18:41:55 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 18:43:42 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value: Non-Residential Institution (NRIS) Found Value: Non-Residential Institution (NRIS) Mon Oct 26 19:02:19 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 19:02:59 SGT 2020
+Search Value: A Found Value: A Mon Oct 26 19:02:59 SGT 2020
+Search Value: B Found Value: B Mon Oct 26 19:02:59 SGT 2020
+Search Value: C Found Value: C Mon Oct 26 19:02:59 SGT 2020
+Search Value: D Found Value: D Mon Oct 26 19:02:59 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 19:03:23 SGT 2020
+Search Value: CAT1 Found Value: CAT1 Mon Oct 26 19:03:23 SGT 2020
+Search Value: CAT2 Found Value: CAT2 Mon Oct 26 19:03:23 SGT 2020
+Search Value: CAT3 Found Value: CAT3 Mon Oct 26 19:03:23 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 19:03:23 SGT 2020
+Search Value: aaaaaa Found Value: aaaaaa Mon Oct 26 19:03:47 SGT 2020
+Search Value: Agency 08072020 Found Value: Agency 08072020 Mon Oct 26 19:03:47 SGT 2020
+Search Value: Agency Test 5 Aug - 1 Found Value: Agency Test 5 Aug - 1 Mon Oct 26 19:03:47 SGT 2020
+Search Value: content Found Value: content Mon Oct 26 19:03:47 SGT 2020
+Search Value: new agencc Found Value: new agencc Mon Oct 26 19:03:47 SGT 2020
+Search Value: plc Found Value: plc Mon Oct 26 19:03:47 SGT 2020
+Search Value: ter Found Value: ter Mon Oct 26 19:03:47 SGT 2020
+Search Value: Tes5 Found Value: Tes5 Mon Oct 26 19:03:47 SGT 2020
+Search Value: test Found Value: test Mon Oct 26 19:03:47 SGT 2020
+Search Value: Test Agency PFI 1 New Found Value: Test Agency PFI 1 New Mon Oct 26 19:03:47 SGT 2020
+Search Value: test123323 Found Value: test123323 Mon Oct 26 19:03:47 SGT 2020
+Search Value: test213123 Found Value: test213123 Mon Oct 26 19:03:47 SGT 2020
+Search Value: test6 Found Value: test6 Mon Oct 26 19:03:47 SGT 2020
+Search Value: testing Found Value: testing Mon Oct 26 19:03:47 SGT 2020
+Search Value: wq Found Value: wq Mon Oct 26 19:03:47 SGT 2020
+Search Value: XYZ Agency Found Value: XYZ Agency Mon Oct 26 19:03:47 SGT 2020
+Search Value:  Found Value:  Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value: Government Found Value: Government Mon Oct 26 19:05:35 SGT 2020
+Search Value:  Found Value:  Tue Oct 27 10:40:30 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Tue Oct 27 10:40:30 SGT 2020
+Search Value: Dr Found Value: Dr Tue Oct 27 10:40:30 SGT 2020
+Search Value: Er Found Value: Er Tue Oct 27 10:40:30 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 10:40:30 SGT 2020
+Search Value: Mr Found Value: Mr Tue Oct 27 10:40:30 SGT 2020
+Search Value: Mrs Found Value: Mrs Tue Oct 27 10:40:30 SGT 2020
+Search Value: Ms Found Value: Ms Tue Oct 27 10:40:30 SGT 2020
+Search Value: Prof Found Value: Prof Tue Oct 27 10:40:30 SGT 2020
+Search Value:  Found Value:  Tue Oct 27 11:40:37 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Tue Oct 27 11:40:37 SGT 2020
+Search Value: Dr Found Value: Dr Tue Oct 27 11:40:37 SGT 2020
+Search Value: Er Found Value: Er Tue Oct 27 11:40:37 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 11:40:37 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 11:40:37 SGT 2020
+Search Value: Mr Found Value: Mr Tue Oct 27 11:40:37 SGT 2020
+Search Value: Mrs Found Value: Mrs Tue Oct 27 11:40:37 SGT 2020
+Search Value: Ms Found Value: Ms Tue Oct 27 11:40:37 SGT 2020
+Search Value:  Found Value:  Tue Oct 27 11:58:20 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Tue Oct 27 11:58:20 SGT 2020
+Search Value: Dr Found Value: Dr Tue Oct 27 11:58:20 SGT 2020
+Search Value: Er Found Value: Er Tue Oct 27 11:58:20 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 11:58:20 SGT 2020
+Search Value: Mr Found Value: Mr Tue Oct 27 11:58:20 SGT 2020
+Search Value: Mrs Found Value: Mrs Tue Oct 27 11:58:20 SGT 2020
+Search Value: Ms Found Value: Ms Tue Oct 27 11:58:20 SGT 2020
+Search Value: Prof Found Value: Prof Tue Oct 27 11:58:20 SGT 2020
+Search Value:  Found Value:  Tue Oct 27 12:01:57 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Tue Oct 27 12:01:57 SGT 2020
+Search Value: Dr Found Value: Dr Tue Oct 27 12:01:57 SGT 2020
+Search Value: Er Found Value: Er Tue Oct 27 12:01:57 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 12:01:57 SGT 2020
+Search Value: Mr Found Value: Mr Tue Oct 27 12:01:57 SGT 2020
+Search Value: Mrs Found Value: Mrs Tue Oct 27 12:01:57 SGT 2020
+Search Value: Ms Found Value: Ms Tue Oct 27 12:01:57 SGT 2020
+Search Value: Prof Found Value: Prof Tue Oct 27 12:01:57 SGT 2020
+Search Value:  Found Value:  Tue Oct 27 13:23:42 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Tue Oct 27 13:23:42 SGT 2020
+Search Value: Dr Found Value: Dr Tue Oct 27 13:23:42 SGT 2020
+Search Value: Er Found Value: Er Tue Oct 27 13:23:42 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 13:23:42 SGT 2020
+Search Value: Mr Found Value: Mr Tue Oct 27 13:23:42 SGT 2020
+Search Value: Mrs Found Value: Mrs Tue Oct 27 13:23:42 SGT 2020
+Search Value: Ms Found Value: Ms Tue Oct 27 13:23:42 SGT 2020
+Search Value: Prof Found Value: Prof Tue Oct 27 13:23:42 SGT 2020
+Search Value:  Found Value:  Tue Oct 27 14:00:02 SGT 2020
+Search Value: A/Prof Found Value: A/Prof Tue Oct 27 14:00:02 SGT 2020
+Search Value: Dr Found Value: Dr Tue Oct 27 14:00:02 SGT 2020
+Search Value: Er Found Value: Er Tue Oct 27 14:00:02 SGT 2020
+Search Value: Mdm Found Value: Mdm Tue Oct 27 14:00:02 SGT 2020
+Search Value: Mr Found Value: Mr Tue Oct 27 14:00:02 SGT 2020
+Search Value: Mrs Found Value: Mrs Tue Oct 27 14:00:02 SGT 2020
+Search Value: Ms Found Value: Ms Tue Oct 27 14:00:02 SGT 2020
+Search Value: Prof Found Value: Prof Tue Oct 27 14:00:02 SGT 2020

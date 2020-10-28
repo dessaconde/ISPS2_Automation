@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectAllThenDeleteIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6997dfba-65b2-44d8-88d2-c85c4d122608</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4072a14-a1c9-4c2c-8ef8-793254b90994</id>
+      <masked>false</masked>
+      <name>nameToBeUsed</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bebda9a9-b094-4e89-a91c-66d6509a8592</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

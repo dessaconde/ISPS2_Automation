@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickDatePickerIcon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f39d1ec0-3e3a-44a3-a493-4273b193db91</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a286e095-36cf-40f4-a51b-9f91d9139ad3</id>
+      <masked>false</masked>
+      <name>Index</name>
+   </variable>
+</TestCaseEntity>

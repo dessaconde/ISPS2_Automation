@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SpinnerDownIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b2b7758-1453-4cc8-b296-78140ebcaf55</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>183c7129-f5fa-4e00-b637-1a527fc0bd4b</id>
+      <masked>false</masked>
+      <name>InputName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>8778e5fa-8d4d-47a0-b375-0ff7847f4b9c</id>
+      <masked>false</masked>
+      <name>nmIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a4493636-ccb7-4691-8d6f-ba09297cd3dd</id>
+      <masked>false</masked>
+      <name>indexUp</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>22fd3957-f779-4a98-a096-98288dba28df</id>
+      <masked>false</masked>
+      <name>itr</name>
+   </variable>
+</TestCaseEntity>
